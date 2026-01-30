@@ -23,23 +23,23 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-name="AlvinChannelTV.az" group-title="AZERBAYCAN YAYINLAR",Alvin Channel TV (360p) [Not 24/7]
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:-1 tvg-name="Arb.az" tvg-logo="https://www.lyngsat.com/logo/corp/aa/arb_az_media_qrup.png" group-title="AZERBAYCAN YAYINLAR",ARB
+#EXTINF:-1 tvg-name="Arb.az" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arb_az.png" group-title="AZERBAYCAN YAYINLAR",ARB
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
-#EXTINF:-1 tvg-name="ARBGUNES.az" tvg-logo="https://www.lyngsat.com/logo/corp/aa/arb_az_media_qrup.png" group-title="AZERBAYCAN YAYINLAR",ARB Gunes
+#EXTINF:-1 tvg-name="ARBGUNES.az" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arb-gunes.png" group-title="AZERBAYCAN YAYINLAR",ARB Gunes
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:-1 tvg-name="AzstarTV.az" group-title="AZERBAYCAN YAYINLAR",Azstar TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1 tvg-name="BAKUTV.az" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baku-tv-az.svg" group-title="AZERBAYCAN YAYINLAR",Baku TV (720p)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
-#EXTINF:-1 tvg-name="DUNYATV.az" group-title="AZERBAYCAN YAYINLAR",Dunya TV
+#EXTINF:-1 tvg-name="DUNYATV.az" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunya-tv-az.png" group-title="AZERBAYCAN YAYINLAR",Dunya TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
 #EXTINF:-1 tvg-name="KANALSTV.az" group-title="AZERBAYCAN YAYINLAR",Kanal S TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
-#EXTINF:-1 tvg-name="SPACETV.az" group-title="AZERBAYCAN YAYINLAR",Space TV
+#EXTINF:-1 tvg-name="SPACETV.az" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space-tv-az.png" group-title="AZERBAYCAN YAYINLAR",Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF:-1 tvg-name="VIPTV.az" group-title="AZERBAYCAN YAYINLAR",VIP TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
-#EXTINF:-1 tvg-name="XEZERTV.az" group-title="AZERBAYCAN YAYINLAR",Xezer TV
+#EXTINF:-1 tvg-name="XEZERTV.az" tvg-logo="https://www.lyngsat.com/logo/tv/xx/xezer-xeber-az.png" group-title="AZERBAYCAN YAYINLAR",Xezer TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:-1 group-title="AZERBAYCAN YAYINLAR",Ismayilli TV
 https://a8.radyotelekom.com.tr:3738/stream/play.m3u8
