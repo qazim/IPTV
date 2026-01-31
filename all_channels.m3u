@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml"
 #EXTINF:-1 group-title="Azeri-yerli",AZ TV
 http://149.255.152.199/aztv.m3u8?user=37076&token=bd72488d90d1762e7bddc0441c62119b&e=1769945789&bands=796.6096&sid=coder_53
 #EXTINF:-1 group-title="Azeri-yerli",Medeniyet TV
@@ -51,3 +51,4 @@ https://autopilot.catcast.tv/mobile.m3u8?channel_id=48694&token=e36aaad888f2daf7
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=48076&token=a5b65fbdae389c3c07524f920829501e&server=v2.catcast.tv
 #EXTINF:-1 group-title="Music",turkuzplay1
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=48591&token=9cb347fe5836162ff40585b942744919&server=v2.catcast.tv
+
