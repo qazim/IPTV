@@ -90,4 +90,5 @@ def main():
     print(f"Каналы распределены по группам: '{group_1}' и '{group_2}'")
 
 if __name__ == "__main__":
+
     main()
