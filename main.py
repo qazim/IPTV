@@ -49,6 +49,7 @@ def main():
             main_config = json.load(f)
         
         for site in main_config:
+            group_1 = site['name'] 
             for channel in tqdm(site["channels"], desc=f"Сайт: {site['slug']}"):
                 url = site["url"]
                 for var in channel["variables"]:
@@ -92,3 +93,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
