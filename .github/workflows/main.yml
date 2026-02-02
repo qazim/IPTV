@@ -3,7 +3,7 @@ name: run main.py
 
 on:
   schedule:
-    - cron: '0 */2 * * *'   # каждые 2 часа
+    - cron: '0 */4 * * *'   # каждые 4 часа
   workflow_dispatch:       # ручной запуск (очень полезно)
 
 permissions:
