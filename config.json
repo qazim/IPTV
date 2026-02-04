@@ -47,15 +47,6 @@
                 ]
             },
             {
-                "name": "Sehiyye TV",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "sthv"
-                    }
-                ]
-            },
-            {
                 "name": "Space TV",
                 "variables": [
                     {
@@ -151,15 +142,6 @@
                     {
                         "name": "CHANNEL_NAME",
                         "value": "vip"
-                    }
-                ]
-            },
-            {
-                "name": "MTV Azerbaycan",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "mtvazerbaycan"
                     }
                 ]
             },
