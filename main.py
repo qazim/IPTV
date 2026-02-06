@@ -39,7 +39,11 @@ def main():
         return
 
     # Заголовок плейлиста
-    final_playlist = ["#EXTM3U\n"]
+    final_playlist = [""]
+    #final_playlist.append(f"\n")
+    with open('TurkAzeri.m3u', "r", encoding="utf-8") as f:
+        for line in f:
+            final_playlist.append(line)
     
     # --- 1. Обработка ОСНОВНОГО конфига (Группа: Azeri-yerli) ---
     group_1 = "Azeri-yerli"
@@ -93,4 +97,5 @@ def main():
 if __name__ == "__main__":
 
     main()
+
 
