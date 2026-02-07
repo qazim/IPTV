@@ -23,10 +23,6 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 group-title="Azeri-yerli",Ismayilli TV
 https://a8.radyotelekom.com.tr:3738/stream/play.m3u8
-#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://i.imgur.com/wlfyj5l.png" group-title="Ulusal - Yurt Disi",Kanal 7 Avrupa
-https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png",FLASH HABER
-https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png" group-title="Eglence",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png" group-title="Eglence",TEVE2
@@ -81,15 +77,11 @@ https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png" group-title="Haber",DHA Canli
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png" group-title="Ekonomi",Bloomberg HT
-https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png" group-title="Eglence",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="Yurt Disi",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="http://assets.tvcdn.net/53dd1d5f-aa72-4bea-91d0-8c2d00783367.png" group-title="Yurt Disi",TRT Avaz
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="Belgesel",TRT Belgesel
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="Eglence",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Ciftci.tr" tvg-logo="https://i.imgur.com/CLzP4vL.png" group-title="Eglence",Ciftci TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
@@ -97,16 +89,6 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 tvg-id="MELTEM.tr" tvg-logo="https://i.imgur.com/C3m6w5S.png" group-title="Eglence",Meltem TV
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
-#EXTINF:-1 tvg-id="DIYANET.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/512px-Diyanet_TV_logo.svg.png" group-title="Dini",DIYANET TV
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DOST.tr" tvg-logo="https://dosttv.com/wp-content/uploads/2022/02/dost_logo.png" group-title="Dini",DOST TV
-https://dost.stream.emsal.im/tv/live.m3u8
-#EXTINF:-1 tvg-id="Semerkand.tr" tvg-logo="https://i.imgur.com/UVGGrQd.png" group-title="Dini",Semarkand TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Rehber.tr" tvg-logo="https://i.imgur.com/fpkaw78.png" group-title="Dini",Rehber TV
-https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Lalegul.tr" tvg-logo="https://i.imgur.com/wwCysFs.png" group-title="Dini",Lalegul TV
-https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="Spor",TRT Spor
 http://162.212.179.33:80/dvrfl05/gin-trtspor/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png" group-title="Spor",TRT Spor Yildiz
@@ -155,12 +137,8 @@ https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=kralpoptv_web
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="Cocuk",TRT Cocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Cocuk",TRT Diyanet Cocuk
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTEbaTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRT_EBA_TV_logo.svg/400px-TRT_EBA_TV_logo.svg.png" group-title="Cocuk",TRT EBA TV
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="BabyTV.tr" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="Cocuk - Yurt Disi",Baby TV
-https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-id="PersianaTurkiye.tr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-turkiye-fr.png" group-title="Yurt Disi",Persiana Turkiye
 https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CAN.tr" tvg-logo="https://i.imgur.com/oIMtuwB.png" group-title="Yurt Disi",CAN TV
@@ -176,35 +154,35 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Eglence", BEGEN TV
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #EXTINF:-1 group-title="Azeri-yerli",Medeniyet TV
-http://149.255.152.199/medeniyet.m3u8?user=37076&token=85b66c51513513e736a84410b88b608b&e=1770539169&bands=2096&sid=coder_52
+http://149.255.152.199/medeniyet.m3u8?user=37076&token=3b9eeb271a04f7ed0c7b55c90b31ec58&e=1770554328&bands=2096&sid=coder_52
 #EXTINF:-1 group-title="Azeri-yerli",Ictimai TV
-http://149.255.152.199/ictimai.m3u8?user=37076&token=d211da422323eaaf60828c110f9eb9f5&e=1770539171&bands=2096&sid=coder_52
+http://149.255.152.199/ictimai.m3u8?user=37076&token=30832a8f2cd867261a51e0a08d75eb39&e=1770554330&bands=2096&sid=coder_52
 #EXTINF:-1 group-title="Azeri-yerli",Xezer TV
-http://149.255.152.199/xazer.m3u8?user=37076&token=6d3b6bd645e15073c73326937e15ad6a&e=1770539175&bands=796.2096&sid=coder_53
+http://149.255.152.199/xazer.m3u8?user=37076&token=ff0c756a6d9cb250ee02b21a325f1439&e=1770554333&bands=796.2096&sid=coder_53
 #EXTINF:-1 group-title="Azeri-yerli",Space TV
-http://149.255.152.199/space.m3u8?user=37076&token=d6f6e7f38ef0518901411efa2e75dbf8&e=1770539176&bands=796.6096&sid=coder_75
+http://149.255.152.199/space.m3u8?user=37076&token=ed6449e127c395f6fa457776d4dac02a&e=1770554335&bands=796.6096&sid=coder_75
 #EXTINF:-1 group-title="Azeri-yerli",CBC
-http://149.255.152.199/cbcaz.m3u8?user=37076&token=67757ab0ebcb6b60784b06f8b5f47b27&e=1770539178&bands=796.2096&sid=coder_52
+http://149.255.152.199/cbcaz.m3u8?user=37076&token=0111b49488c9d8cc857269fac8fa3a00&e=1770554337&bands=796.2096&sid=coder_52
 #EXTINF:-1 group-title="Azeri-yerli",Dunya TV
-http://149.255.152.199/dunya.m3u8?user=37076&token=f401a7474f38d8fea68a6678488d5d85&e=1770539180&bands=796.2096&sid=coder_53
+http://149.255.152.199/dunya.m3u8?user=37076&token=41b7b104e1821531a5cb982bcccec52a&e=1770554339&bands=796.2096&sid=coder_53
 #EXTINF:-1 group-title="Azeri-yerli",ARB
-http://149.255.152.199/arbhd.m3u8?user=37076&token=cdb81102e9cc73da2344a6e442caba3c&e=1770539182&bands=796.6096&sid=coder_62
+http://149.255.152.199/arbhd.m3u8?user=37076&token=a7936c5f1be2d5d23d2ad17a2158bbde&e=1770554340&bands=796.6096&sid=coder_62
 #EXTINF:-1 group-title="Azeri-yerli",ARB 24
-http://149.255.152.199/arb24.m3u8?user=37076&token=80a29e446ea0248dae8d3216b210802a&e=1770539184&bands=796.2096&sid=coder_51
+http://149.255.152.199/arb24.m3u8?user=37076&token=316e01721071c4ce391dbc2e938a0e96&e=1770554342&bands=796.2096&sid=coder_51
 #EXTINF:-1 group-title="Azeri-yerli",ARB Gunes
-http://149.255.152.199/arbgunes.m3u8?user=37076&token=dc472da5a3db2fb3f080c912d8447622&e=1770539186&bands=796.2096&sid=coder_52
+http://149.255.152.199/arbgunes.m3u8?user=37076&token=7bd269e544b63fd490b2feeffb092fb7&e=1770554344&bands=796.2096&sid=coder_52
 #EXTINF:-1 group-title="Azeri-yerli",Kanal S
-http://149.255.152.199/kanals.m3u8?user=37076&token=5b20e130b6e5fc380f992d0a11285bd0&e=1770539187&bands=796.2096.6096&sid=coder_57
+http://149.255.152.199/kanals.m3u8?user=37076&token=0f616fc1d76741f2904f0be95677a5b5&e=1770554346&bands=796.2096.6096&sid=coder_57
 #EXTINF:-1 group-title="Azeri-yerli",MCJ TV Shop
-http://149.255.152.199/mcj.m3u8?user=37076&token=6459add35023d1d9233362c08fc83a4e&e=1770539189&bands=796.2096.6096&sid=coder_66
+http://149.255.152.199/mcj.m3u8?user=37076&token=4d9dd3dcc53e55b45a03a082527d1a8c&e=1770554348&bands=796.2096.6096&sid=coder_66
 #EXTINF:-1 group-title="Azeri-yerli",TMB Azerbaycan
-http://149.255.152.199/tmbaz.m3u8?user=37076&token=2200bd007f9b56368d426dbdb01a44dc&e=1770539191&bands=864.2096&sid=coder_40
+http://149.255.152.199/tmbaz.m3u8?user=37076&token=ecae0bb5294af0b5484573c11b705e8d&e=1770554350&bands=864.2096&sid=coder_40
 #EXTINF:-1 group-title="Azeri-yerli",Baku TV
-http://149.255.152.199/bakutv.m3u8?user=37076&token=ea43b652604ee5023ccfca58fb9269a2&e=1770539193&bands=756.2056.6056&sid=coder_57
+http://149.255.152.199/bakutv.m3u8?user=37076&token=30e7d12da6bfdb19842fbd46b928bc67&e=1770554352&bands=756.2056.6056&sid=coder_57
 #EXTINF:-1 group-title="Azeri-yerli",VIP
-http://149.255.152.199/vip.m3u8?user=37076&token=ec5a854cbd36eb5fa7f695e3d055637c&e=1770539195&bands=796.2096&sid=coder_52
+http://149.255.152.199/vip.m3u8?user=37076&token=60cb9c9f4c8f26a2f76c936b3780a046&e=1770554354&bands=796.2096&sid=coder_52
 #EXTINF:-1 group-title="Azeri-yerli",TMB TV
-http://149.255.152.199/tmbtv.m3u8?user=37076&token=a40983581545ee27b3383898655e08af&e=1770539197&bands=924.2128&sid=coder_52
+http://149.255.152.199/tmbtv.m3u8?user=37076&token=7dc28a96f16c0551045d4fdb36bec3b4&e=1770554355&bands=924.2128&sid=coder_52
 #EXTINF:-1 group-title="Iran-Music",T2-TV
 https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Iran-Music",Sun-Music
@@ -221,8 +199,6 @@ https://corsply-lw732ndpe2a5z.cfpass1.workers.dev/?url=https://s6.hopslan.com/zd
 https://corsply-lw732ndpe2a5z.cfpass1.workers.dev/?url=https://s6.hopslan.com/voxz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ParsaTV",Sixx
 https://corsply-lw732ndpe2a5z.cfpass1.workers.dev/?url=https://s6.hopslan.com/sixX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Music",alvin-music
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=39199&token=66377518de5b59ef185c93415945315e&server=v2.catcast.tv
 #EXTINF:-1 group-title="Music",alvin-ovcu
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=39200&token=2a0515bf44447ff20a27f71c1d783e9d&server=v2.catcast.tv
 #EXTINF:-1 group-title="Music",kanal-65
@@ -239,5 +215,7 @@ https://autopilot.catcast.tv/mobile.m3u8?channel_id=48591&token=fbfeb6564bb7fd3c
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=38617&token=e2973807248a960d9d391a5b4aad1e3a&server=kino-1.catcast.tv
 #EXTINF:-1 group-title="Music",Car-video
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50437&token=745962c1785b993530eb53d7e4bcad60&server=v2.catcast.tv
+#EXTINF:-1 group-title="Music",Strax-TV
+https://s.catcast.tv/content/34816/index.m3u8?token=930c882b8884b5a5aa53115799117c8e
 #EXTINF:-1 group-title="Music",KomediAz
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50370&token=2fe8b0c5d659fba80126d0e80f95196f&server=v2.catcast.tv
