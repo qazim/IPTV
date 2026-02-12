@@ -155,3 +155,5 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #EXTINF:-1 group-title="Eglence", Super Turk
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+#EXTINF:-1 group-title="Eglence", Itaat film
+https://www.dropbox.com/scl/fi/7hg6trhoe7vl7jp4rjazc/itaat.mp4?rlkey=15psfsj5py4u227tt6pzdluth&st=teiso9hq&dl=0
