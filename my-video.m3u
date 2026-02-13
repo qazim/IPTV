@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTMYVOD: true
-
-#EXTINF:-1 group-title="Turk-dublyaj" tvg-logo="https://www.dropbox.com/scl/fi/pxj1kkstkh0wk62acium6/itaat.JPG?rlkey=xnb4luk6zc5kvsssize3tq69g&st=6wnjo3iu&raw=1", Itaat filmi
+#EXTINF:-1 group-title="Turk-dublyaj" tvg-logo="https://bit.ly/4kyFGUh" , Itaat filmi
 https://www.dropbox.com/scl/fi/7hg6trhoe7vl7jp4rjazc/itaat.mp4?rlkey=15psfsj5py4u227tt6pzdluth&st=f4tw35q6&raw=1
-
-#EXTINF:-1 group-title="Turk-dublyaj" tvg-logo="https://www.dropbox.com/scl/fi/1nyqzx6s9oezzbbde2aa7/Silahshorler.JPG?rlkey=zock3hr1ezbp9c6m0113kbwmg&st=kkntj74s&raw=1", silahshor
+#EXTINF:-1 group-title="Turk-dublyaj" tvg-logo="https://bit.ly/silahshorler-img", silahshor
 https://dl.springsfern.in/dl/AAAAAFCIyvFIcaR-AACV7g/6UiDZBItMJ7dpKAMHB-WpCQ9DIPKoi-By205d49GBTY
 
