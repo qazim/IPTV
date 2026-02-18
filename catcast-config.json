@@ -32,10 +32,6 @@
 		"slug": "kino-1"
 	},
 	{
-		"id": "50511",
-		"slug": "Car-video"
-	},
-	{
 		"id": "34816",
 		"slug": "Strax-TV"
 	},
@@ -46,6 +42,10 @@
 	{
 		"id": "41327",
 		"slug": "Detektiv-TV"
+	},
+	{
+		"id": "40102",
+		"slug": "Fenix SSSR"
 	},
 	{
 		"id": "50372",
