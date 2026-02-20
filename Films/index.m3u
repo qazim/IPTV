@@ -1,14 +1,16 @@
 #EXTM3U
 #EXTMYVOD: true
-#EXTINF:-1  , Boon-2023
+#EXTINF:-1 group-title="Gerilim", Boon-2023
 https://qazim.github.io/IPTV/Films/Boon.m3u8
-#EXTINF:-1 , The Getback
+#EXTINF:-1 group-title="Gerilim", The Getback
 https://qazim.github.io/IPTV/Films/Getback.m3u8
-#EXTINF:-1 , Access-2025
+#EXTINF:-1 group-title="Gerilim", Access-2025
 https://qazim.github.io/IPTV/Films/Access.m3u8
-#EXTINF:-1 , V.I.P-2017
+#EXTINF:-1 group-title="Gerilim", V.I.P-2017
 https://qazim.github.io/IPTV/Films/V.I.P-2017.m3u8
 #EXTINF:-1 group-title="Gerilim", The Bad Shepherd 2024
 https://qazim.github.io/IPTV/Films/The_Bad_Shepherd.m3u8
 #EXTINF:-1 group-title="Gerilim", Wake Up Dead Man 2025 
 https://qazim.github.io/IPTV/Films/Bicaklar_cekildi.m3u8
+#EXTINF:-1 group-title="Gerilim", Knives Out 2019 
+https://qazim.github.io/IPTV/Films/Bicaklar_cekildi_1.m3u8
