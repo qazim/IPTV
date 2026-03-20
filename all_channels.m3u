@@ -69,24 +69,36 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #EXTINF:-1 group-title="Eglence", Super Turk
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+#EXTINF:-1 group-title="Azeri-yerli",Medeniyet TV
+http://149.255.152.199/medeniyet.m3u8?user=37076&token=467664cf3b5f0f88475143791479219e&e=1774054849&bands=2096&sid=coder_52
 #EXTINF:-1 group-title="Azeri-yerli",Ictimai TV
-http://149.255.152.199/ictimai.m3u8?user=37076&token=0b1f7745176b0c1e17be7cd6f71e5cc2&e=1774041855&bands=2096&sid=coder_52
+http://149.255.152.199/ictimai.m3u8?user=37076&token=e10b1bbdd51ef5067e5ee1a210c034b1&e=1774054851&bands=2096&sid=coder_52
 #EXTINF:-1 group-title="Azeri-yerli",Xezer TV
-http://149.255.152.199/xazer.m3u8?user=37076&token=03998745b1a18e62f666a450dc3d205a&e=1774041859&bands=796.2096&sid=coder_53
+http://149.255.152.199/xazer.m3u8?user=37076&token=a8cdccd6cc2d44fa97b1b23627401e0a&e=1774054855&bands=796.2096&sid=coder_53
 #EXTINF:-1 group-title="Azeri-yerli",Space TV
-http://149.255.152.199/space.m3u8?user=37076&token=5087ea03b00bdc18699165a7dbd56012&e=1774041861&bands=796.6096&sid=coder_75
+http://149.255.152.199/space.m3u8?user=37076&token=b6d45f9f2da5ec7cbc3e8065c4fde916&e=1774054857&bands=796.6096&sid=coder_75
 #EXTINF:-1 group-title="Azeri-yerli",CBC
-http://149.255.152.199/cbcaz.m3u8?user=37076&token=e4dfee7c1deeb3200bc2eb50fa4d20fc&e=1774041862&bands=796.2096&sid=coder_52
+http://149.255.152.199/cbcaz.m3u8?user=37076&token=ef66df015befd1c8e1e1d56b1f81a392&e=1774054859&bands=796.2096&sid=coder_52
 #EXTINF:-1 group-title="Azeri-yerli",Dunya TV
-http://149.255.152.199/dunya.m3u8?user=37076&token=4934a4af23011fe7c6e16b122b086963&e=1774041864&bands=796.2096&sid=coder_53
+http://149.255.152.199/dunya.m3u8?user=37076&token=6ebd84492c4d47eb6f3996057da10527&e=1774054861&bands=796.2096&sid=coder_53
 #EXTINF:-1 group-title="Azeri-yerli",ARB
-http://149.255.152.199/arbhd.m3u8?user=37076&token=14089594627b8aeb7462b6924673e194&e=1774041866&bands=796.6096&sid=coder_62
+http://149.255.152.199/arbhd.m3u8?user=37076&token=4276d4bfb53baf9f0b9fb53414836882&e=1774054863&bands=796.6096&sid=coder_62
 #EXTINF:-1 group-title="Azeri-yerli",ARB 24
-http://149.255.152.199/arb24.m3u8?user=37076&token=fcdadec3737258cbb92d0e7ec858475f&e=1774041868&bands=796.2096&sid=coder_51
+http://149.255.152.199/arb24.m3u8?user=37076&token=5de7f78ba12dd4a4c823cc5b40db90b4&e=1774054865&bands=796.2096&sid=coder_51
 #EXTINF:-1 group-title="Azeri-yerli",ARB Gunes
-http://149.255.152.199/arbgunes.m3u8?user=37076&token=c97c7321b88506165d04d31a0ccdbf1a&e=1774041870&bands=796.2096&sid=coder_52
+http://149.255.152.199/arbgunes.m3u8?user=37076&token=d4beacaa9c443850098aa46fa1212d6d&e=1774054867&bands=796.2096&sid=coder_52
 #EXTINF:-1 group-title="Azeri-yerli",Kanal S
-http://149.255.152.199/kanals.m3u8?user=37076&token=8b21c4ec48d7ba5e9a7ae97a63b62edf&e=1774041871&bands=796.2096.6096&sid=coder_57
+http://149.255.152.199/kanals.m3u8?user=37076&token=ffcb21304a14e42bd1489724d896bbc2&e=1774054868&bands=796.2096.6096&sid=coder_57
+#EXTINF:-1 group-title="Azeri-yerli",MCJ TV Shop
+http://149.255.152.199/mcj.m3u8?user=37076&token=0fb4de813e1f08fabf00b3ceb24834c6&e=1774054870&bands=796.2096.6096&sid=coder_66
+#EXTINF:-1 group-title="Azeri-yerli",TMB Azerbaycan
+http://149.255.152.199/tmbaz.m3u8?user=37076&token=1a88c507742279e96e5c2fee7151c5cb&e=1774054872&bands=864.2096&sid=coder_40
+#EXTINF:-1 group-title="Azeri-yerli",Baku TV
+http://149.255.152.199/bakutv.m3u8?user=37076&token=5d48885ca4f025e8c62805f27462ffaa&e=1774054874&bands=756.2056.6056&sid=coder_57
+#EXTINF:-1 group-title="Azeri-yerli",VIP
+http://149.255.152.199/vip.m3u8?user=37076&token=f34689347a4a5eb5a64a8e5b80f7e541&e=1774054876&bands=796.2096&sid=coder_52
+#EXTINF:-1 group-title="Azeri-yerli",TMB TV
+http://149.255.152.199/tmbtv.m3u8?user=37076&token=8ca3ec922f60cb6e0466f51a2085399c&e=1774054878&bands=924.2128&sid=coder_52
 #EXTINF:-1 group-title="Iran-Music",T2-TV
 https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Iran-Music",Sun-Music
