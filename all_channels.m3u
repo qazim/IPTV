@@ -65,6 +65,8 @@ http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1 group-title="Eglence", SDM TV
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Eglence", Cine+
+http://cineplusyesilcam.streams-supersatforum.workers.dev/index.m3u8 
 #EXTINF:-1 group-title="Eglence", BEGEN TV
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #EXTINF:-1 group-title="Eglence", Super Turk
