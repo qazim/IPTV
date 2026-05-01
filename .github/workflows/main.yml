@@ -1,5 +1,5 @@
 
-name: run main.py
+name: run new_main.py
 
 on:
   schedule:
