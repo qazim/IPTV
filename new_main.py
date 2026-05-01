@@ -192,10 +192,10 @@ def main():
         print(f"\n{catcast_path} tapılmadı, keçilir.")
 
     # --- 3. Faylı yaz ---
-    with open("New_turk.m3u", "w", encoding="utf-8") as f:
+    with open("all_channels.m3u", "w", encoding="utf-8") as f:
         f.writelines(final_playlist)
 
-    print(f"\n✓ Hazır! 'New_turk.m3u' yaradıldı.")
+    print(f"\n✓ Hazır! 'all_channels.m3u' yaradıldı.")
 
 
 if __name__ == "__main__":
