@@ -29,8 +29,8 @@ jobs:
           pip install -r requirements.txt
 
       - name: Execute script
-        run: python main.py config.json
-
+        run: python new_main.py config_new.json
+        
       - name: Commit and push files
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
