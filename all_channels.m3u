@@ -80,115 +80,115 @@ https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="Eglence", Sirus TV
 http://siriustv.streams-supersatforum.workers.dev/siriustvhd.m3u8 
-#EXTINF:-1 group-title="Turk ulusal",Kanal D
+#EXTINF:-1 group-title="Turk yeni",Kanal D
 https://cdn504.canlitv.me/kanald.m3u8?tkn=sRsAvp_k3rEqvzPY0DqROA&tms=1777658506&hst=www.canlitv.me&ip=46.32.179.107&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=kanaldcanli-hd-izle
-#EXTINF:-1 group-title="Turk ulusal",Star TV
+#EXTINF:-1 group-title="Turk yeni",Star TV
 https://cdn502.canlitv.me/startv.m3u8?tkn=Lss9_kVsvWoFvmxroxLXEA&tms=1777658507&hst=www.canlitv.me&ip=46.32.179.107&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=startvcanlihdizle
-#EXTINF:-1 group-title="Turk ulusal",Show TV
+#EXTINF:-1 group-title="Turk yeni",Show TV
 https://cdn508.canlitv.me/showtv.m3u8?tkn=zLHEqG1E1h6F0TvCkaSw7w&tms=1777658508&hst=www.canlitv.me&ip=46.32.179.107&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=showtv-canli-izle
-#EXTINF:-1 group-title="Turk ulusal",ATV
+#EXTINF:-1 group-title="Turk yeni",ATV
 https://cdn508.canlitv.me/atv.m3u8?tkn=hkJZBgWQuIXoaE3O__EUDg&tms=1777658509&hst=www.canlitv.me&ip=46.32.179.107&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=atvcanliyayin-izle
-#EXTINF:-1 group-title="Turk ulusal",TRT 1
+#EXTINF:-1 group-title="Turk yeni",TRT 1
 https://cdn504.canlitv.me/trt1.m3u8?tkn=NqcJ6QaDneiSW_Wn1-_tkg&tms=1777658510&hst=www.canlitv.me&ip=46.32.179.107&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=trt1-canli-kesintisiz-izle
-#EXTINF:-1 group-title="Turk ulusal",Now TV
+#EXTINF:-1 group-title="Turk yeni",Now TV
 https://cdn509.canlitv.me/foxtv.m3u8?tkn=4GCCFZfV3UIMvO58sTx9Xw&tms=1777658511&hst=www.canlitv.me&ip=46.32.179.107&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=nowtvcanlihd
-#EXTINF:-1 group-title="Turk ulusal",Kanal 7
+#EXTINF:-1 group-title="Turk yeni",Kanal 7
 https://cdn501.canlitv.me/kanal7.m3u8?tkn=3KL3qRjuqdt2NLh43J-27A&tms=1777658512&hst=www.canlitv.me&ip=46.32.179.107&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=kanal7canli-hd-izle
-#EXTINF:-1 group-title="Turk ulusal",TV8
+#EXTINF:-1 group-title="Turk yeni",TV8
 https://cdn507.canlitv.me/tv8.m3u8?tkn=DFbVszYm0crUVrrGo0-yxg&tms=1777658513&hst=www.canlitv.me&ip=46.32.179.107&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=tv8canli-kesintisiz-izle
-#EXTINF:-1 group-title="Turk ulusal",NTV
+#EXTINF:-1 group-title="Turk yeni",NTV
 https://cdn508.canlitv.me/ntv.m3u8?tkn=Wp8sDvYxYhyRG8IxpkiOAA&tms=1777658514&hst=www.canlitv.me&ip=46.32.179.107&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=ntvcanlihd-izle
-#EXTINF:-1 group-title="Turk ulusal",A Haber
+#EXTINF:-1 group-title="Turk yeni",A Haber
 https://cdn509.canlitv.me/ahaber.m3u8?tkn=HGUZOQT5q7aMzXlWr8B0aA&tms=1777658516&hst=www.canlitv.me&ip=46.32.179.107&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=ahaber-canli
-#EXTINF:-1 group-title="Turk ulusal",TRT Spor
+#EXTINF:-1 group-title="Turk yeni",TRT Spor
 https://cdn506.canlitv.me/trtspor.m3u8?tkn=OXMqP39mOVygoae6Pwfqow&tms=1777658517&hst=www.canlitv.me&ip=46.32.179.107&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=trtsporcanli-izle
-#EXTINF:-1 group-title="Turk ulusal",TRT Haber
+#EXTINF:-1 group-title="Turk yeni",TRT Haber
 https://cdn504.canlitv.me/trthaber.m3u8?tkn=Hqwidn9x1LDB2-BXInhgeQ&tms=1777658518&hst=www.canlitv.me&ip=46.32.179.107&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=trthabercanli-hd
-#EXTINF:-1 group-title="Turk ulusal",Beyaz Tv
+#EXTINF:-1 group-title="Turk yeni",Beyaz Tv
 https://cdn501.canlitv.me/beyaztv.m3u8?tkn=PaLvO2CDpSNAqfHAi87Szg&tms=1777658519&hst=www.canlitv.me&ip=46.32.179.107&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=beyaztvcanli
-#EXTINF:-1 group-title="Turk ulusal",Dmax
+#EXTINF:-1 group-title="Turk yeni",Dmax
 https://cdn509.canlitv.me/dmax.m3u8?tkn=lki1YP-0kWlIVcRqqeLXmg&tms=1777658520&hst=www.canlitv.me&ip=46.32.179.107&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=dmax-canli-hd
-#EXTINF:-1 group-title="Turk ulusal",TCL
+#EXTINF:-1 group-title="Turk yeni",TCL
 https://cdn506.canlitv.me/tlctv.m3u8?tkn=fzO6xeszWsymCxnwJtTnwA&tms=1777658521&hst=www.canlitv.me&ip=46.32.179.107&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=tlctv-canli-hd
-#EXTINF:-1 group-title="Turk ulusal",TRT Belgesel
+#EXTINF:-1 group-title="Turk yeni",TRT Belgesel
 https://cdn900.canlitv.me/trtbelgesel.m3u8?tkn=1eJUcaelDLucHftbJNB8vA&tms=1777658522&hst=www.canlitv.me&ip=46.32.179.107&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=trtbelgesel-canli-izle
-#EXTINF:-1 group-title="Turk ulusal",TRT Spor Yildiz
+#EXTINF:-1 group-title="Turk yeni",TRT Spor Yildiz
 https://cdn507.canlitv.me/trtspor2.m3u8?tkn=YyZxKRnljrJYxFBkRazb5g&tms=1777658523&hst=www.canlitv.me&ip=46.32.179.107&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=trtsporyildiz-hd
-#EXTINF:-1 group-title="Turk ulusal",Saban Tv
+#EXTINF:-1 group-title="Turk yeni",Saban Tv
 https://cdn900.canlitv.me/sabantv.m3u8?tkn=YyZxKRnljrJYxFBkRazb5g&tms=1777658523&hst=www.canlitv.me&ip=46.32.179.107&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=saban-tv-hd
-#EXTINF:-1 group-title="Turk ulusal",A2 Tv
+#EXTINF:-1 group-title="Turk yeni",A2 Tv
 https://cdn503.canlitv.me/a2tv.m3u8?tkn=sO0IVEQQTWwJYLDyT1pM_A&tms=1777658524&hst=www.canlitv.me&ip=46.32.179.107&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=a2tv-canli-kesintisiz
-#EXTINF:-1 group-title="Turk ulusal",Halk Tv
+#EXTINF:-1 group-title="Turk yeni",Halk Tv
 https://cdn508.canlitv.me/halktv-master.m3u8?tkn=iAiTC6neIAKbBgDgx3qN2A&tms=1777658525&hst=www.canlitv.me&ip=46.32.179.107&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=halk-tv-canli-kesintisiz
-#EXTINF:-1 group-title="Turk ulusal",Sozcu Tv
+#EXTINF:-1 group-title="Turk yeni",Sozcu Tv
 https://cdn900.canlitv.me/sozcutv.m3u8?tkn=9kP6YDGhsunvGK05WQi3Lw&tms=1777658526&hst=www.canlitv.me&ip=46.32.179.107&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=sozcutvcanli-hd
 #EXTINF:-1 group-title="Azeri-yerli",Medeniyet TV
-http://149.255.152.199/medeniyet.m3u8?user=37076&token=85f1d4d46421b0770b5e7fb43fbd5ff8&e=1777731030&bands=2096&sid=coder_52
+http://149.255.152.199/medeniyet.m3u8?user=37076&token=81906918b30a6aef5c7ee8bff6cf510d&e=1777731617&bands=2096&sid=coder_52
 #EXTINF:-1 group-title="Azeri-yerli",Ictimai TV
-http://149.255.152.199/ictimai.m3u8?user=37076&token=fd6be4aef7fdea8c28ae74a9af0e2322&e=1777731032&bands=2096&sid=coder_52
+http://149.255.152.199/ictimai.m3u8?user=37076&token=f8ee42c6906501a4789e1c0a84e32076&e=1777731619&bands=2096&sid=coder_52
 #EXTINF:-1 group-title="Azeri-yerli",Xezer TV
-http://149.255.152.199/xazer.m3u8?user=37076&token=245e8e42762fee3e3f5c92bf3859c007&e=1777731036&bands=796.2096&sid=coder_53
+http://149.255.152.199/xazer.m3u8?user=37076&token=6c8830b960a0443f7f85671dd93d51a1&e=1777731623&bands=796.2096&sid=coder_53
 #EXTINF:-1 group-title="Azeri-yerli",Space TV
-http://149.255.152.199/space.m3u8?user=37076&token=28b5396b6a1a20de21cce2fb1a04cbde&e=1777731039&bands=796.6096&sid=coder_75
+http://149.255.152.199/space.m3u8?user=37076&token=908a8b6b59fd679bfc2b23219ccc9ce7&e=1777731627&bands=796.6096&sid=coder_75
 #EXTINF:-1 group-title="Azeri-yerli",CBC
-http://149.255.152.199/cbcaz.m3u8?user=37076&token=9e329cdb9ae9f8eb0e370043bd4eb8e9&e=1777731041&bands=796.2096&sid=coder_52
+http://149.255.152.199/cbcaz.m3u8?user=37076&token=cfc33e19abb95725cf2795a4d63f7b92&e=1777731629&bands=796.2096&sid=coder_52
 #EXTINF:-1 group-title="Azeri-yerli",Dunya TV
-http://149.255.152.199/dunya.m3u8?user=37076&token=5828182e96b17fea5a07c3abe7cea9e5&e=1777731042&bands=796.2096&sid=coder_53
+http://149.255.152.199/dunya.m3u8?user=37076&token=8bad5840c098dfd683c0145e060720e4&e=1777731631&bands=796.2096&sid=coder_53
 #EXTINF:-1 group-title="Azeri-yerli",ARB
-http://149.255.152.199/arbhd.m3u8?user=37076&token=f3bc1eb3bbd82c2bd6e90656f578d162&e=1777731044&bands=796.6096&sid=coder_62
+http://149.255.152.199/arbhd.m3u8?user=37076&token=de890e672c280d62f3feefdbdf286d8a&e=1777731633&bands=796.6096&sid=coder_62
 #EXTINF:-1 group-title="Azeri-yerli",ARB 24
-http://149.255.152.199/arb24.m3u8?user=37076&token=c5ba12ed76c2f0fa9768000e91be205b&e=1777731046&bands=796.2096&sid=coder_51
+http://149.255.152.199/arb24.m3u8?user=37076&token=ebe8fc82528fb8d370897598b883b65d&e=1777731635&bands=796.2096&sid=coder_51
 #EXTINF:-1 group-title="Azeri-yerli",ARB Gunes
-http://149.255.152.199/arbgunes.m3u8?user=37076&token=0413967722b096f924b223bdea09dec4&e=1777731047&bands=796.2096&sid=coder_52
+http://149.255.152.199/arbgunes.m3u8?user=37076&token=66c76f9912f40cdb9056da3881b70daa&e=1777731637&bands=796.2096&sid=coder_52
 #EXTINF:-1 group-title="Azeri-yerli",Kanal S
-http://149.255.152.199/kanals.m3u8?user=37076&token=14804d9b23f24b897dc5cf09f7b83c10&e=1777731049&bands=796.2096.6096&sid=coder_57
+http://149.255.152.199/kanals.m3u8?user=37076&token=04f382ba55152067865c447fcc72ea8e&e=1777731639&bands=796.2096.6096&sid=coder_57
 #EXTINF:-1 group-title="Azeri-yerli",MCJ TV Shop
-http://149.255.152.199/mcj.m3u8?user=37076&token=da2d4c9c6bc3e2413a58e4ad394d638f&e=1777731051&bands=796.2096.6096&sid=coder_66
+http://149.255.152.199/mcj.m3u8?user=37076&token=d3e47563005ef98921a7aae479921470&e=1777731641&bands=796.2096.6096&sid=coder_66
 #EXTINF:-1 group-title="Azeri-yerli",TMB Azerbaycan
-http://149.255.152.199/tmbaz.m3u8?user=37076&token=5b99bd40ce4e9dc8f5e380c7ec161c8d&e=1777731053&bands=864.2096&sid=coder_40
+http://149.255.152.199/tmbaz.m3u8?user=37076&token=dd4a245b5f60de07525c6febd699d1a9&e=1777731643&bands=864.2096&sid=coder_40
 #EXTINF:-1 group-title="Azeri-yerli",Baku TV
-http://149.255.152.199/bakutv.m3u8?user=37076&token=400e03ad913b2e997e75b3c45ee7fd57&e=1777731054&bands=756.2056.6056&sid=coder_57
+http://149.255.152.199/bakutv.m3u8?user=37076&token=de6d9e9e6d975e58c968f6c3def9b043&e=1777731645&bands=756.2056.6056&sid=coder_57
 #EXTINF:-1 group-title="Azeri-yerli",VIP
-http://149.255.152.199/vip.m3u8?user=37076&token=822b1efb55aa209c29d53d6e0023cc3b&e=1777731056&bands=796.2096&sid=coder_52
+http://149.255.152.199/vip.m3u8?user=37076&token=63da670ad5e398722ce9b9ff46a7d4e1&e=1777731647&bands=796.2096&sid=coder_52
 #EXTINF:-1 group-title="Azeri-yerli",MTV Azerbaycan
-http://149.255.152.199/mtvazerbaycan.m3u8?user=37076&token=0c4f61bcbd88d5a345dbf22e736c4638&e=1777731058&bands=796.6096&sid=coder_51
+http://149.255.152.199/mtvazerbaycan.m3u8?user=37076&token=6b2d7ba24f568f44f20e0dc5294300d5&e=1777731649&bands=796.6096&sid=coder_51
 #EXTINF:-1 group-title="Azeri-yerli",TMB TV
-http://149.255.152.199/tmbtv.m3u8?user=37076&token=3ccbb4a2e3cdb71304032e70e71dca28&e=1777731060&bands=924.2128&sid=coder_52
+http://149.255.152.199/tmbtv.m3u8?user=37076&token=598c96fca39b46b8ac570561573c055c&e=1777731651&bands=924.2128&sid=coder_52
 #EXTINF:-1 group-title="Turk ulusal",Kanal D
-https://cdn501.canlitv.me/kanald.m3u8?tkn=UK3km0jQngs3i9W8gCDwIg&tms=1777659061&hst=www.canlitv.me&ip=172.172.87.52&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=kanaldcanli-hd-izle
+https://cdn508.canlitv.me/kanald.m3u8?tkn=64sxAWWvtcTjT3TvXFaE9A&tms=1777659653&hst=www.canlitv.me&ip=52.159.244.71&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=kanaldcanli-hd-izle
 #EXTINF:-1 group-title="Turk ulusal",Star TV
-https://cdn501.canlitv.me/startv.m3u8?tkn=UK3km0jQngs3i9W8gCDwIg&tms=1777659061&hst=www.canlitv.me&ip=172.172.87.52&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=startvcanlihdizle
+https://cdn508.canlitv.me/startv.m3u8?tkn=bsQd7V1ftd81YxoBQCvAsA&tms=1777659654&hst=www.canlitv.me&ip=52.159.244.71&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=startvcanlihdizle
 #EXTINF:-1 group-title="Turk ulusal",Show TV
-https://cdn506.canlitv.me/showtv.m3u8?tkn=tWpO2g8kph0-F1S04yvQ5w&tms=1777659062&hst=www.canlitv.me&ip=172.172.87.52&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=showtv-canli-izle
+https://cdn508.canlitv.me/showtv.m3u8?tkn=3drQaMdbuCqO1_XRJ8fI3g&tms=1777659655&hst=www.canlitv.me&ip=52.159.244.71&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=showtv-canli-izle
 #EXTINF:-1 group-title="Turk ulusal",ATV
-https://cdn501.canlitv.me/atv.m3u8?tkn=4E8WujqWb3x3oknmi11m3A&tms=1777659063&hst=www.canlitv.me&ip=172.172.87.52&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=atvcanliyayin-izle
+https://cdn509.canlitv.me/atv.m3u8?tkn=qlKRYLub2ie-L3iCOhN-ww&tms=1777659656&hst=www.canlitv.me&ip=52.159.244.71&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=atvcanliyayin-izle
 #EXTINF:-1 group-title="Turk ulusal",Now TV
-https://cdn507.canlitv.me/foxtv.m3u8?tkn=guc5tFfz0KlZpjTXzwSPMg&tms=1777659064&hst=www.canlitv.me&ip=172.172.87.52&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=nowtvcanlihd
+https://cdn504.canlitv.me/foxtv.m3u8?tkn=L9Iqr34xPykAbpSvnGm5Pg&tms=1777659657&hst=www.canlitv.me&ip=52.159.244.71&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=nowtvcanlihd
 #EXTINF:-1 group-title="Turk ulusal",Kanal 7
-https://cdn501.canlitv.me/kanal7.m3u8?tkn=DeRKpboIXV5dZgOW43xWwg&tms=1777659065&hst=www.canlitv.me&ip=172.172.87.52&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=kanal7canli-hd-izle
+https://cdn501.canlitv.me/kanal7.m3u8?tkn=Ac4ruV3xe-D3xV9_W7eT1Q&tms=1777659658&hst=www.canlitv.me&ip=52.159.244.71&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=kanal7canli-hd-izle
 #EXTINF:-1 group-title="Turk ulusal",TV8
-https://cdn508.canlitv.me/tv8.m3u8?tkn=sNB3ul049w6sNi4WiED3YQ&tms=1777659066&hst=www.canlitv.me&ip=172.172.87.52&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=tv8canli-kesintisiz-izle
+https://cdn508.canlitv.me/tv8.m3u8?tkn=uxY8gD5_8SxWBZkchBsMRQ&tms=1777659659&hst=www.canlitv.me&ip=52.159.244.71&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=tv8canli-kesintisiz-izle
 #EXTINF:-1 group-title="Turk ulusal",NTV
-https://cdn501.canlitv.me/ntv.m3u8?tkn=sNB3ul049w6sNi4WiED3YQ&tms=1777659066&hst=www.canlitv.me&ip=172.172.87.52&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=ntvcanlihd-izle
+https://cdn509.canlitv.me/ntv.m3u8?tkn=uxY8gD5_8SxWBZkchBsMRQ&tms=1777659659&hst=www.canlitv.me&ip=52.159.244.71&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=ntvcanlihd-izle
 #EXTINF:-1 group-title="Turk ulusal",A Haber
-https://cdn502.canlitv.me/ahaber.m3u8?tkn=01lAPnMHZTD5WjpxtrRkLQ&tms=1777659067&hst=www.canlitv.me&ip=172.172.87.52&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=ahaber-canli
+https://cdn505.canlitv.me/ahaber.m3u8?tkn=QcInGv1Rz1sL3xBWrXYFcg&tms=1777659661&hst=www.canlitv.me&ip=52.159.244.71&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=ahaber-canli
 #EXTINF:-1 group-title="Turk ulusal",TRT Haber
-https://cdn507.canlitv.me/trthaber.m3u8?tkn=Ba6r785SonKqQILuyKMjaQ&tms=1777659068&hst=www.canlitv.me&ip=172.172.87.52&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=trthabercanli-hd
+https://cdn506.canlitv.me/trthaber.m3u8?tkn=TiztZ0yYA10ZH18DyF-FbQ&tms=1777659662&hst=www.canlitv.me&ip=52.159.244.71&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=trthabercanli-hd
 #EXTINF:-1 group-title="Turk ulusal",Beyaz Tv
-https://cdn502.canlitv.me/beyaztv.m3u8?tkn=TsKZtsYvrRN7wiHFfyzDgw&tms=1777659069&hst=www.canlitv.me&ip=172.172.87.52&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=beyaztvcanli
+https://cdn507.canlitv.me/beyaztv.m3u8?tkn=rG32tN99w3-ztnKdHvgabg&tms=1777659663&hst=www.canlitv.me&ip=52.159.244.71&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=beyaztvcanli
 #EXTINF:-1 group-title="Turk ulusal",Dmax
-https://cdn504.canlitv.me/dmax.m3u8?tkn=TsKZtsYvrRN7wiHFfyzDgw&tms=1777659069&hst=www.canlitv.me&ip=172.172.87.52&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=dmax-canli-hd
+https://cdn502.canlitv.me/dmax.m3u8?tkn=rG32tN99w3-ztnKdHvgabg&tms=1777659663&hst=www.canlitv.me&ip=52.159.244.71&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=dmax-canli-hd
 #EXTINF:-1 group-title="Turk ulusal",TCL
-https://cdn501.canlitv.me/tlctv.m3u8?tkn=7tLAPGLayB87wtxbYH4Mbw&tms=1777659070&hst=www.canlitv.me&ip=172.172.87.52&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=tlctv-canli-hd
+https://cdn503.canlitv.me/tlctv.m3u8?tkn=ad7LvVUJ1viv6-Ti1Zz5BA&tms=1777659664&hst=www.canlitv.me&ip=52.159.244.71&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=tlctv-canli-hd
 #EXTINF:-1 group-title="Turk ulusal",TRT Belgesel
-https://cdn900.canlitv.me/trtbelgesel.m3u8?tkn=7tLAPGLayB87wtxbYH4Mbw&tms=1777659070&hst=www.canlitv.me&ip=172.172.87.52&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=trtbelgesel-canli-izle
+https://cdn900.canlitv.me/trtbelgesel.m3u8?tkn=ad7LvVUJ1viv6-Ti1Zz5BA&tms=1777659664&hst=www.canlitv.me&ip=52.159.244.71&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=trtbelgesel-canli-izle
 #EXTINF:-1 group-title="Turk ulusal",TRT Spor Yildiz
-https://cdn509.canlitv.me/trtspor2.m3u8?tkn=ZU309mjLFbWBsatT9IwCfQ&tms=1777659071&hst=www.canlitv.me&ip=172.172.87.52&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=trtsporyildiz-hd
+https://cdn506.canlitv.me/trtspor2.m3u8?tkn=F_GCpG-l1tnof3Qum_nnkw&tms=1777659665&hst=www.canlitv.me&ip=52.159.244.71&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=trtsporyildiz-hd
 #EXTINF:-1 group-title="Turk ulusal",Saban Tv
-https://cdn900.canlitv.me/sabantv.m3u8?tkn=ZU309mjLFbWBsatT9IwCfQ&tms=1777659071&hst=www.canlitv.me&ip=172.172.87.52&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=saban-tv-hd
+https://cdn900.canlitv.me/sabantv.m3u8?tkn=F_GCpG-l1tnof3Qum_nnkw&tms=1777659665&hst=www.canlitv.me&ip=52.159.244.71&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=saban-tv-hd
 #EXTINF:-1 group-title="Turk ulusal",A2 Tv
-https://cdn507.canlitv.me/a2tv.m3u8?tkn=d5o0cDt7bkrdsPQGtOGOBA&tms=1777659072&hst=www.canlitv.me&ip=172.172.87.52&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=a2tv-canli-kesintisiz
+https://cdn504.canlitv.me/a2tv.m3u8?tkn=eS7GENyrXrq6UaTXdnLcDw&tms=1777659666&hst=www.canlitv.me&ip=52.159.244.71&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=a2tv-canli-kesintisiz
 #EXTINF:-1 group-title="Turk ulusal",Halk Tv
-https://cdn504.canlitv.me/halktv-master.m3u8?tkn=d5o0cDt7bkrdsPQGtOGOBA&tms=1777659072&hst=www.canlitv.me&ip=172.172.87.52&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=halk-tv-canli-kesintisiz
+https://cdn501.canlitv.me/halktv-master.m3u8?tkn=-Lo6HbriBexxDQ_xnBQlBg&tms=1777659667&hst=www.canlitv.me&ip=52.159.244.71&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=halk-tv-canli-kesintisiz
 #EXTINF:-1 group-title="Turk ulusal",Sozcu Tv
-https://cdn900.canlitv.me/sozcutv.m3u8?tkn=7bAcDxjLxR2skWuzr3-dcg&tms=1777659073&hst=www.canlitv.me&ip=172.172.87.52&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=sozcutvcanli-hd
+https://cdn900.canlitv.me/sozcutv.m3u8?tkn=-Lo6HbriBexxDQ_xnBQlBg&tms=1777659667&hst=www.canlitv.me&ip=52.159.244.71&utkn=df98a9e6548db4bdd65ffc642bd03e6d&ch=sozcutvcanli-hd
