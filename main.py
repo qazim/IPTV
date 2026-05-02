@@ -69,23 +69,24 @@ def main():
 
     # --- 2. Обработка CATCAST конфига (Группа: Music) ---
     group_2 = "Music"
-    catcast_config_path = "catcast-config.json"
+    catcast_config_path = "config-cat.json"
     if os.path.exists(catcast_config_path):
-        print(f"\n>>> Обработка Catcast конфига (Группа: {group_2})...")
+        print(f"\n>>> Processing Catcast config (Group: {group_2})...")
         try:
             with open(catcast_config_path, "r", encoding="utf-8") as f:
                 cat_config = json.load(f)
-            
-            for channel in tqdm(cat_config, desc="Catcast"):
-                stream = get_catcast_stream(channel.get("id"))
-                if stream:
+            for site in cat_config:
+                group_2 = site['name']  
+                for channel in tqdm(site["channels"], desc="Catcast"):
+                    stream = get_catcast_stream(channel.get("id"))
+                    if stream:
                     # Добавляем group-title="Music"
-                    final_playlist.append(f'#EXTINF:-1 group-title="{group_2}",{channel.get("slug")}\n')
-                    final_playlist.append(f"{stream}\n")
+                        final_playlist.append(f'#EXTINF:-1 group-title="{group_2}",{channel.get("slug")}\n')
+                        final_playlist.append(f"{stream}\n")
         except Exception as e:
-            print(f"Ошибка в Catcast конфиге: {e}")
+            print(f"Error Catcast config: {e}")
     else:
-        print(f"\nФайл {catcast_config_path} не найден.")
+        print(f"\nFile {catcast_config_path} Not found.")
 
     # --- 3. ЗАПИСЬ В ЕДИНЫЙ ФАЙЛ ---
     with open("all_channels.m3u", "w", encoding="utf-8") as f:
