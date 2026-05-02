@@ -23,8 +23,8 @@ http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 http://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" group-title="Ulusal",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 group-title="Azeri-yerli",Ismayilli TV
-https://a8.radyotelekom.com.tr:3738/stream/play.m3u8
+#EXTINF:-1 group-title="Azeri-yerli",Yansima TV
+https://azerbaycan.biz-az.workers.dev/ysmtvmedya.m3u8
 #EXTINF:-1 tvg-id="TV100.tr" tvg-logo="http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png" group-title="Ulusal",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="http://assets.tvcdn.net/fbaaa75c-0a2d-4ed6-b498-d32a59ddb899.png" group-title="Ulusal",TRT Turk
