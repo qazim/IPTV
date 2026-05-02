@@ -50,18 +50,20 @@ def x34fcag3(encoded):
 
 
 def get_canlitv_stream(channel_slug):
-    """canlitv.me-dən m3u8 linkini alır"""
+    session = requests.Session()
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
-                      '(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
         'Accept-Language': 'tr-TR,tr;q=0.9,en;q=0.8',
     }
 
     try:
-        # Addım 1: Ana səhifədən security token al
+        # Addım 0: Ana səhifə — cookie al
+        session.get('https://www.canlitv.me/', headers=headers, timeout=15)
+
+        # Addım 1: Kanal səhifəsi — security token al
         main_url = f'https://www.canlitv.me/live/{channel_slug}'
-        r = requests.get(main_url, headers=headers, timeout=15)
+        r = session.get(main_url, headers=headers, timeout=15)
         if r.status_code != 200:
             return None
 
@@ -70,34 +72,29 @@ def get_canlitv_stream(channel_slug):
             return None
         security = security_match.group(1)
 
-        # Addım 2: geolive.php-dən ulke dəyişənini al
+        # Addım 2: geolive.php
         geo_url = f'https://www.canlitv.me/geolive.php?kanal={channel_slug}&security={security}'
-        headers['Referer'] = main_url
-        r2 = requests.get(geo_url, headers=headers, timeout=15)
+        headers2 = {**headers, 'Referer': main_url}
+        session.get(geo_url, headers=headers2, timeout=15)
 
-        ulke_match = re.search(r'tkslast\s*=\s*"([^"]+)"', r2.text)
+        ulke_match = re.search(r'tkslast\s*=\s*"([^"]+)"', r.text)
         ulke = ulke_match.group(1) if ulke_match else 'AZ'
 
-        # Addım 3: yayin.php-dən şifrəli linki al
-        yayin_url = (f'https://www.canlitv.me/yayin.php?kanal={channel_slug}'
-                     f'&ulke={ulke}&tkslast={ulke}')
-        headers['Referer'] = geo_url
-        r3 = requests.get(yayin_url, headers=headers, timeout=15)
+        # Addım 3: yayin.php — cookie ilə
+        yayin_url = f'https://www.canlitv.me/yayin.php?kanal={channel_slug}&ulke={ulke}&tkslast={ulke}'
+        headers3 = {**headers, 'Referer': geo_url}
+        r3 = session.get(yayin_url, headers=headers3, timeout=15)
 
-        # Addım 4: Şifrəli linki tap
+        # Addım 4: şifrəni aç
         encoded_match = re.search(r"file\s*:\s*'(\d+Äx\|Xf\|x[^']+)'", r3.text)
         if not encoded_match:
-            # Alternativ: birbaşa m3u8 linki ola bilər
             direct = re.findall(r'https?://[^\s"\'<>]+\.m3u8[^\s"\'<>]*', r3.text)
             return direct[0] if direct else None
 
-        # Addım 5: Deşifrə et
-        encoded = encoded_match.group(1)
-        return x34fcag3(encoded)
+        return x34fcag3(encoded_match.group(1))
 
     except Exception as e:
         return None
-
 
 # ============================================================
 # Funksiya 3: Catcast API
