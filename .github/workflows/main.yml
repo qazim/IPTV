@@ -1,5 +1,5 @@
 
-name: run new_main.py
+name: run main.py
 
 on:
   schedule:
@@ -29,7 +29,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Execute script
-        run: python new_main.py config_new.json
+        run: python main.py config.json
         
       - name: Commit and push files
         run: |
