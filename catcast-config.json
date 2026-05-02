@@ -1,62 +1,68 @@
 [
-    {
-        "id": "39200",
-        "slug": "alvin-ovcu"
-    },
-    {
-        "id": "49914",
-        "slug": "azerimuzik"
-    },
-    {
-        "id": "47437",
-        "slug": "kanal-65"
-    },
-    {
-        "id": "48110",
-        "slug": "megatvaz"
-    },
-    {
-        "id": "48694",
-        "slug": "now-music"
-    },
-    {
-        "id": "48076",
-        "slug": "rihatmusic"
-    },
-    {
-        "id": "48591",
-        "slug": "turkuzplay1"
-    },
-    	{
-		"id": "38617",
-		"slug": "kino-1"
-	},
 	{
-		"id": "34816",
-		"slug": "Strax-TV"
+		"name": "azeri-muzik",
+		"channels": [
+			{
+				"id": "49914",
+				"slug": "azerimuzik"
+			},
+			{
+				"id": "47437",
+				"slug": "kanal-65"
+			},
+			{
+				"id": "48110",
+				"slug": "megatvaz"
+			},
+			{
+				"id": "48694",
+				"slug": "now-music"
+			},
+			{
+				"id": "48076",
+				"slug": "rihatmusic"
+			},
+			{
+				"id": "48591",
+				"slug": "turkuzplay1"
+			}
+		]
 	},
-	{
-		"id": "50370",
-		"slug": "KomediAz"
-	},
-	{
-		"id": "41327",
-		"slug": "Detektiv-TV"
-	},
-	{
-		"id": "40102",
-		"slug": "Fenix SSSR"
-	},
-	{
-		"id": "50372",
-		"slug": "PlayerCinema-TV"
-	},
-	{
-		"id": "50472",
-		"slug": "PlayerFilmAzerbaycan-TV"
-	},
-	{
-		"id": "50511",
-		"slug": "Car-Video"
+			{
+				"name": "Film-tv",
+				"channels": [
+			{
+				"id": "38617",
+				"slug": "kino-1"
+			},
+			{
+				"id": "50370",
+				"slug": "Komedi-az-TV"
+			},
+			{
+				"id": "34816",
+				"slug": "Strax-TV"
+			},
+			{
+				"id": "40102",
+				"slug": "Fenix SSSR"
+			},
+			{
+				"id": "41327",
+				"slug": "Detektiv-TV"
+			},
+			{
+				"id": "50372",
+				"slug": "PlayerCinema-TV"
+			},
+			{
+				"id": "50472",
+				"slug": "PlayerFilmAzerbaycan-TV"
+			},
+			{
+				"id": "50545",
+				"slug": "Azfilm"
+			}			
+		]		
 	}
 ]
