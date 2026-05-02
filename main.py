@@ -69,7 +69,7 @@ def main():
 
     # --- 2. Обработка CATCAST конфига (Группа: Music) ---
     group_2 = "Music"
-    catcast_config_path = "config-cat.json"
+    catcast_config_path = "catcast_config.json"
     if os.path.exists(catcast_config_path):
         print(f"\n>>> Processing Catcast config (Group: {group_2})...")
         try:
