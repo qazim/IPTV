@@ -64,7 +64,7 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 tvg-id="Cine1.tr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-1-tr.png" group-title="Eglence",Cine 1 TV
 http://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 #EXTINF:-1 group-title="Eglence",Cine+ 
-http://cineplusyesilcam.streams-supersatforum.workers.dev/index.m3u8 
+http://cineplus-yesilcam.supersatadmin.workers.dev/cineplusyesilcam.m3u8 
 #EXTINF:-1 tvg-id="KuzeyMax.tr" group-title="Eglence",Kuzey Max TV
 http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
 #EXTINF:-1 group-title="Eglence", PLAY TV
@@ -77,3 +77,5 @@ https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="Eglence", Sirus TV
 http://siriustv.streams-supersatforum.workers.dev/siriustvhd.m3u8 
+#EXTINF:-1 group-title="Eglence", Teleon TV
+http://teleontvstreams.supersatadmin.workers.dev/index.m3u8 
