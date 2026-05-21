@@ -80,33 +80,33 @@ http://siriustv.streams-supersatforum.workers.dev/siriustvhd.m3u8
 #EXTINF:-1 group-title="Eglence", Teleon TV
 http://teleontvstreams.supersatadmin.workers.dev/index.m3u8 
 #EXTINF:-1 group-title="Azeri-yerli",Medeniyet TV
-http://149.255.152.199/medeniyet.m3u8?user=37076&token=021dfdabd4eaa80600f4ffc905f57695&e=1779401888&bands=2096&sid=coder_52
+http://149.255.152.199/medeniyet.m3u8?user=37076&token=266d498548796a9fe23c863d63d1ae24&e=1779414957&bands=2096&sid=coder_52
 #EXTINF:-1 group-title="Azeri-yerli",Ictimai TV
-http://149.255.152.199/ictimai.m3u8?user=37076&token=f7f856a28ccd7f6fffdf0f68d2c9a063&e=1779401889&bands=2096&sid=coder_52
+http://149.255.152.199/ictimai.m3u8?user=37076&token=16f519180599ecc30a094c96b3f52c2f&e=1779414959&bands=2096&sid=coder_52
 #EXTINF:-1 group-title="Azeri-yerli",Xezer TV
-http://149.255.152.199/xazer.m3u8?user=37076&token=b502f12cd7623bdce358a41c2d85f1a4&e=1779401893&bands=796.2096&sid=coder_53
+http://149.255.152.199/xazer.m3u8?user=37076&token=04ed28c7cb4635b7a784545545b5c7a8&e=1779414962&bands=796.2096&sid=coder_53
 #EXTINF:-1 group-title="Azeri-yerli",Space TV
-http://149.255.152.199/space.m3u8?user=37076&token=b70aec6b2bf2e5a9e8d2381cf0be8a58&e=1779401894&bands=796.6096&sid=coder_75
+http://149.255.152.199/space.m3u8?user=37076&token=e57c4cf7bf8fa20621fbc23b9808921d&e=1779414964&bands=796.6096&sid=coder_75
 #EXTINF:-1 group-title="Azeri-yerli",CBC
-http://149.255.152.199/cbcaz.m3u8?user=37076&token=d2865ae8507dbbb0b9792761dc8b41b7&e=1779401896&bands=796.2096&sid=coder_52
+http://149.255.152.199/cbcaz.m3u8?user=37076&token=8d80e9790653f3578d59581fa47ad9eb&e=1779414966&bands=796.2096&sid=coder_52
 #EXTINF:-1 group-title="Azeri-yerli",ARB
-http://149.255.152.199/arbhd.m3u8?user=37076&token=5058ce7f42ebe6f098b3e526e24c5a87&e=1779401899&bands=796.6096&sid=coder_62
+http://149.255.152.199/arbhd.m3u8?user=37076&token=b96f11f9f676aa04f54e9902ef9652a3&e=1779414969&bands=796.6096&sid=coder_62
 #EXTINF:-1 group-title="Azeri-yerli",ARB 24
-http://149.255.152.199/arb24.m3u8?user=37076&token=5703cc1239979b40d83ae4905607181a&e=1779401901&bands=796.2096&sid=coder_51
+http://149.255.152.199/arb24.m3u8?user=37076&token=e5cbd0c08950ac1a4e30ed9439668255&e=1779414971&bands=796.2096&sid=coder_51
 #EXTINF:-1 group-title="Azeri-yerli",ARB Gunes
-http://149.255.152.199/arbgunes.m3u8?user=37076&token=b36c9bea15fd85be4d7908a775cb1d3f&e=1779401903&bands=796.2096&sid=coder_52
+http://149.255.152.199/arbgunes.m3u8?user=37076&token=c60ceec0d2a535f2af325199829ebaab&e=1779414973&bands=796.2096&sid=coder_52
 #EXTINF:-1 group-title="Azeri-yerli",Kanal S
-http://149.255.152.199/kanals.m3u8?user=37076&token=ba98d0a7fbbe6f660a8e8e5713c0b585&e=1779401905&bands=796.2096.6096&sid=coder_57
+http://149.255.152.199/kanals.m3u8?user=37076&token=d4cabb9e8d3209f1eeff06e21a116b34&e=1779414974&bands=796.2096.6096&sid=coder_57
 #EXTINF:-1 group-title="Azeri-yerli",MCJ TV Shop
-http://149.255.152.199/mcj.m3u8?user=37076&token=e2b2e7c6e134ce2e4a8585d5243e0e21&e=1779401906&bands=796.2096.6096&sid=coder_66
+http://149.255.152.199/mcj.m3u8?user=37076&token=afed259e666eee2b83748200eefd61b1&e=1779414976&bands=796.2096.6096&sid=coder_66
 #EXTINF:-1 group-title="Azeri-yerli",TMB Azerbaycan
-http://149.255.152.199/tmbaz.m3u8?user=37076&token=683f331245ac1cd2a115d6cc237cec3a&e=1779401908&bands=864.2096&sid=coder_40
+http://149.255.152.199/tmbaz.m3u8?user=37076&token=488913d0217f22837bf2de511b011462&e=1779414978&bands=864.2096&sid=coder_40
 #EXTINF:-1 group-title="Azeri-yerli",Baku TV
-http://149.255.152.199/bakutv.m3u8?user=37076&token=c9b1025b863962f2026a77c643b9d989&e=1779401910&bands=756.2056.6056&sid=coder_57
+http://149.255.152.199/bakutv.m3u8?user=37076&token=a1f98ceb8a8871829c64ffcbe2092d06&e=1779414979&bands=756.2056.6056&sid=coder_57
 #EXTINF:-1 group-title="Azeri-yerli",VIP
-http://149.255.152.199/vip.m3u8?user=37076&token=4fd07ba847136aa384d7692011bf3b26&e=1779401911&bands=796.2096&sid=coder_52
+http://149.255.152.199/vip.m3u8?user=37076&token=83980b9933c4beef50fb51c4280f1c94&e=1779414981&bands=796.2096&sid=coder_52
 #EXTINF:-1 group-title="Azeri-yerli",TMB TV
-http://149.255.152.199/tmbtv.m3u8?user=37076&token=27da07909c1dd19e070aff5c5e8b03ed&e=1779401913&bands=924.2128&sid=coder_52
+http://149.255.152.199/tmbtv.m3u8?user=37076&token=e70963280bb558c8588b8c38ad5e888f&e=1779414983&bands=924.2128&sid=coder_52
 #EXTINF:-1 group-title="Iran-Music",T2-TV
 https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Iran-Music",Sun-Music
