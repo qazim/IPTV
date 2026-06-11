@@ -7,20 +7,36 @@ import os
 import yt_dlp 
 from urllib.parse import urljoin
 from tqdm import tqdm
+import tempfile
 
 def get_youtube_m3u8(video_id):
     url = f"https://www.youtube.com/watch?v={video_id}"
+    
+    cookies_file = None
+    cookies_content = os.environ.get("YOUTUBE_COOKIES")
+    if cookies_content:
+        tmp = tempfile.NamedTemporaryFile(mode='w', suffix='.txt', delete=False)
+        tmp.write(cookies_content)
+        tmp.close()
+        cookies_file = tmp.name
+    
     ydl_opts = {
         "quiet": True,
         "format": "best[protocol=m3u8_native]/best",
-        "extractor_args": {"youtube": {"js_runtimes": ["nodejs"]}},  # ← важно
+        "extractor_args": {"youtube": {"js_runtimes": ["nodejs"]}},
     }
+    if cookies_file:
+        ydl_opts["cookiefile"] = cookies_file
+    
     try:
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             info = ydl.extract_info(url, download=False)
             return info.get("url")
     except:
         return None
+    finally:
+        if cookies_file and os.path.exists(cookies_file):
+            os.unlink(cookies_file)
         
 def get_stream_url(url, pattern, method="GET", headers={}, body={}):
     try:
