@@ -8,6 +8,7 @@ import yt_dlp
 from urllib.parse import urljoin
 from tqdm import tqdm
 import tempfile
+import shutil
 
 def get_youtube_m3u8(video_id):
     url = f"https://www.youtube.com/watch?v={video_id}"
@@ -20,10 +21,17 @@ def get_youtube_m3u8(video_id):
         tmp.close()
         cookies_file = tmp.name
     
+    # Найти путь к node
+    node_path = shutil.which("node")
+    
     ydl_opts = {
-        "quiet": True,
+        "quiet": False,  # временно True→False чтобы видеть ошибки
         "format": "best[protocol=m3u8_native]/best",
-        "extractor_args": {"youtube": {"js_runtimes": ["nodejs"]}},
+        "extractor_args": {
+            "youtube": {
+                "js_runtimes": [f"nodejs:{node_path}" if node_path else "nodejs"]
+            }
+        },
     }
     if cookies_file:
         ydl_opts["cookiefile"] = cookies_file
@@ -32,7 +40,8 @@ def get_youtube_m3u8(video_id):
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             info = ydl.extract_info(url, download=False)
             return info.get("url")
-    except:
+    except Exception as e:
+        print(f"yt-dlp error: {e}")
         return None
     finally:
         if cookies_file and os.path.exists(cookies_file):
