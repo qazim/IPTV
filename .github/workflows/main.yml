@@ -26,6 +26,8 @@ jobs:
           pip install -r requirements.txt
       - name: Execute script
         run: python main.py
+        env:
+          YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
       - name: Commit and push files
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
