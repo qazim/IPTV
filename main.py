@@ -2,7 +2,6 @@ import re
 import requests
 import json
 import os
-import yt_dlp
 import tempfile
 from tqdm import tqdm
 
