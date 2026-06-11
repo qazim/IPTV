@@ -10,153 +10,28 @@
         "output_filter": "token",
         "headers": {},
         "channels": [
-            {
-                "name": "Medeniyet TV",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "medeniyet"
-                    }
-                ]
-            },
-            {
-                "name": "Ictimai TV",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "ictimai"
-                    }
-                ]
-            },
-            {
-                "name": "ATV Azad",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "atvaz"
-                    }
-                ]
-            },
-            {
-                "name": "Xezer TV",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "xazer"
-                    }
-                ]
-            },
-            {
-                "name": "Space TV",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "space"
-                    }
-                ]
-            },
-            {
-                "name": "CBC",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "cbcaz"
-                    }
-                ]
-            },
-            {
-                "name": "Dunya TV",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "dunya"
-                    }
-                ]
-            },
-            {
-                "name": "ARB",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "arbhd"
-                    }
-                ]
-            },
-            {
-                "name": "ARB 24",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "arb24"
-                    }
-                ]
-            },
-            {
-                "name": "ARB Gunes",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "arbgunes"
-                    }
-                ]
-            },
-            {
-                "name": "Kanal S",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "kanals"
-                    }
-                ]
-            },
-            {
-                "name": "MCJ TV Shop",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "mcj"
-                    }
-                ]
-            },
-            {
-                "name": "TMB Azerbaycan",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "tmbaz"
-                    }
-                ]
-            },
-            {
-                "name": "Baku TV",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "bakutv"
-                    }
-                ]
-            },
-            {
-                "name": "VIP",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "vip"
-                    }
-                ]
-            },
-            {
-                "name": "TMB TV",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "tmbtv"
-                    }
-                ]
-            }
+		  {"name": "Medeniyet TV", "variables": [{"name": "CHANNEL_NAME", "value": "medeniyet"}]},
+		  {"name": "Ictimai TV",   "variables": [{"name": "CHANNEL_NAME", "value": "ictimai"}]},
+		  {"name": "ATV Azad",     "variables": [{"name": "CHANNEL_NAME", "value": "atvaz"}]},
+		  {"name": "Xezer TV",     "variables": [{"name": "CHANNEL_NAME", "value": "xazer"}]},
+		  {"name": "Sehiyye TV",   "variables": [{"name": "CHANNEL_NAME", "value": "sthv"}]},
+		  {"name": "Space TV",     "variables": [{"name": "CHANNEL_NAME", "value": "space"}]},
+		  {"name": "CBC",          "variables": [{"name": "CHANNEL_NAME", "value": "cbcaz"}]},
+		  {"name": "Dunya TV",     "variables": [{"name": "CHANNEL_NAME", "value": "dunya"}]},
+		  {"name": "ARB",          "variables": [{"name": "CHANNEL_NAME", "value": "arbhd"}]},
+		  {"name": "ARB 24",       "variables": [{"name": "CHANNEL_NAME", "value": "arb24"}]},
+		  {"name": "ARB Gunes",    "variables": [{"name": "CHANNEL_NAME", "value": "arbgunes"}]},
+		  {"name": "Kanal S",      "variables": [{"name": "CHANNEL_NAME", "value": "kanals"}]},
+		  {"name": "MCJ TV Shop",  "variables": [{"name": "CHANNEL_NAME", "value": "mcj"}]},
+		  {"name": "TMB Azerbaycan","variables": [{"name": "CHANNEL_NAME", "value": "tmbaz"}]},
+		  {"name": "Baku TV",      "variables": [{"name": "CHANNEL_NAME", "value": "bakutv"}]},
+		  {"name": "VIP",          "variables": [{"name": "CHANNEL_NAME", "value": "vip"}]},
+		  {"name": "MTV Azerbaycan","variables": [{"name": "CHANNEL_NAME", "value": "mtvazerbaycan"}]},
+		  {"name": "TMB TV",       "variables": [{"name": "CHANNEL_NAME", "value": "tmbtv"}]}
         ]
+ 
     },
-    {
+	  {
         "name": "Iran-Music",
         "slug": "persian",
         "url": "https://www.parsatv.com/name=CHANNEL_NAME",
@@ -169,51 +44,32 @@
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
         },
         "channels": [
-            {
-                "name": "T2-TV",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "T2-TV#persian"
-                    }
-                ]
-            },
-            {
-                "name": "Sun-Music",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "Sun-Music#persian"
-                    }
-                ]
-            },
-			{
-                "name": "iTV-Persian-Music",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "iTV-Persian-Music#persian"
-                    }
-                ]
-            },
-			{
-                "name": "AFN-Music",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "AFN-Music#persian"
-                    }
-                ]
-            },
-			{
-                "name": "MTC",
-                "variables": [
-                    {
-                        "name": "CHANNEL_NAME",
-                        "value": "MTC#persian"
-                    }
-                ]
-            }
+            {"name": "T2-TV","variables": [{"name": "CHANNEL_NAME", "value": "T2-TV#persian"}]},
+            {"name": "Sun-Music","variables": [{"name": "CHANNEL_NAME","value": "Sun-Music#persian"}]},
+			{"name": "iTV-Persian-Music","variables": [{"name": "CHANNEL_NAME","value": "iTV-Persian-Music#persian"}]},
+			{"name": "AFN-Music","variables": [{"name": "CHANNEL_NAME","value": "AFN-Music#persian"}]},
+			{"name": "MTC","variables": [{"name": "CHANNEL_NAME","value": "MTC#persian"}]}
 		]
-	}
+		},
+  {
+    "name": "Turk-ulusal",
+    "slug": "turkish",
+    "url": "https://www.parsatv.com/name=CHANNEL_NAME",
+    "method": "GET",
+    "pattern": "file: \"(.*?)\"|<source src=\"(.*?)\"",
+    "expire_duration": "2H",
+    "mode": "variant",
+    "output_filter": "m3u8",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+    },
+    "channels": [
+      {"name": "ATV-Turkey",    "variables": [{"name": "CHANNEL_NAME", "value": "ATV-Turkey"}]},
+      {"name": "Star-TV",       "variables": [{"name": "CHANNEL_NAME", "value": "Star-TV"}]},
+      {"name": "Show-TV",       "variables": [{"name": "CHANNEL_NAME", "value": "Show-TV"}]},
+      {"name": "Power-Taptaze", "variables": [{"name": "CHANNEL_NAME", "value": "Power-Taptaze"}]},
+      {"name": "Show-Turk-TV",  "variables": [{"name": "CHANNEL_NAME", "value": "Show-Turk-TV"}]},
+      {"name": "AzStar-TV",     "variables": [{"name": "CHANNEL_NAME", "value": "AzStar-TV"}]}
+    ]
+  }
 ]
