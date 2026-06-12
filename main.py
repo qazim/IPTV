@@ -53,6 +53,7 @@ def main():
         
         for site in main_config:
             group_1 = site['name']
+            final_playlist.append(f'#####  {group_1}  #####\n')
             for channel in tqdm(site["channels"], desc=f"Сайт: {site['slug']}"):
                 url = site["url"]
                 for var in channel["variables"]:
@@ -82,6 +83,7 @@ def main():
                 cat_config = json.load(f)
             for site in cat_config:
                 group_2 = site['name']
+                final_playlist.append(f'#####  {group_2}  #####\n')
                 for channel in tqdm(site["channels"], desc="Catcast: " + site['name']):
                     stream = get_catcast_stream(channel.get("id"))
                     if stream:
