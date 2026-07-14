@@ -77,3 +77,5 @@ http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 http://siriustv.streams-supersatforum.workers.dev/siriustvhd.m3u8 
 #EXTINF:-1 group-title="Eglence", Teleon TV
 http://teleontvstreams.supersatadmin.workers.dev/index.m3u8 
+#EXTINF:-1 group-title="Eglence", Sinema TV
+index.m3u8 
