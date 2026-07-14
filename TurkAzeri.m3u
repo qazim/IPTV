@@ -78,4 +78,4 @@ http://siriustv.streams-supersatforum.workers.dev/siriustvhd.m3u8
 #EXTINF:-1 group-title="Eglence", Teleon TV
 http://teleontvstreams.supersatadmin.workers.dev/index.m3u8 
 #EXTINF:-1 group-title="Eglence", Sinema TV
-https://qazim.github.io/IPTV/index.m3u8 
+https://raw.githubusercontent.com/qazim/IPTV/main/index.m3u8
