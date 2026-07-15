@@ -77,9 +77,9 @@ http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 http://siriustv.streams-supersatforum.workers.dev/siriustvhd.m3u8 
 #EXTINF:-1 group-title="Eglence", Teleon TV
 http://teleontvstreams.supersatadmin.workers.dev/index.m3u8 
-#EXTINF:-1 group-title="Eglence", Sinema TV
-https://raw.githubusercontent.com/qazim/IPTV/main/index.m3u8
-#EXTINF:-1 group-title="Sinema", Bir_mil1
+#EXTINF:-1 group-title="Sinema", Buz_yolu_intikam_2025
+https://raw.githubusercontent.com/qazim/IPTV/main/Films/Buz_yolu_intikam_2025_index.m3u8
+#EXTINF:-1 group-title="Sinema", Bir_mil1_2026
 https://raw.githubusercontent.com/qazim/IPTV/main/Films/Bir_mil1_2026_index.m3u8
-#EXTINF:-1 group-title="Sinema", Bir_mil2
+#EXTINF:-1 group-title="Sinema", Bir_mil2_2026
 https://raw.githubusercontent.com/qazim/IPTV/main/Films/Bir_mil2_2026_index.m3u8
