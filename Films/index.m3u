@@ -14,3 +14,9 @@ https://qazim.github.io/IPTV/Films/The_Prosecutor.m3u8
 https://qazim.github.io/IPTV/Films/Zengin_Gribi.m3u8
 #EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.live/poster/izle-lg/9bf716ea56b74842ec8f363d27db2f36.jpg" group-title="Gerilim", (7 Olomcul gunah) Seven 1995
 https://qazim.github.io/IPTV/Films/Seven-1995.m3u8
+#EXTINF:-1 group-title="Gerilim", Buz_yolu_inikam_2025
+https://raw.githubusercontent.com/qazim/IPTV/main/Films/Buz_yolu_intikam_2025_index.m3u8
+#EXTINF:-1 group-title="Gerilim", Bir-mil1_2026
+https://raw.githubusercontent.com/qazim/IPTV/main/Films/Bir_mil1_2026_index.m3u8
+#EXTINF:-1 group-title="Gerilim", Bir-mil2_2026
+https://raw.githubusercontent.com/qazim/IPTV/main/Films/Bir_mil2_2026_index.m3u8
