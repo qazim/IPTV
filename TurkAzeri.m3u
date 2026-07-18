@@ -65,6 +65,21 @@ http://cineplus-yesilcam.supersatadmin.workers.dev/cineplusyesilcam.m3u8
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Eglence", BEGEN TV
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
+#************  Films  ************************************
+#EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.live/poster/izle-lg/access-2-3192.jpg" group-title="Gerilim", Access-2025
+https://raw.githubusercontent.com/qazim/IPTV/main/Films/Access.m3u8
+#EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.live/poster/izle-lg/vip-2-67304.jpg" group-title="Gerilim", V.I.P-2017
+https://raw.githubusercontent.com/qazim/IPTV/main/Films/V.I.P-2017.m3u8
+#EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.live/poster/izle-lg/wake-up-dead-man-a-knives-out-mystery-bicaklar-cekildi-olu-adamin-uyanisi-5325.jpg" group-title="Gerilim", Wake Up Dead Man 2025 
+https://raw.githubusercontent.com/qazim/IPTV/main/Films/Bicaklar_cekildi.m3u8
+#EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.live/poster/izle-lg/fullhd-knivesout2019-izle.jpg" group-title="Gerilim", Knives Out 2019 
+https://raw.githubusercontent.com/qazim/IPTV/main/Films/Bicaklar_cekildi_1.m3u8
+#EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.live/poster/izle-lg/fullhd-the-prosecutor-ng-poon.jpg" group-title="Gerilim", The Prosecutor 2024
+https://raw.githubusercontent.com/qazim/IPTV/main/Films/The_Prosecutor.m3u8
+#EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.live/poster/izle-lg/rich-flu-4728.jpg" group-title="Gerilim", Rich Flu 2024
+https://raw.githubusercontent.com/qazim/IPTV/main/Films/Zengin_Gribi.m3u8
+#EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.live/poster/izle-lg/9bf716ea56b74842ec8f363d27db2f36.jpg" group-title="Gerilim", (7 Olomcul gunah) Seven 1995
+https://raw.githubusercontent.com/qazim/IPTV/main/Films/Seven-1995.m3u8
 #EXTINF:-1 group-title="Sinema", Bir_mil1_2026
 https://raw.githubusercontent.com/qazim/IPTV/main/Films/Bir_mil1_2026_index.m3u8
 #EXTINF:-1 group-title="Sinema", Bir_mil2_2026
