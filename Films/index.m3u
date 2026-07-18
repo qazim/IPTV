@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTMYVOD: true
+#EXTINF:-1  group-title="Gerilim", Surrender-to-It-2026
+https://raw.githubusercontent.com/qazim/IPTV/main/Films/Surrender_to_It.m3u8
 #EXTINF:-1 tvg-logo="https://imgz.me/cover/tt15574124/1010x586/1.jpg" group-title="Gerilim", Ölümsüz adam-2026 
 https://raw.githubusercontent.com/qazim/IPTV/main/Films/Olumsuz_adam.m3u8
 #EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.live/poster/izle-lg/access-2-3192.jpg" group-title="Gerilim", Access-2025
