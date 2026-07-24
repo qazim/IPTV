@@ -112,5 +112,3 @@ https://autopilot.catcast.tv/mobile.m3u8?channel_id=41327&token=5919a6497cb8699f
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=36517&token=c818830599dbec0aaae2039342bf5137&server=v2.catcast.tv
 #EXTINF:-1 group-title="Film-tv",PlayerCinema-TV
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50372&token=5c866a3bd338edea9613548342ab6085&server=v2.catcast.tv
-#EXTINF:-1 group-title="Film-tv",PlayerFilmAzerbaycan-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=52a9d122772b35b6192bf2f64824034b&server=v2.catcast.tv
