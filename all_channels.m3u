@@ -89,18 +89,14 @@ https://raw.githubusercontent.com/qazim/IPTV/main/Films/Bir_mil2_2026_index.m3u8
 #####  Iran-Music  #####
 #####  Turk-ulusal  #####
 #####  azeri-muzik  #####
-#EXTINF:-1 group-title="azeri-muzik",kanal-65
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=47437&token=34f5ed1c1a39e67d75d136513723598b&server=v2.catcast.tv
-#EXTINF:-1 group-title="azeri-muzik",now-music
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=48694&token=6aac4996741d917a9d31df027666baf5&server=v2.catcast.tv
+#EXTINF:-1 group-title="azeri-muzik",rihatmusic
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=48076&token=cd0fa6fb500a9535e329deaecb440cf7&server=v2.catcast.tv
+#EXTINF:-1 group-title="azeri-muzik",turkuzplay1
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=48591&token=ef33bbd8dd2b396b96b1d25a2e56f793&server=v2.catcast.tv
 #####  Film-tv  #####
-#EXTINF:-1 group-title="Film-tv",kino-1
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=38617&token=db6ac0611dade1919e7ef22edf08685a&server=kino-1.catcast.tv
-#EXTINF:-1 group-title="Film-tv",Komedi-az-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50370&token=71e61f76b58caea108eb296298306db2&server=v2.catcast.tv
-#EXTINF:-1 group-title="Film-tv",Strax-TV
-https://s.catcast.tv/content/34816/index.m3u8?token=8534a238d77c358568acfdd604a01d2d
 #EXTINF:-1 group-title="Film-tv",Fenix SSSR
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=39203680aa84dd1ceb55bfece07e5f1a&server=v2.catcast.tv
-#EXTINF:-1 group-title="Film-tv",PlayerCinema-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50372&token=b2f537ddcef22370378c006dfa0fb354&server=v2.catcast.tv
+#EXTINF:-1 group-title="Film-tv",Action-TV
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=36517&token=6e37407184ee16c43d4e51c15e365b8c&server=v2.catcast.tv
+#EXTINF:-1 group-title="Film-tv",PlayerFilmAzerbaycan-TV
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=4445f2cca6eaf0b339664116307d2c6d&server=v2.catcast.tv
