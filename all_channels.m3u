@@ -67,23 +67,7 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Eglence", BEGEN TV
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #####  Turk-ulusal  #####
-#EXTINF:-1 group-title="Turk-ulusal",ATV-Turkey
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:-1 group-title="Turk-ulusal",Star-TV
-https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
-#EXTINF:-1 group-title="Turk-ulusal",Power-Taptaze
-https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 group-title="Turk-ulusal",AzStar-TV
-https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #####  Iran-Music  #####
-#EXTINF:-1 group-title="Iran-Music",T2-TV
-https://t2hls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Iran-Music",Sun-Music
-https://hls.sunmusic.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Iran-Music",AFN-Music
-https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
-#EXTINF:-1 group-title="Iran-Music",MTC
-https://mtchls.wns.live/hls/stream.m3u8
 ########### YodaAz  ##############
 #################  azeri-Yerli  ###############
 #EXTINF:-1 group-title="Azeri-yerli",AzTV
