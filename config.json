@@ -1,6 +1,6 @@
 [
   {
-    "name": "Turk-ulusal",
+    "name": "Ulusal",
     "slug": "turkish",
     "url": "https://www.parsatv.com/name=CHANNEL_NAME",
     "method": "GET",
@@ -16,7 +16,7 @@
       {"name": "Star-TV",       "variables": [{"name": "CHANNEL_NAME", "value": "Star-TV"}]},
       {"name": "Show-TV",       "variables": [{"name": "CHANNEL_NAME", "value": "Show-TV"}]},
       {"name": "Power-Taptaze", "variables": [{"name": "CHANNEL_NAME", "value": "Power-Taptaze"}]},
-      {"name": "Show-Turk-TV",  "variables": [{"name": "CHANNEL_NAME", "value": "Show-Turk-TV"}]},
+      {"name": "Cine5",         "variables": [{"name": "CHANNEL_NAME", "value": "Cine5"}]},
       {"name": "AzStar-TV",     "variables": [{"name": "CHANNEL_NAME", "value": "AzStar-TV"}]}
     ]
   },

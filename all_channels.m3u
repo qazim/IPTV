@@ -66,6 +66,7 @@ http://cineplus-yesilcam.supersatadmin.workers.dev/cineplusyesilcam.m3u8
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Eglence", BEGEN TV
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
+<<<<<<< HEAD
 #************  Films  ************************************
 #EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.live/poster/izle-lg/access-2-3192.jpg" group-title="Gerilim", Access-2025
 https://raw.githubusercontent.com/qazim/IPTV/main/Films/Access.m3u8
@@ -85,7 +86,23 @@ https://raw.githubusercontent.com/qazim/IPTV/main/Films/Seven-1995.m3u8
 https://raw.githubusercontent.com/qazim/IPTV/main/Films/Bir_mil1_2026_index.m3u8
 #EXTINF:-1 group-title="Sinema", Bir_mil2_2026
 https://raw.githubusercontent.com/qazim/IPTV/main/Films/Bir_mil2_2026_index.m3u8
+=======
+<<<<<<< HEAD
+>>>>>>> 739cf0b (update all_channels.m3u & main.py config.json)
 #####  Turk-ulusal  #####
+=======
+#####  Ulusal  #####
+#EXTINF:-1 group-title="Ulusal",ATV-Turkey
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 group-title="Ulusal",Star-TV
+https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
+#EXTINF:-1 group-title="Ulusal",Power-Taptaze
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 group-title="Ulusal",Cine5
+https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
+#EXTINF:-1 group-title="Ulusal",AzStar-TV
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+>>>>>>> 750eeb2 (update all_channels.m3u & main.py config.json)
 #####  Iran-Music  #####
 ########### YodaAz  ##############
 #################  azeri-Yerli  ###############
@@ -109,6 +126,8 @@ https://live.itv.az/itv.m3u8
 https://www.xezerxeber.az/stream/index.m3u8
 #EXTINF:-1 group-title="Azeri-yerli" tvg-name="Real TV [Geo-blocked]",Real TV
 https://str.yodacdn.net/real/playlist.m3u8
+#EXTINF:-1 group-title="Azeri-yerli",Baku TV
+https://str.yodacdn.net/bakutv/index.m3u8
 
 #####  azeri-muzik  #####
 #EXTINF:-1 group-title="azeri-muzik",kanal-65
