@@ -4,14 +4,14 @@ Azərbaycan və Türkiyə telekanallarının pulsuz yayım siyahısı. Bu layih�
 
 ## 📡 Kanal Siyahıları
 
-### 🇦🇿🇹🇷 Azərbaycan və Türkiyə Kanalları
-Birgə yayım siyahısı üçün:
+### Türkiyə Kanalları
+Yalnız Turk kanallar üçün:
 ```
 https://qazim.github.io/IPTV/TurkAzeri.m3u
 ```
 
-### 🇦🇿 Yalnız Azərbaycan Kanalları
-Yalnız azərbaycanlı kanallar üçün:
+### Azərbaycan və Türkiyə Kanalları
+Birgə yayım siyahısı üçün:
 ```
 https://qazim.github.io/IPTV/all_channels.m3u
 ```
