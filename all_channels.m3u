@@ -85,9 +85,6 @@ https://raw.githubusercontent.com/qazim/IPTV/main/Films/Seven-1995.m3u8
 https://raw.githubusercontent.com/qazim/IPTV/main/Films/Bir_mil1_2026_index.m3u8
 #EXTINF:-1 group-title="Sinema", Bir_mil2_2026
 https://raw.githubusercontent.com/qazim/IPTV/main/Films/Bir_mil2_2026_index.m3u8
-<<<<<<< HEAD
-#####  Azeri-yerli  #####
-=======
 #EXTINF:-1 group-title="Azeri-yerli",AzTV
 https://str.yodacdn.net/azertv/index.m3u8
 #EXTINF:-1 group-title="Azeri-yerli",APA TV
@@ -109,7 +106,6 @@ https://www.xezerxeber.az/stream/index.m3u8
 #EXTINF:-1 group-title="Azeri-yerli" tvg-name="Real TV [Geo-blocked]",Real TV
 https://str.yodacdn.net/real/playlist.m3u8
 
->>>>>>> 5eecb94 (Deleted myVideo.az add YodaAz)
 #####  Iran-Music  #####
 #EXTINF:-1 group-title="Iran-Music",T2-TV
 https://t2hls.wns.live/hls/stream.m3u8
