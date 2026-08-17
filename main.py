@@ -47,7 +47,8 @@ def main():
     # --- YodaAz (замена мёртвого myvideo-az) ---
     yodaaz_path = "YodaAz.m3u"
     if os.path.exists(yodaaz_path):
-        print(">>> Добавляю YodaAz.m3u ...")
+        print(">>> Adding YodaAz.m3u ...")
+        final_playlist.append(f'########### YodaAz  ##############\n')
         with open(yodaaz_path, "r", encoding="utf-8") as f:
             for line in f:
                 final_playlist.append(line)
@@ -94,6 +95,7 @@ def main():
                 for channel in tqdm(site["channels"], desc="Catcast: " + site['name']):
                     stream = get_catcast_stream(channel.get("id"))
                     if stream:
+                        print(f'Add channel: {channel["slug"]}')
                         final_playlist.append(f'#EXTINF:-1 group-title="{group_2}",{channel.get("slug")}\n')
                         final_playlist.append(f"{stream}\n")
         except Exception as e:
@@ -101,6 +103,14 @@ def main():
     else:
         print(f"\nFile {catcast_config_path} Not found.")
 
+    # --- Films ---
+    films_path = "Films/index.m3u"
+    final_playlist.append(f'#************  Films  ***********\n')
+    if os.path.exists(yodaaz_path):
+        print(">>> Add Films.m3u ...")
+        with open(films_path, "r", encoding="utf-8") as f:
+            for line in f:
+                final_playlist.append(line)
     # --- 3. Запись файла ---
     with open("all_channels.m3u", "w", encoding="utf-8") as f:
         f.writelines(final_playlist)

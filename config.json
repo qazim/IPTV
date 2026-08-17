@@ -1,24 +1,4 @@
 [
-	  {
-        "name": "Iran-Music",
-        "slug": "persian",
-        "url": "https://www.parsatv.com/name=CHANNEL_NAME",
-        "method": "GET",
-        "pattern": "file: \"(.*?)\",",
-        "expire_duration": "2H",
-        "mode": "variant",
-        "output_filter": "m3u8",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
-        },
-        "channels": [
-            {"name": "T2-TV","variables": [{"name": "CHANNEL_NAME", "value": "T2-TV#persian"}]},
-            {"name": "Sun-Music","variables": [{"name": "CHANNEL_NAME","value": "Sun-Music#persian"}]},
-			{"name": "iTV-Persian-Music","variables": [{"name": "CHANNEL_NAME","value": "iTV-Persian-Music#persian"}]},
-			{"name": "AFN-Music","variables": [{"name": "CHANNEL_NAME","value": "AFN-Music#persian"}]},
-			{"name": "MTC","variables": [{"name": "CHANNEL_NAME","value": "MTC#persian"}]}
-		]
-		},
   {
     "name": "Turk-ulusal",
     "slug": "turkish",
@@ -39,5 +19,25 @@
       {"name": "Show-Turk-TV",  "variables": [{"name": "CHANNEL_NAME", "value": "Show-Turk-TV"}]},
       {"name": "AzStar-TV",     "variables": [{"name": "CHANNEL_NAME", "value": "AzStar-TV"}]}
     ]
-  }
+  },
+	  {
+        "name": "Iran-Music",
+        "slug": "persian",
+        "url": "https://www.parsatv.com/name=CHANNEL_NAME",
+        "method": "GET",
+        "pattern": "file: \"(.*?)\",",
+        "expire_duration": "2H",
+        "mode": "variant",
+        "output_filter": "m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+        },
+        "channels": [
+            {"name": "T2-TV","variables": [{"name": "CHANNEL_NAME", "value": "T2-TV#persian"}]},
+            {"name": "Sun-Music","variables": [{"name": "CHANNEL_NAME","value": "Sun-Music#persian"}]},
+			{"name": "iTV-Persian-Music","variables": [{"name": "CHANNEL_NAME","value": "iTV-Persian-Music#persian"}]},
+			{"name": "AFN-Music","variables": [{"name": "CHANNEL_NAME","value": "AFN-Music#persian"}]},
+			{"name": "MTC","variables": [{"name": "CHANNEL_NAME","value": "MTC#persian"}]}
+		]
+		}  
 ]
