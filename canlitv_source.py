@@ -91,8 +91,7 @@ def build_m3u_entries() -> str:
 
 
 if __name__ == "__main__":
-    line =build_m3u_entries() 
-    line.append('\n')
+    line =build_m3u_entries()
     print(f'Files: {line}')
     yodaaz_path = "CanliTv.m3u"
     print(">>> Adding CanliTv.m3u ...")
