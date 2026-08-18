@@ -67,25 +67,7 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Eglence", BEGEN TV
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #####  Ulusal  #####
-#EXTINF:-1 group-title="Ulusal",ATV-Turkey
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:-1 group-title="Ulusal",Star-TV
-https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
-#EXTINF:-1 group-title="Ulusal",Power-Taptaze
-https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 group-title="Ulusal",Cine5
-https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
-#EXTINF:-1 group-title="Ulusal",AzStar-TV
-https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #####  Iran-Music  #####
-#EXTINF:-1 group-title="Iran-Music",T2-TV
-https://t2hls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Iran-Music",Sun-Music
-https://hls.sunmusic.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Iran-Music",AFN-Music
-https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
-#EXTINF:-1 group-title="Iran-Music",MTC
-https://mtchls.wns.live/hls/stream.m3u8
 ########## YodaAZ  azeri-Yerli  ###############
 #EXTINF:-1 group-title="Azeri-yerli",AzTV
 https://str.yodacdn.net/azertv/index.m3u8
@@ -137,50 +119,49 @@ https://autopilot.catcast.tv/mobile.m3u8?channel_id=50372&token=6cb128ddc2fdff1d
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=40e2d0e0e05f7f1676d6df770f4691f6&server=v2.catcast.tv
 #************ CanliTv ***********
 #EXTINF:-1 group-title="Milli",Space TV
-https://yayin2.canlitv.fun/live/spacetv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/spacetv.stream/playlist.m3u8?hash=79c039b166c97106e70654e3d37694cb
 #EXTINF:-1 group-title="Milli",Atv Azad TV
-https://yayin2.canlitv.fun/live/atvazad.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/atvazad.stream/playlist.m3u8?hash=79c039b166c97106e70654e3d37694cb
 #EXTINF:-1 group-title="Milli",Xezer Tv
-https://yayin2.canlitv.fun/live/xezertv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/xezertv.stream/playlist.m3u8?hash=79c039b166c97106e70654e3d37694cb
 #EXTINF:-1 group-title="Milli",Az TV
-https://yayin2.canlitv.fun/live/aztv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/aztv.stream/playlist.m3u8?hash=79c039b166c97106e70654e3d37694cb
 #EXTINF:-1 group-title="Milli",El Tv
 https://live.eltv.az/live/eltv/chunklist.m3u8
 #EXTINF:-1 group-title="Milli",ARB TV
-https://yayin2.canlitv.fun/live/arb.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/arb.stream/playlist.m3u8?hash=79c039b166c97106e70654e3d37694cb
 #EXTINF:-1 group-title="Milli",ARB Gunes TV
-https://yayin2.canlitv.fun/live/arbgunes.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/arbgunes.stream/playlist.m3u8?hash=79c039b166c97106e70654e3d37694cb
 #EXTINF:-1 group-title="Milli",ARB 24 TV
-https://yayin2.canlitv.fun/live/arb24.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/arb24.stream/playlist.m3u8?hash=79c039b166c97106e70654e3d37694cb
 #EXTINF:-1 group-title="Milli",Medeniyet Tv
-https://yayin2.canlitv.fun/live/medeniyettv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/medeniyettv.stream/playlist.m3u8?hash=79c039b166c97106e70654e3d37694cb
 #EXTINF:-1 group-title="Milli",Kanal S Az
-https://yayin2.canlitv.fun/live/kanals.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/kanals.stream/playlist.m3u8?hash=79c039b166c97106e70654e3d37694cb
 #EXTINF:-1 group-title="Milli",Gunaz Tv
  https://tv.gunaz.tv/hls/live.m3u8
 #EXTINF:-1 group-title="Milli",CBC Tv
-https://yayin2.canlitv.fun/live/cbc.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/cbc.stream/playlist.m3u8?hash=79c039b166c97106e70654e3d37694cb
 #EXTINF:-1 group-title="Milli",Dunya TV
-https://yayin2.canlitv.fun/live/dunyatv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/dunyatv.stream/playlist.m3u8?hash=79c039b166c97106e70654e3d37694cb
 #EXTINF:-1 group-title="Milli",Az Star TV
-https://live.livestreamtv.ca/azstar/amlst:azstar/tracks-v1a1/mono.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://live.livestreamtv.ca/azstar/amlst:azstar/tracks-v1a1/mono.m3u8?hash=79c039b166c97106e70654e3d37694cb
 #EXTINF:-1 group-title="Milli",Baku TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 group-title="Milli",Atv TV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8?hash=79c039b166c97106e70654e3d37694cb
 #EXTINF:-1 group-title="Milli",Show TV
-https://yayin2.canlitv.fun/live/showtv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/showtv.stream/playlist.m3u8?hash=79c039b166c97106e70654e3d37694cb
 #EXTINF:-1 group-title="Milli",Star TV
-https://yayin2.canlitv.fun/live/startv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/startv.stream/playlist.m3u8?hash=79c039b166c97106e70654e3d37694cb
 #EXTINF:-1 group-title="Milli",Kanal D
-https://yayin2.canlitv.fun/live/kanald.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/kanald.stream/playlist.m3u8?hash=79c039b166c97106e70654e3d37694cb
 #EXTINF:-1 group-title="Milli",TLC
-https://yayin2.canlitv.fun/live/tlc.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/tlc.stream/playlist.m3u8?hash=79c039b166c97106e70654e3d37694cb
 #EXTINF:-1 group-title="Milli",DMAX
-https://yayin2.canlitv.fun/live/dmax.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/dmax.stream/playlist.m3u8?hash=79c039b166c97106e70654e3d37694cb
 #EXTINF:-1 group-title="Milli",Trt Belgesel
-https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
-#************  Films  ***********
+https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8#************  Films  ***********
 #EXTINF:-1 tvg-logo="https://imgz.me/cover/tt15574124/1010x586/1.jpg" group-title="Gerilim", Ölümsüz adam-2026 
 https://raw.githubusercontent.com/qazim/IPTV/main/Films/Olumsuz_adam.m3u8
 #EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.live/poster/izle-lg/access-2-3192.jpg" group-title="Gerilim", Access-2025
