@@ -103,9 +103,18 @@ def main():
         print(f"\nFile {catcast_config_path} Not found.")
 
     # --- Films ---
+    canlitv_path = "CanliTv.m3u"
+    final_playlist.append(f'#************ CanliTv ***********\n')
+    if os.path.exists(canlitv_path):
+        print(">>> Add Films.m3u ...")
+        with open(canlitv_path, "r", encoding="utf-8") as f:
+            for line in f:
+                final_playlist.append(line)
+                
+    # --- Films ---
     films_path = "Films/index.m3u"
     final_playlist.append(f'#************  Films  ***********\n')
-    if os.path.exists(yodaaz_path):
+    if os.path.exists(films_path):
         print(">>> Add Films.m3u ...")
         with open(films_path, "r", encoding="utf-8") as f:
             for line in f:
