@@ -1,7 +1,7 @@
 name: run canlitv_source.py
 on:
   schedule:
-    - cron: '23 */4 * * *'
+    - cron: '23 */3 * * *'
   workflow_dispatch:
 permissions:
   contents: write
