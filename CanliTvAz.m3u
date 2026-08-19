@@ -29,6 +29,7 @@ https://live.livestreamtv.ca/azstar/amlst:azstar/tracks-v1a1/mono.m3u8?hash=2561
 #EXTINF:-1 group-title="Milli",Baku TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 group-title="Turk",Atv TV
+<<<<<<< HEAD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8?hash=2561a8f77dde3a164727d1d13127ee33
 #EXTINF:-1 group-title="Turk",Show TV
 https://yayin2.canlitv.fun/live/showtv.stream/playlist.m3u8?hash=2561a8f77dde3a164727d1d13127ee33
@@ -42,5 +43,20 @@ https://yayin2.canlitv.fun/live/tlc.stream/playlist.m3u8?hash=2561a8f77dde3a1647
 https://yayin2.canlitv.fun/live/dmax.stream/playlist.m3u8?hash=2561a8f77dde3a164727d1d13127ee33
 #EXTINF:-1 group-title="Turk",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8?hash=2561a8f77dde3a164727d1d13127ee33
+=======
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8?hash=4b84c30f812a45b8786633de15e4777b
+#EXTINF:-1 group-title="Turk",Show TV
+https://yayin2.canlitv.fun/live/showtv.stream/playlist.m3u8?hash=4b84c30f812a45b8786633de15e4777b
+#EXTINF:-1 group-title="Turk",Star TV
+https://yayin2.canlitv.fun/live/startv.stream/playlist.m3u8?hash=4b84c30f812a45b8786633de15e4777b
+#EXTINF:-1 group-title="Turk",Kanal D
+https://yayin2.canlitv.fun/live/kanald.stream/playlist.m3u8?hash=4b84c30f812a45b8786633de15e4777b
+#EXTINF:-1 group-title="Turk",TLC
+https://yayin2.canlitv.fun/live/tlc.stream/playlist.m3u8?hash=4b84c30f812a45b8786633de15e4777b
+#EXTINF:-1 group-title="Turk",DMAX
+https://yayin2.canlitv.fun/live/dmax.stream/playlist.m3u8?hash=4b84c30f812a45b8786633de15e4777b
+#EXTINF:-1 group-title="Turk",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8?hash=4b84c30f812a45b8786633de15e4777b
+>>>>>>> 0f58c28 (Remove canliTv_source.yml update main.yml)
 #EXTINF:-1 group-title="Turk",A2 TV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
