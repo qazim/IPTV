@@ -117,7 +117,11 @@ https://autopilot.catcast.tv/mobile.m3u8?channel_id=36517&token=02027046ca8008a2
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50372&token=7dc54a92ceb8842f10dffc62d0f96fe7&server=v2.catcast.tv
 #EXTINF:-1 group-title="Film-tv",PlayerFilmAzerbaycan-TV
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=380a29626a72a1de6cfb3ef900d03627&server=v2.catcast.tv
+<<<<<<< HEAD
 #************ CanliTv ***********
+=======
+#************ CanliTvAz ***********
+>>>>>>> b1ff845 (update files CanliTvAz.m3u main.py canlitv_source.py)
 #EXTINF:-1 group-title="Milli",Space TV
 https://yayin2.canlitv.fun/live/spacetv.stream/playlist.m3u8?hash=25d42986b4728c9a807b2c5049ecd3bf
 #EXTINF:-1 group-title="Milli",Atv Azad TV

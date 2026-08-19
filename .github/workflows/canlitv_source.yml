@@ -28,4 +28,5 @@ jobs:
           git config user.name "GitHub Actions"
           git add -A
           git commit -m "updated streams" || echo "No changes"
+          git pull --rebase
           git push

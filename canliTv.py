@@ -14,7 +14,6 @@ kaynak canlitv.com'a, hedef de dogru sayfaya isaret ediyor.
 """
 import re
 import requests
-import os
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -43,13 +42,6 @@ CANLITV_CHANNELS = [
     ("Dunya TV",      "Milli", "dunyatv-az"),
     ("Az Star TV",    "Milli", "azstar-tv"),
     ("Baku TV",       "Milli", "baku-tv"),
-    ("Atv TV",        "Milli", "atv-canli"),
-    ("Show TV",       "Milli", "show-tv-izle-1"),
-    ("Star TV",       "Milli", "star-tv-canli"), 
-    ("Kanal D",       "Milli", "kanal-d-canli-yayin"),
-    ("TLC",      "Milli", "tlc"),  
-    ("DMAX",      "Milli", "dmax-canli-yayin"),
-    ("Trt Belgesel",      "Milli", "trt-belgesel"),
 ]
 
 ID_RE = re.compile(r'og:image["\']?\s*content=["\']https://canlitv\.com/kanal/logo/(\d+)\.jpg')
@@ -93,16 +85,7 @@ def build_m3u_entries() -> str:
 OUTPUT_FILE = "CanliTvAz.m3u"
 
 if __name__ == "__main__":
-<<<<<<< HEAD
-    line =build_m3u_entries()
-    print(f'Files: {line}')
-    yodaaz_path = "CanliTv.m3u"
-    print(">>> Adding CanliTv.m3u ...")
-    with open(yodaaz_path, "w", encoding="utf-8") as f:
-        f.write(line)
-=======
     entries = build_m3u_entries()
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(entries + "\n")
     print(f"[canlitv] {OUTPUT_FILE} yazildi ({entries.count(chr(10)) // 2 + 1} kanal denendi)")
->>>>>>> b1ff845 (update files CanliTvAz.m3u main.py canlitv_source.py)
