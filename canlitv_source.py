@@ -43,13 +43,14 @@ CANLITV_CHANNELS = [
     ("Dunya TV",      "Milli", "dunyatv-az"),
     ("Az Star TV",    "Milli", "azstar-tv"),
     ("Baku TV",       "Milli", "baku-tv"),
-    ("Atv TV",        "Milli", "atv-canli"),
-    ("Show TV",       "Milli", "show-tv-izle-1"),
-    ("Star TV",       "Milli", "star-tv-canli"), 
-    ("Kanal D",       "Milli", "kanal-d-canli-yayin"),
-    ("TLC",      "Milli", "tlc"),  
-    ("DMAX",      "Milli", "dmax-canli-yayin"),
-    ("Trt Belgesel",      "Milli", "trt-belgesel"),
+    ("Atv TV",        "Turk", "atv-canli"),
+    ("Show TV",       "Turk", "show-tv-izle-1"),
+    ("Star TV",       "Turk", "star-tv-canli"), 
+    ("Kanal D",       "Turk", "kanal-d-canli-yayin"),
+    ("TLC",           "Turk", "tlc"),  
+    ("DMAX",          "Turk", "dmax-canli-yayin"),
+    ("360 TV",        "Turk", "360-tv"),
+    ("A2 TV",         "Turk", "canli-a2-izle"),
 ]
 
 ID_RE = re.compile(r'og:image["\']?\s*content=["\']https://canlitv\.com/kanal/logo/(\d+)\.jpg')
