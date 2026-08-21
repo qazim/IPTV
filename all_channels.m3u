@@ -115,8 +115,6 @@ https://autopilot.catcast.tv/mobile.m3u8?channel_id=41327&token=bcded1d5164b8ec7
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=36517&token=d8ad52fdd188c6ce500e50e95d48881d&server=v2.catcast.tv
 #EXTINF:-1 group-title="Film-tv",PlayerCinema-TV
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50372&token=da24c58cbf8ffa3f37fc029b66868b83&server=v2.catcast.tv
-#EXTINF:-1 group-title="Film-tv",PlayerFilmAzerbaycan-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=9b0893c051bf8a78406d2792f864d618&server=v2.catcast.tv
 #************ CanliTvAz ***********
 #EXTINF:-1 group-title="Milli",Space TV
 https://yayin2.canlitv.fun/live/spacetv.stream/playlist.m3u8?hash=65388f5f9c21cf7930ff6ea353dd93f6
