@@ -94,11 +94,31 @@ https://str.yodacdn.net/real/playlist.m3u8
 #EXTINF:-1 group-title="Azeri-yerli",Baku TV
 https://str.yodacdn.net/bakutv/index.m3u8
 #####  azeri-muzik  #####
+#EXTINF:-1 group-title="azeri-muzik",kanal-65
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=47437&token=376ecc1629640cdea7a04a3c4bff0470&server=v2.catcast.tv
 #EXTINF:-1 group-title="azeri-muzik",now-music
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=48694&token=16b6a4c95be1c8013a923d7915a7c17b&server=v2.catcast.tv
+#EXTINF:-1 group-title="azeri-muzik",rihatmusic
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=48076&token=024871fe36abeccf56dbed39e8aec1bf&server=v2.catcast.tv
+#EXTINF:-1 group-title="azeri-muzik",turkuzplay1
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=48591&token=e36574724d592c33c21637989854cdf6&server=v2.catcast.tv
 #####  Film-tv  #####
+#EXTINF:-1 group-title="Film-tv",kino-1
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=38617&token=ba609787033f3ab076cb4a6acf1f89bf&server=kino-1.catcast.tv
 #EXTINF:-1 group-title="Film-tv",Komedi-az-TV
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50370&token=4b59c77966386b29d3914cdf0d0ac2ec&server=v2.catcast.tv
+#EXTINF:-1 group-title="Film-tv",Strax-TV
+https://s.catcast.tv/content/34816/index.m3u8?token=3f1a167ba357dd53eafdb881f9c4f7c2
+#EXTINF:-1 group-title="Film-tv",Fenix SSSR
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=6842cddbfc0a0acdb33a1c980124949e&server=v2.catcast.tv
+#EXTINF:-1 group-title="Film-tv",Detektiv-TV
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=41327&token=8a006b2c7bc4aaf70a873aac0979a361&server=cityeden.catcast.tv
+#EXTINF:-1 group-title="Film-tv",Action-TV
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=36517&token=55b8ad997f70ccf39c7040e5b8b4fde9&server=v2.catcast.tv
+#EXTINF:-1 group-title="Film-tv",PlayerCinema-TV
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=50372&token=704b1b6ab66a73fd8118871decc66833&server=v2.catcast.tv
+#EXTINF:-1 group-title="Film-tv",PlayerFilmAzerbaycan-TV
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=7d99e4cde76fdb5f1c9056e866692ebb&server=v2.catcast.tv
 #************ CanliTvAz ***********
 #EXTINF:-1 group-title="Milli",Space TV
 https://yayin2.canlitv.fun/live/spacetv.stream/playlist.m3u8?hash=65388f5f9c21cf7930ff6ea353dd93f6
