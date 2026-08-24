@@ -1,0 +1,26 @@
+{
+  "az": [
+    "AzTV.az@SD",
+    "IctimaiTV.az@SD"
+  ],
+  "tr": [
+    "ATV.tr@SD",
+    "KanalD.tr@SD",
+    "ShowTV.tr@SD",
+    "TRT1.tr@SD"
+  ],
+  "ru": [
+    "Cinema.ru@SD",
+    "Domkino.ru@SD",
+	"Evrokino.ru@HD",
+	"Hit.ru@HD",
+	"HorosheeKino.ru@SD",
+	"IndiyskoyeKino.ru@SD",
+	"Kino24.ru@SD",
+	"KinoTV.ru@HD",
+	"KinoHit.ru@SD",
+	"Kinokomedija.ru@SD",
+	"Kinomix.ru@SD",
+	"Kinopokaz.ru@SD"
+  ]
+}

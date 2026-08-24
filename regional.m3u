@@ -1,0 +1,63 @@
+#EXTM3U
+# Generated automatically by build_playlist.py
+# Source: https://github.com/iptv-org/iptv
+
+# ===== AZERBAIJAN =====
+#EXTINF:-1 group-title="Azeri" tvg-id="AzTV.az@SD",Az TV (1080p)
+https://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="AzTV.az@SD",Az TV
+http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
+#EXTINF:-1 group-title="Azeri" tvg-id="AzTV.az@SD",Az TV
+https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="IctimaiTV.az@SD",Ictimai TV
+https://live.itv.az/itv.m3u8
+# ===== TURKEY =====
+#EXTINF:-1 group-title="Turk" tvg-id="ATV.tr@SD",ATV (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:-1 group-title="Turk" tvg-id="ATV.tr@SD",ATV (360p)
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+#EXTINF:-1 group-title="Turk" tvg-id="KanalD.tr@SD",Kanal D (1080p)
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 group-title="Turk" tvg-id="TRT1.tr@SD",TRT 1 (1440p)
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+# ===== RUSSIA =====
+#EXTINF:-1 group-title="Rus" tvg-id="Cinema.ru@SD",Cinema
+http://catchup.videoline.ru/cinema/playlist.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Cinema.ru@SD",Cinema
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Domkino.ru@SD",Dom kino (576p)
+http://stream.mcquack.net/236/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Domkino.ru@SD",Dom kino
+https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Evrokino.ru@HD",Evrokino HD (1080p)
+http://stream.mcquack.net/385/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Hit.ru@HD",Hit HD (1080p)
+http://hls127.freeott.top:8080/XitHD/video.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Hit.ru@HD",Hit HD (1080p)
+http://stream.mcquack.net/363/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="HorosheeKino.ru@SD",Horoshee Kino (720p)
+https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="IndiyskoyeKino.ru@SD",Indiyskoye Kino (576p)
+http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="IndiyskoyeKino.ru@SD",Indiyskoye Kino (576p)
+http://stream.mcquack.net/104/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="IndiyskoyeKino.ru@SD",Indiyskoye Kino
+https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Kino24.ru@SD",Kino 24 (720p)
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="KinoTV.ru@HD",Kino TV HD (1080p)
+http://176.118.197.101/KinoTvHD/playlist.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="KinoHit.ru@SD",KinoHit (576p)
+http://stream.mcquack.net/126/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="KinoHit.ru@SD",KinoHit
+https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Kinokomedija.ru@SD",Kinokomedija (576p)
+http://stream.mcquack.net/265/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Kinomix.ru@SD",Kinomix (576p)
+http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Kinomix.ru@SD",Kinomix (576p)
+http://stream.mcquack.net/133/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Kinopokaz.ru@SD",Kinopokaz (576p)
+http://stream.mcquack.net/64/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Kinopokaz.ru@SD",Kinopokaz
+https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
