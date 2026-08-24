@@ -102,14 +102,6 @@ def main():
     else:
         print(f"\nFile {catcast_config_path} Not found.")
 
-    # --- CanliTvAz ---
-    canlitv_path = "CanliTvAz.m3u"
-    final_playlist.append(f'#************ CanliTvAz ***********\n')
-    if os.path.exists(canlitv_path):
-        print(">>> Add CanliTvAz.m3u ...")
-        with open(canlitv_path, "r", encoding="utf-8") as f:
-            for line in f:
-                final_playlist.append(line)
     # --- ipt-org ---
     canlitv_path = "regional.m3u"
     final_playlist.append(f'#************ regional ***********\n')
