@@ -22,5 +22,18 @@
 	"Kinokomedija.ru@SD",
 	"Kinomix.ru@SD",
 	"Kinopokaz.ru@SD"
+  ],
+  "ru_catcast": [
+    "CityEdenKinoAsia.ru@HD",
+    "CityEdenKinoArt.ru@HD",
+	"CityEdenKinoDetektiv.ru@HD",
+	"CityEdenKinoDok.ru@HD",
+	"CityEdenKinoDrama.ru@HD",
+	"CityEdenKinoKlassika.ru@HD",
+	"CityEdenKinoKomediya.ru@HD",
+	"CityEdenKinoMistika.ru@HD",
+	"CityEdenKinoSemya.ru@HD",
+	"CityEdenKinoFantastika.ru@HD",
+	"CityEdenKinoAction.ru@HD"
   ]
 }
