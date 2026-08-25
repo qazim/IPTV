@@ -1,13 +1,23 @@
 {
   "az": [
     "AzTV.az@SD",
-    "IctimaiTV.az@SD"
+    "IctimaiTV.az@SD",
+	"APATv.az@SD",
+	"AyazTV.az@SD",
+	"BakuTV.az@SD",
+	"KanalS.az@SD",
+	"KapazTV.az@SD",
+	"MedeniyyetTV.az@SD",
+	"XezerTV.az@SD"
   ],
   "tr": [
     "ATV.tr@SD",
     "KanalD.tr@SD",
     "ShowTV.tr@SD",
-    "TRT1.tr@SD"
+    "TRT1.tr@SD",
+	"NOWTV.tr@SD",
+	"A2TV.tr@SD",
+	"360.tr@SD"
   ],
   "ru": [
     "Cinema.ru@SD",
