@@ -69,25 +69,7 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Eglence", BEGEN TV
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #####  Ulusal  #####
-#EXTINF:-1 group-title="Ulusal",ATV-Turkey
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:-1 group-title="Ulusal",Star-TV
-https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
-#EXTINF:-1 group-title="Ulusal",Power-Taptaze
-https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 group-title="Ulusal",Cine5
-https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
-#EXTINF:-1 group-title="Ulusal",AzStar-TV
-https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #####  Iran-Music  #####
-#EXTINF:-1 group-title="Iran-Music",T2-TV
-https://t2hls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Iran-Music",Sun-Music
-https://hls.sunmusic.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Iran-Music",AFN-Music
-https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
-#EXTINF:-1 group-title="Iran-Music",MTC
-https://mtchls.wns.live/hls/stream.m3u8
 ########## YodaAZ  azeri-Yerli  ###############
 #EXTINF:-1 group-title="Azeri-yerli",AzTV
 https://str.yodacdn.net/azertv/index.m3u8
@@ -158,6 +140,8 @@ https://autopilot.catcast.tv/mobile.m3u8?channel_id=40783&token=5bf7bcc102326b7c
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=38128&token=280e3f582bd222d684512a1addf7ba03&server=cityeden.catcast.tv
 #EXTINF:-1 group-title="Cityeden-tv",kino fantastika
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=45268&token=11c18e22751e786fac706f90bf2be295&server=cityeden.catcast.tv
+#EXTINF:-1 group-title="Cityeden-tv",kino action
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=41333&token=4280e4f401942ba9e06251fe0d410ac5&server=cityeden.catcast.tv
 #************ regional ***********
 #EXTM3U
 # Generated automatically by build_playlist.py
