@@ -111,8 +111,6 @@ https://autopilot.catcast.tv/mobile.m3u8?channel_id=50370&token=ad9cffab2ec601e7
 https://s.catcast.tv/content/34816/index.m3u8?token=72f49b6f3d0876103714770b5bced0ee
 #EXTINF:-1 group-title="Film-tv",Fenix SSSR
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=024042cfe340f5a725d5a84c361f6947&server=v2.catcast.tv
-#EXTINF:-1 group-title="Film-tv",Detektiv-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=41327&token=b6126fba18f826f191812fa7d7ea170b&server=cityeden.catcast.tv
 #EXTINF:-1 group-title="Film-tv",Action-TV
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=36517&token=5cc392db8c36ca9ea0f11e64df4d6de6&server=v2.catcast.tv
 #EXTINF:-1 group-title="Film-tv",PlayerCinema-TV
