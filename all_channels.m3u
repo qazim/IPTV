@@ -95,51 +95,53 @@ https://str.yodacdn.net/real/playlist.m3u8
 https://str.yodacdn.net/bakutv/index.m3u8
 #####  azeri-muzik  #####
 #EXTINF:-1 group-title="azeri-muzik",kanal-65
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=47437&token=2dfca2cf053cdf4a60b78a65e85f5ee7&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=47437&token=2790b08641a0afb72540976afdf325af&server=v2.catcast.tv
 #EXTINF:-1 group-title="azeri-muzik",now-music
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=48694&token=e8bfcbe125927ae6eb931f407a140bef&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=48694&token=326c107d661a8ee5371aa5333f01e30b&server=v2.catcast.tv
 #EXTINF:-1 group-title="azeri-muzik",rihatmusic
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=48076&token=9facd9078cdfc9ab223cf058ade20826&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=48076&token=48b68c5115240474002e222984946b43&server=v2.catcast.tv
 #EXTINF:-1 group-title="azeri-muzik",turkuzplay1
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=48591&token=6885023f7bf14bc1d0570227bffb94bf&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=48591&token=85cd504ab5793d32f560a7e2a40e93c6&server=v2.catcast.tv
 #####  Film-tv  #####
 #EXTINF:-1 group-title="Film-tv",kino-1
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=38617&token=17a9e7e238e40937d5661915b39d1706&server=kino-1.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=38617&token=5a76d721e2335cc9ad3ae5c91dc083a1&server=kino-1.catcast.tv
 #EXTINF:-1 group-title="Film-tv",Komedi-az-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50370&token=ad9cffab2ec601e7caee48d8a151f8f2&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=50370&token=1f60ec3a751f570053afcf3bd813cd18&server=v2.catcast.tv
 #EXTINF:-1 group-title="Film-tv",Strax-TV
-https://s.catcast.tv/content/34816/index.m3u8?token=72f49b6f3d0876103714770b5bced0ee
+https://s.catcast.tv/content/34816/index.m3u8?token=aa84d09a09ca12e7aee8b53e0c0ce17d
 #EXTINF:-1 group-title="Film-tv",Fenix SSSR
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=024042cfe340f5a725d5a84c361f6947&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=aab8b1704b31da13ecd464e1c6f7a4ff&server=v2.catcast.tv
+#EXTINF:-1 group-title="Film-tv",Detektiv-TV
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=41327&token=b00db6318923273d7f4147970b06924c&server=cityeden.catcast.tv
 #EXTINF:-1 group-title="Film-tv",Action-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=36517&token=5cc392db8c36ca9ea0f11e64df4d6de6&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=36517&token=be18fa0ea46325e6cc546fabfc54eaee&server=v2.catcast.tv
 #EXTINF:-1 group-title="Film-tv",PlayerCinema-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50372&token=fda58343e3b3a9f36927fcde9b49cddc&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=50372&token=2eba9945a92e54066e7228714a0ec4f7&server=v2.catcast.tv
 #EXTINF:-1 group-title="Film-tv",PlayerFilmAzerbaycan-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=ad5b83f04e21f3b37c8ce079937c53ae&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=a25215765fe6c74ee289a5c1821004e7&server=v2.catcast.tv
 #####  Cityeden-tv  #####
 #EXTINF:-1 group-title="Cityeden-tv",kino asia
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=34393&token=dbf9cc7f1fec89aa1ffecc975dcc3c83&server=cityeden.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=34393&token=d549d8ac36a9b94496760072398c28f2&server=cityeden.catcast.tv
 #EXTINF:-1 group-title="Cityeden-tv",kino art
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=38398&token=be4529c154c713ec0c7dd5936bb3c84b&server=cityeden.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=38398&token=7343fbb90f705b8862f78a597df0797a&server=cityeden.catcast.tv
 #EXTINF:-1 group-title="Cityeden-tv",kino detectiv
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=41327&token=b6126fba18f826f191812fa7d7ea170b&server=cityeden.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=41327&token=b00db6318923273d7f4147970b06924c&server=cityeden.catcast.tv
 #EXTINF:-1 group-title="Cityeden-tv",kino doc
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=38354&token=b329852aae3675c10861aee749703526&server=cityeden.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=38354&token=762822d814bdcbf3b8187a9c878b2497&server=cityeden.catcast.tv
 #EXTINF:-1 group-title="Cityeden-tv",kino drama
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=45269&token=495c9a5703f3d9d435ba9610c5469432&server=cityeden.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=45269&token=f99f0cadc60c4de4921a659df9be27f5&server=cityeden.catcast.tv
 #EXTINF:-1 group-title="Cityeden-tv",kino klassika
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=34185&token=329f38ac3e035e85cdf91b60726ba049&server=cityeden.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=34185&token=7d7e02026a20678ffef14eaf801d2800&server=cityeden.catcast.tv
 #EXTINF:-1 group-title="Cityeden-tv",kino komedia
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=41331&token=88756df7cf802e6eafad85b263e68dc8&server=cityeden.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=41331&token=c3b7d264bf14bcae36d79414c71603f7&server=cityeden.catcast.tv
 #EXTINF:-1 group-title="Cityeden-tv",kino mistika
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=40783&token=5bf7bcc102326b7c39695a70dd7fa022&server=cityeden.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40783&token=817e2180507b257f456bdd89f71edd23&server=cityeden.catcast.tv
 #EXTINF:-1 group-title="Cityeden-tv",kino semya
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=38128&token=280e3f582bd222d684512a1addf7ba03&server=cityeden.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=38128&token=184944754561491294156488d30840f7&server=cityeden.catcast.tv
 #EXTINF:-1 group-title="Cityeden-tv",kino fantastika
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=45268&token=11c18e22751e786fac706f90bf2be295&server=cityeden.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=45268&token=f551b9a84b9ba02f3131d85858e5fc77&server=cityeden.catcast.tv
 #EXTINF:-1 group-title="Cityeden-tv",kino action
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=41333&token=4280e4f401942ba9e06251fe0d410ac5&server=cityeden.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=41333&token=64ea5d4fd3999ac6b270a999f072d309&server=cityeden.catcast.tv
 #************ regional ***********
 #EXTM3U
 # Generated automatically by build_playlist.py
