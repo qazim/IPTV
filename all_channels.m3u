@@ -137,6 +137,27 @@ https://autopilot.catcast.tv/mobile.m3u8?channel_id=36517&token=5cc392db8c36ca9e
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50372&token=fda58343e3b3a9f36927fcde9b49cddc&server=v2.catcast.tv
 #EXTINF:-1 group-title="Film-tv",PlayerFilmAzerbaycan-TV
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=ad5b83f04e21f3b37c8ce079937c53ae&server=v2.catcast.tv
+#####  Cityeden-tv  #####
+#EXTINF:-1 group-title="Cityeden-tv",kino asia
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=34393&token=dbf9cc7f1fec89aa1ffecc975dcc3c83&server=cityeden.catcast.tv
+#EXTINF:-1 group-title="Cityeden-tv",kino art
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=38398&token=be4529c154c713ec0c7dd5936bb3c84b&server=cityeden.catcast.tv
+#EXTINF:-1 group-title="Cityeden-tv",kino detectiv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=41327&token=b6126fba18f826f191812fa7d7ea170b&server=cityeden.catcast.tv
+#EXTINF:-1 group-title="Cityeden-tv",kino doc
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=38354&token=b329852aae3675c10861aee749703526&server=cityeden.catcast.tv
+#EXTINF:-1 group-title="Cityeden-tv",kino drama
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=45269&token=495c9a5703f3d9d435ba9610c5469432&server=cityeden.catcast.tv
+#EXTINF:-1 group-title="Cityeden-tv",kino klassika
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=34185&token=329f38ac3e035e85cdf91b60726ba049&server=cityeden.catcast.tv
+#EXTINF:-1 group-title="Cityeden-tv",kino komedia
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=41331&token=88756df7cf802e6eafad85b263e68dc8&server=cityeden.catcast.tv
+#EXTINF:-1 group-title="Cityeden-tv",kino mistika
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40783&token=5bf7bcc102326b7c39695a70dd7fa022&server=cityeden.catcast.tv
+#EXTINF:-1 group-title="Cityeden-tv",kino semya
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=38128&token=280e3f582bd222d684512a1addf7ba03&server=cityeden.catcast.tv
+#EXTINF:-1 group-title="Cityeden-tv",kino fantastika
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=45268&token=11c18e22751e786fac706f90bf2be295&server=cityeden.catcast.tv
 #************ regional ***********
 #EXTM3U
 # Generated automatically by build_playlist.py

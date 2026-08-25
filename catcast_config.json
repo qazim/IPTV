@@ -23,5 +23,21 @@
 			{"id": "50472", "slug": "PlayerFilmAzerbaycan-TV"},
 			{"id": "50545", "slug": "Azfilm"}			
 		]		
+	},
+	{
+		"name": "Cityeden-tv",
+		"channels": [
+			{"id": "34393", "slug": "kino asia"},
+			{"id": "38398", "slug": "kino art"},
+			{"id": "41327", "slug": "kino detectiv"},
+			{"id": "38354", "slug": "kino doc"},
+			{"id": "45269", "slug": "kino drama"},
+			{"id": "34185", "slug": "kino klassika"},
+			{"id": "41331", "slug": "kino komedia"},
+			{"id": "40783", "slug": "kino mistika"},
+			{"id": "38128", "slug": "kino semya"},
+			{"id": "45268", "slug": "kino fantastika"},
+			{"id": "41333", "slug": "kino action"}			
+		]		
 	}
 ]
