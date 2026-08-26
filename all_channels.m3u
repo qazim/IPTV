@@ -82,6 +82,8 @@ https://str.yodacdn.net/bakutv/index.m3u8
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=47437&token=2790b08641a0afb72540976afdf325af&server=v2.catcast.tv
 #EXTINF:-1 group-title="azeri-muzik",now-music
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=48694&token=326c107d661a8ee5371aa5333f01e30b&server=v2.catcast.tv
+#EXTINF:-1 group-title="azeri-muzik",rihatmusic
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=48076&token=48b68c5115240474002e222984946b43&server=v2.catcast.tv
 #EXTINF:-1 group-title="azeri-muzik",turkuzplay1
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=48591&token=85cd504ab5793d32f560a7e2a40e93c6&server=v2.catcast.tv
 #####  Catcast-Film-tv  #####
