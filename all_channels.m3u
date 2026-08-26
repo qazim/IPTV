@@ -69,7 +69,25 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Eglence", BEGEN TV
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #####  Ulusal  #####
+#EXTINF:-1 group-title="Ulusal",ATV-Turkey
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 group-title="Ulusal",Star-TV
+https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
+#EXTINF:-1 group-title="Ulusal",Power-Taptaze
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 group-title="Ulusal",Cine5
+https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
+#EXTINF:-1 group-title="Ulusal",AzStar-TV
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #####  Iran-Music  #####
+#EXTINF:-1 group-title="Iran-Music",T2-TV
+https://t2hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran-Music",Sun-Music
+https://hls.sunmusic.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran-Music",AFN-Music
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 group-title="Iran-Music",MTC
+https://mtchls.wns.live/hls/stream.m3u8
 ########## YodaAZ  azeri-Yerli  ###############
 #EXTINF:-1 group-title="Azeri-yerli",AzTV
 https://str.yodacdn.net/azertv/index.m3u8
@@ -102,24 +120,6 @@ https://autopilot.catcast.tv/mobile.m3u8?channel_id=48694&token=326c107d661a8ee5
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=48076&token=48b68c5115240474002e222984946b43&server=v2.catcast.tv
 #EXTINF:-1 group-title="azeri-muzik",turkuzplay1
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=48591&token=85cd504ab5793d32f560a7e2a40e93c6&server=v2.catcast.tv
-<<<<<<< HEAD
-#####  Film-tv  #####
-#EXTINF:-1 group-title="Film-tv",kino-1
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=38617&token=5a76d721e2335cc9ad3ae5c91dc083a1&server=kino-1.catcast.tv
-#EXTINF:-1 group-title="Film-tv",Komedi-az-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50370&token=1f60ec3a751f570053afcf3bd813cd18&server=v2.catcast.tv
-#EXTINF:-1 group-title="Film-tv",Strax-TV
-https://s.catcast.tv/content/34816/index.m3u8?token=aa84d09a09ca12e7aee8b53e0c0ce17d
-#EXTINF:-1 group-title="Film-tv",Fenix SSSR
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=aab8b1704b31da13ecd464e1c6f7a4ff&server=v2.catcast.tv
-#EXTINF:-1 group-title="Film-tv",Detektiv-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=41327&token=b00db6318923273d7f4147970b06924c&server=cityeden.catcast.tv
-#EXTINF:-1 group-title="Film-tv",Action-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=36517&token=be18fa0ea46325e6cc546fabfc54eaee&server=v2.catcast.tv
-#EXTINF:-1 group-title="Film-tv",PlayerCinema-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50372&token=2eba9945a92e54066e7228714a0ec4f7&server=v2.catcast.tv
-#EXTINF:-1 group-title="Film-tv",PlayerFilmAzerbaycan-TV
-=======
 #####  Catcast-Film-tv  #####
 #EXTINF:-1 group-title="Catcast-Film-tv",kino-1
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=38617&token=5a76d721e2335cc9ad3ae5c91dc083a1&server=kino-1.catcast.tv
@@ -136,7 +136,6 @@ https://autopilot.catcast.tv/mobile.m3u8?channel_id=36517&token=be18fa0ea46325e6
 #EXTINF:-1 group-title="Catcast-Film-tv",PlayerCinema-TV
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50372&token=2eba9945a92e54066e7228714a0ec4f7&server=v2.catcast.tv
 #EXTINF:-1 group-title="Catcast-Film-tv",PlayerFilmAzerbaycan-TV
->>>>>>> 12b8c13 (modified all_channels.m3u, catcast, channels.json, main.py regioanal.m3u)
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=a25215765fe6c74ee289a5c1821004e7&server=v2.catcast.tv
 #####  Cityeden-tv  #####
 #EXTINF:-1 group-title="Cityeden-tv",kino asia
@@ -198,12 +197,18 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 group-title="Turk" tvg-id="ATV.tr@SD",ATV (360p)
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+#EXTINF:-1 group-title="Turk" tvg-id="HalkTV.tr@SD",Halk TV (1080p)
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 group-title="Turk" tvg-id="KanalD.tr@SD",Kanal D (1080p)
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 group-title="Turk" tvg-id="NOWTV.tr@SD",NOW TV (720p)
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 group-title="Turk" tvg-id="NOWTV.tr@SD",NOW TV
 http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:-1 group-title="Turk" tvg-id="StarTV.tr@SD",Star TV (720p)
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
+#EXTINF:-1 group-title="Turk" tvg-id="Tivi6.tr@SD",Tivi 6 (720p)
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 group-title="Turk" tvg-id="TRT1.tr@SD",TRT 1 (1440p)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 # ===== RUSSIA =====
@@ -291,26 +296,3 @@ http://stream.mcquack.net/240/index.m3u8
 http://stream.mcquack.net/202/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="Nauka.ru@SD",Наука
 https://vod.tuva.ru/nauka2/index.m3u8
-# ===== RUSSIA_CATCAST =====
-#EXTINF:-1 group-title="Rus" tvg-id="CityEdenKinoAsia.ru@HD",Сити Эдем КиноАзия [Not 24/7]
-https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="CityEdenKinoArt.ru@HD",Сити Эдем КиноАрт [Not 24/7]
-https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="CityEdenKinoDetektiv.ru@HD",Сити Эдем КиноДетектив [Not 24/7]
-https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="CityEdenKinoDok.ru@HD",Сити Эдем КиноДок [Not 24/7]
-https://cityeden.catcast.tv/content/38354/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="CityEdenKinoDrama.ru@HD",Сити Эдем КиноДрама [Not 24/7]
-https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="CityEdenKinoKlassika.ru@HD",Сити Эдем КиноКлассика [Not 24/7]
-https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="CityEdenKinoKomediya.ru@HD",Сити Эдем КиноКомедия [Not 24/7]
-https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="CityEdenKinoMistika.ru@HD",Сити Эдем КиноМистика [Not 24/7]
-https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="CityEdenKinoSemya.ru@HD",Сити Эдем КиноСемья [Not 24/7]
-https://v2.catcast.tv/content/38128/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="CityEdenKinoFantastika.ru@HD",Сити Эдем КиноФантастика [Not 24/7]
-https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="CityEdenKinoAction.ru@HD",Сити Эдем КиноЭкшен [Not 24/7]
-https://cityeden.catcast.tv/content/41333/index.m3u8
