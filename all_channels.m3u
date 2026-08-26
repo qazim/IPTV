@@ -102,6 +102,7 @@ https://autopilot.catcast.tv/mobile.m3u8?channel_id=48694&token=326c107d661a8ee5
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=48076&token=48b68c5115240474002e222984946b43&server=v2.catcast.tv
 #EXTINF:-1 group-title="azeri-muzik",turkuzplay1
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=48591&token=85cd504ab5793d32f560a7e2a40e93c6&server=v2.catcast.tv
+<<<<<<< HEAD
 #####  Film-tv  #####
 #EXTINF:-1 group-title="Film-tv",kino-1
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=38617&token=5a76d721e2335cc9ad3ae5c91dc083a1&server=kino-1.catcast.tv
@@ -118,6 +119,24 @@ https://autopilot.catcast.tv/mobile.m3u8?channel_id=36517&token=be18fa0ea46325e6
 #EXTINF:-1 group-title="Film-tv",PlayerCinema-TV
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50372&token=2eba9945a92e54066e7228714a0ec4f7&server=v2.catcast.tv
 #EXTINF:-1 group-title="Film-tv",PlayerFilmAzerbaycan-TV
+=======
+#####  Catcast-Film-tv  #####
+#EXTINF:-1 group-title="Catcast-Film-tv",kino-1
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=38617&token=5a76d721e2335cc9ad3ae5c91dc083a1&server=kino-1.catcast.tv
+#EXTINF:-1 group-title="Catcast-Film-tv",Komedi-az-TV
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=50370&token=1f60ec3a751f570053afcf3bd813cd18&server=v2.catcast.tv
+#EXTINF:-1 group-title="Catcast-Film-tv",Strax-TV
+https://s.catcast.tv/content/34816/index.m3u8?token=aa84d09a09ca12e7aee8b53e0c0ce17d
+#EXTINF:-1 group-title="Catcast-Film-tv",Fenix SSSR
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=aab8b1704b31da13ecd464e1c6f7a4ff&server=v2.catcast.tv
+#EXTINF:-1 group-title="Catcast-Film-tv",Detektiv-TV
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=41327&token=b00db6318923273d7f4147970b06924c&server=cityeden.catcast.tv
+#EXTINF:-1 group-title="Catcast-Film-tv",Action-TV
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=36517&token=be18fa0ea46325e6cc546fabfc54eaee&server=v2.catcast.tv
+#EXTINF:-1 group-title="Catcast-Film-tv",PlayerCinema-TV
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=50372&token=2eba9945a92e54066e7228714a0ec4f7&server=v2.catcast.tv
+#EXTINF:-1 group-title="Catcast-Film-tv",PlayerFilmAzerbaycan-TV
+>>>>>>> 12b8c13 (modified all_channels.m3u, catcast, channels.json, main.py regioanal.m3u)
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=a25215765fe6c74ee289a5c1821004e7&server=v2.catcast.tv
 #####  Cityeden-tv  #####
 #EXTINF:-1 group-title="Cityeden-tv",kino asia
@@ -198,20 +217,18 @@ http://stream.mcquack.net/236/index.m3u8
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="Evrokino.ru@HD",Evrokino HD (1080p)
 http://stream.mcquack.net/385/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Fox.ru@SD",Fox (576p)
+http://stream.mcquack.net/182/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="Hit.ru@HD",Hit HD (1080p)
 http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="Hit.ru@HD",Hit HD (1080p)
 http://stream.mcquack.net/363/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="HorosheeKino.ru@SD",Horoshee Kino (720p)
-https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="IndiyskoyeKino.ru@SD",Indiyskoye Kino (576p)
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="IndiyskoyeKino.ru@SD",Indiyskoye Kino (576p)
 http://stream.mcquack.net/104/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="IndiyskoyeKino.ru@SD",Indiyskoye Kino
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="Kino24.ru@SD",Kino 24 (720p)
-http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="KinoTV.ru@HD",Kino TV HD (1080p)
 http://176.118.197.101/KinoTvHD/playlist.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="KinoHit.ru@SD",KinoHit (576p)
@@ -228,6 +245,52 @@ http://stream.mcquack.net/133/index.m3u8
 http://stream.mcquack.net/64/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="Kinopokaz.ru@SD",Kinopokaz
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Kinopremyera.ru@SD",Kinopremyera (1080p)
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Kinopremyera.ru@SD",Kinopremyera
+https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Kinosemja.ru@SD",Kinosemja (576p)
+http://stream.mcquack.net/170/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Kinoseriya.ru@SD",Kinoseriya (1080p)
+http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Muzhskoekino.ru@SD",Muzhskoe kino (576p)
+http://stream.mcquack.net/107/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="NationalGeographic.ru@SD",National Geographic (576p)
+http://stream.mcquack.net/116/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="NationalGeographicWild.ru@SD",National Geographic Wild (1080p)
+http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Nauka.ru@SD",Nauka (576p)
+http://stream.mcquack.net/125/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Ostrosyuzhetnoye.ru@HD",Ostrosyuzhetnoye HD (1080p)
+http://stream.mcquack.net/214/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Premialnoe.ru@HD",Premialnoe HD (1080p)
+http://stream.mcquack.net/421/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Priklyucheniya.ru@HD",Priklyucheniya HD (1080p)
+http://stream.mcquack.net/198/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="vijuExplore.ru@SD",viju Explore (576p)
+http://stream.mcquack.net/239/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="vijuHistory.ru@SD",viju History (576p)
+http://178.124.179.122:8080/HistoryHD/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="vijuHistory.ru@SD",viju History (576p)
+http://stream.mcquack.net/101/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="vijuNature.ru@SD",viju Nature
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="vijuTV1000.ru@SD",viju TV1000 (576p)
+http://stream.mcquack.net/110/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="vijuTV1000action.ru@SD",viju TV1000 action (576p)
+http://stream.mcquack.net/100/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="vijuTV1000action.ru@SD",viju TV1000 action
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="vijuPlusComedy.ru@HD",viju+ Comedy HD (1080p)
+http://stream.mcquack.net/201/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="vijuPlusMegahit.ru@HD",viju+ Megahit HD (1080p)
+http://stream.mcquack.net/200/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="vijuPlusPlanet.ru@HD",viju+ Planet HD (1080p)
+http://stream.mcquack.net/240/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="vijuPlusPremiere.ru@HD",viju+ Premiere HD (1080p)
+http://stream.mcquack.net/202/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Nauka.ru@SD",Наука
+https://vod.tuva.ru/nauka2/index.m3u8
 # ===== RUSSIA_CATCAST =====
 #EXTINF:-1 group-title="Rus" tvg-id="CityEdenKinoAsia.ru@HD",Сити Эдем КиноАзия [Not 24/7]
 https://cityeden.catcast.tv/content/34393/index.m3u8
@@ -251,24 +314,3 @@ https://v2.catcast.tv/content/38128/index.m3u8
 https://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="CityEdenKinoAction.ru@HD",Сити Эдем КиноЭкшен [Not 24/7]
 https://cityeden.catcast.tv/content/41333/index.m3u8
-#************  Films  ***********
-#EXTINF:-1 tvg-logo="https://imgz.me/cover/tt15574124/1010x586/1.jpg" group-title="Gerilim", Ölümsüz adam-2026 
-https://raw.githubusercontent.com/qazim/IPTV/main/Films/Olumsuz_adam.m3u8
-#EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.live/poster/izle-lg/access-2-3192.jpg" group-title="Gerilim", Access-2025
-https://raw.githubusercontent.com/qazim/IPTV/main/Films/Access.m3u8
-#EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.live/poster/izle-lg/vip-2-67304.jpg" group-title="Gerilim", V.I.P-2017
-https://raw.githubusercontent.com/qazim/IPTV/main/Films/V.I.P-2017.m3u8
-#EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.live/poster/izle-lg/wake-up-dead-man-a-knives-out-mystery-bicaklar-cekildi-olu-adamin-uyanisi-5325.jpg" group-title="Gerilim", Wake Up Dead Man 2025 
-https://raw.githubusercontent.com/qazim/IPTV/main/Films/Bicaklar_cekildi.m3u8
-#EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.live/poster/izle-lg/fullhd-knivesout2019-izle.jpg" group-title="Gerilim", Knives Out 2019 
-https://raw.githubusercontent.com/qazim/IPTV/main/Films/Bicaklar_cekildi_1.m3u8
-#EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.live/poster/izle-lg/fullhd-the-prosecutor-ng-poon.jpg" group-title="Gerilim", The Prosecutor 2024
-https://raw.githubusercontent.com/qazim/IPTV/main/Films/The_Prosecutor.m3u8
-#EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.live/poster/izle-lg/rich-flu-4728.jpg" group-title="Gerilim", Rich Flu 2024
-https://raw.githubusercontent.com/qazim/IPTV/main/Films/Zengin_Gribi.m3u8
-#EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.live/poster/izle-lg/9bf716ea56b74842ec8f363d27db2f36.jpg" group-title="Gerilim", (7 Olomcul gunah) Seven 1995
-https://raw.githubusercontent.com/qazim/IPTV/main/Films/Seven-1995.m3u8
-#EXTINF:-1 group-title="Gerilim", Bir-mil1_2026
-https://raw.githubusercontent.com/qazim/IPTV/main/Films/Bir_mil1_2026_index.m3u8
-#EXTINF:-1 group-title="Gerilim", Bir-mil2_2026
-https://raw.githubusercontent.com/qazim/IPTV/main/Films/Bir_mil2_2026_index.m3u8

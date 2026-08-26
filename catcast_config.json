@@ -11,7 +11,7 @@
 		]
 	},
 	{
-		"name": "Film-tv",
+		"name": "Catcast-Film-tv",
 		"channels": [
 			{"id": "38617", "slug": "kino-1"},
 			{"id": "50370", "slug": "Komedi-az-TV"},
