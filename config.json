@@ -13,7 +13,6 @@
     },
     "channels": [
       {"name": "ATV-Turkey",    "variables": [{"name": "CHANNEL_NAME", "value": "ATV-Turkey"}]},
-      {"name": "Star-TV",       "variables": [{"name": "CHANNEL_NAME", "value": "Star-TV"}]},
       {"name": "Show-TV",       "variables": [{"name": "CHANNEL_NAME", "value": "Show-TV"}]},
       {"name": "Power-Taptaze", "variables": [{"name": "CHANNEL_NAME", "value": "Power-Taptaze"}]},
       {"name": "Cine5",         "variables": [{"name": "CHANNEL_NAME", "value": "Cine5"}]},

@@ -6,18 +6,10 @@ https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 https://tv-trt1.medya.trt.com.tr/master_480.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",ATV Avrupa
-http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV
 http://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://assets.uzunmuhalefet.com/logos/49ce7689-87c7-4a06-80a7-f5cdf9a19481.png" tvg-url="https://www.showtv.com.tr/" tvg-id="ShowTV.tr",Show TV
-https://streams.uzunmuhalefet.com/stream/0ed1c367-312d-4a42-9772-ef257a36b775.m3u8
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://i.imgur.com/456FWA7.png" group-title="Ulusal",Show TV Max
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://assets.uzunmuhalefet.com/logos/8bd73113-9389-419a-9341-55c3e82469b5.png" tvg-url="https://www.startv.com.tr/" tvg-id="StarTV.tr",Star TV
-https://streams.uzunmuhalefet.com/stream/a8ea8b0b-9c06-41ce-b7f9-35e895c78b77.m3u8
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/kb165Ot.png" group-title="Ulusal",Eurostar
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
+#EXTINF:-1 group-title="Ulusal",Star-TV
+https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="Ulusal",Euro D
@@ -26,8 +18,6 @@ http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 http://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" group-title="Ulusal",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png" group-title="Ulusal",TV 100
-https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="http://assets.tvcdn.net/fbaaa75c-0a2d-4ed6-b498-d32a59ddb899.png" group-title="Ulusal",TRT Turk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png" group-title="Ulusal",Beyaz TV
@@ -40,10 +30,6 @@ http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://i.imgur.com/PrxwKDw.png" group-title="Haber",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png" group-title="Haber",A Haber
-http://65.108.239.207/ahaber/index.m3u8
-#EXTINF:-1 tvg-id="CNN Turk.tr" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="Haber",CNN Turk
-https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/cnnturk.m3u8
 #EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="http://assets.tvcdn.net/9fbfa842-0fff-488a-aab7-d534dbbfe8a9.png" group-title="Haber",Haberturk
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png" group-title="Haber",Haber Global
@@ -71,8 +57,6 @@ https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #####  Ulusal  #####
 #EXTINF:-1 group-title="Ulusal",ATV-Turkey
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:-1 group-title="Ulusal",Star-TV
-https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
 #EXTINF:-1 group-title="Ulusal",Power-Taptaze
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 group-title="Ulusal",Cine5
@@ -97,8 +81,6 @@ https://str.yodacdn.net/apatv/tracks-v1a1/mono.ts.m3u8
 https://str2.yodacdn.net/idmantele/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Azeri-yerli",Medeniyyet TV
 https://str2.yodacdn.net/medeniyyettele/tracks-v3a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Azeri-yerli",MTV Azerbaycan
-https://str.yodacdn.net/mtvaz/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Azeri-yerli",Naxcivan TV
 https://str2.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Azeri-yerli",Kanal35 Naxcivan
@@ -137,29 +119,6 @@ https://autopilot.catcast.tv/mobile.m3u8?channel_id=36517&token=be18fa0ea46325e6
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50372&token=2eba9945a92e54066e7228714a0ec4f7&server=v2.catcast.tv
 #EXTINF:-1 group-title="Catcast-Film-tv",PlayerFilmAzerbaycan-TV
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=a25215765fe6c74ee289a5c1821004e7&server=v2.catcast.tv
-#####  Cityeden-tv  #####
-#EXTINF:-1 group-title="Cityeden-tv",kino asia
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=34393&token=d549d8ac36a9b94496760072398c28f2&server=cityeden.catcast.tv
-#EXTINF:-1 group-title="Cityeden-tv",kino art
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=38398&token=7343fbb90f705b8862f78a597df0797a&server=cityeden.catcast.tv
-#EXTINF:-1 group-title="Cityeden-tv",kino detectiv
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=41327&token=b00db6318923273d7f4147970b06924c&server=cityeden.catcast.tv
-#EXTINF:-1 group-title="Cityeden-tv",kino doc
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=38354&token=762822d814bdcbf3b8187a9c878b2497&server=cityeden.catcast.tv
-#EXTINF:-1 group-title="Cityeden-tv",kino drama
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=45269&token=f99f0cadc60c4de4921a659df9be27f5&server=cityeden.catcast.tv
-#EXTINF:-1 group-title="Cityeden-tv",kino klassika
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=34185&token=7d7e02026a20678ffef14eaf801d2800&server=cityeden.catcast.tv
-#EXTINF:-1 group-title="Cityeden-tv",kino komedia
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=41331&token=c3b7d264bf14bcae36d79414c71603f7&server=cityeden.catcast.tv
-#EXTINF:-1 group-title="Cityeden-tv",kino mistika
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=40783&token=817e2180507b257f456bdd89f71edd23&server=cityeden.catcast.tv
-#EXTINF:-1 group-title="Cityeden-tv",kino semya
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=38128&token=184944754561491294156488d30840f7&server=cityeden.catcast.tv
-#EXTINF:-1 group-title="Cityeden-tv",kino fantastika
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=45268&token=f551b9a84b9ba02f3131d85858e5fc77&server=cityeden.catcast.tv
-#EXTINF:-1 group-title="Cityeden-tv",kino action
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=41333&token=64ea5d4fd3999ac6b270a999f072d309&server=cityeden.catcast.tv
 #************ regional ***********
 #EXTM3U
 # Generated automatically by build_playlist.py
@@ -296,3 +255,26 @@ http://stream.mcquack.net/240/index.m3u8
 http://stream.mcquack.net/202/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="Nauka.ru@SD",Наука
 https://vod.tuva.ru/nauka2/index.m3u8
+# ===== RUSSIA_CATCAST =====
+#EXTINF:-1 group-title="Rus" tvg-id="CityEdenKinoAsia.ru@HD",Сити Эдем КиноАзия [Not 24/7]
+https://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="CityEdenKinoArt.ru@HD",Сити Эдем КиноАрт [Not 24/7]
+https://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="CityEdenKinoDetektiv.ru@HD",Сити Эдем КиноДетектив [Not 24/7]
+https://cityeden.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="CityEdenKinoDok.ru@HD",Сити Эдем КиноДок [Not 24/7]
+https://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="CityEdenKinoDrama.ru@HD",Сити Эдем КиноДрама [Not 24/7]
+https://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="CityEdenKinoKlassika.ru@HD",Сити Эдем КиноКлассика [Not 24/7]
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="CityEdenKinoKomediya.ru@HD",Сити Эдем КиноКомедия [Not 24/7]
+https://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="CityEdenKinoMistika.ru@HD",Сити Эдем КиноМистика [Not 24/7]
+https://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="CityEdenKinoSemya.ru@HD",Сити Эдем КиноСемья [Not 24/7]
+https://v2.catcast.tv/content/38128/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="CityEdenKinoFantastika.ru@HD",Сити Эдем КиноФантастика [Not 24/7]
+https://cityeden.catcast.tv/content/45268/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="CityEdenKinoAction.ru@HD",Сити Эдем КиноЭкшен [Not 24/7]
+https://cityeden.catcast.tv/content/41333/index.m3u8

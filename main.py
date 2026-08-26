@@ -5,6 +5,8 @@ import os
 import tempfile
 from tqdm import tqdm
 
+wanted_names = ["azeri-muzik", "Catcast-Film-tv", "Cityeden-tv_5"]  
+ 
 def get_stream_url(url, pattern, method="GET", headers={}, body={}):
     try:
         if method == "GET":
@@ -84,11 +86,13 @@ def main():
     group_2 = "Music"
     catcast_config_path = "catcast_config.json"
     if os.path.exists(catcast_config_path):
-        print(f"\n>>> Processing Catcast config (Group: {group_2})...")
+        print(f"\n>>> Processing Catcast config (only: {wanted_names})...")
         try:
             with open(catcast_config_path, "r", encoding="utf-8") as f:
                 cat_config = json.load(f)
             for site in cat_config:
+                if site['name'] not in wanted_names:
+                    continue  # пропускаем всё, что не в списке
                 group_2 = site['name']
                 final_playlist.append(f'#####  {group_2}  #####\n')
                 for channel in tqdm(site["channels"], desc="Catcast: " + site['name']):
