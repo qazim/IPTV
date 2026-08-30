@@ -99,8 +99,6 @@ https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=7b7dc1cbf6e9ced7
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=36517&token=fc06e43b7379f9bdb47ab12f09140088&server=v2.catcast.tv
 #EXTINF:-1 group-title="Catcast-Film-tv",PlayerCinema-TV
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50372&token=c6003756d402dad3a11f1c931d54d2da&server=v2.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",PlayerFilmAzerbaycan-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=a8d5a3f27145b8f5489e50f07850ac16&server=v2.catcast.tv
 #************ regional ***********
 #EXTM3U
 # Generated automatically by build_playlist.py
