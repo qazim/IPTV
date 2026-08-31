@@ -74,13 +74,6 @@ def main():
                     final_playlist.append(f"{stream}\n")
     except Exception as e:
         print(f"Ошибка в основном конфиге: {e}")
-    # --- YodaAz (замена мёртвого myvideo-az) ---
-    yodaaz_path = "YodaAz.m3u"
-    if os.path.exists(yodaaz_path):
-        print(">>> Adding YodaAz.m3u ...")
-        with open(yodaaz_path, "r", encoding="utf-8") as f:
-            for line in f:
-                final_playlist.append(line)
                 
     # --- 2. Catcast конфиг ---
     group_2 = "Music"
