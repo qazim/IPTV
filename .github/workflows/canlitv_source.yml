@@ -23,8 +23,7 @@ jobs:
           python-version: '3.10'
 
       # 3. Устанавливаем зависимости (если они нужны, раскомментируйте строку ниже)
-      # - run: pip install -r requirements.txt
-
+         run: pip install -r requirements.txt
       # 4. Запускаем ваш другой скрипт
       # ЗАМЕНИТЕ 'other_script.py' на имя файла, который вы хотите запустить
       - name: Run canlitv_source script
