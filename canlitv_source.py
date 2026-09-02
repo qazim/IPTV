@@ -91,7 +91,7 @@ def build_m3u_entries() -> str:
     return "\n".join(lines)
 
 
-OUTPUT_FILE = "CanliTvAz.m3u"
+OUTPUT_FILE = "canlitv.m3u"
 
 
 
