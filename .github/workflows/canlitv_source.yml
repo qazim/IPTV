@@ -37,9 +37,9 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@://github.com"
           
-          # Проверяем, появился или изменился ли конкретно файл regional.m3u
-          if [ -f "regional.m3u" ]; then
-            git add regional.m3u
+          # Проверяем, появился или изменился ли конкретно файл canlitv.m3u
+          if [ -f "canlitv.m3u" ]; then
+            git add canlitv.m3u
             
             # Проверяем, есть ли реальные изменения в файле, чтобы не делать пустой коммит
             if git diff --staged --quiet; then
@@ -49,6 +49,6 @@ jobs:
               git push
             fi
           else
-            echo "Ошибка: Файл regional.m3u не был найден после работы скрипта!"
+            echo "Ошибка: Файл canlitv.m3u не был найден после работы скрипта!"
             exit 1
           fi
