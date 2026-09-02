@@ -1,6 +1,5 @@
-name: Моя Новая Ручная Задача
+name: Запуск canlitv_source.py вручную
 
-# Этот блок отвечает за то, чтобы запускать задачу ТОЛЬКО вручную
 on:
   workflow_dispatch:
 
@@ -8,23 +7,48 @@ permissions:
   contents: write
 
 jobs:
-  run-my-task:
+  execute-script:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Скачиваем код вашего репозитория на сервер GitHub
+      # 1. Скачиваем актуальный код и файлы из репозитория
       - name: Checkout repository code
         uses: actions/checkout@v4
 
-      # 2. Устанавливаем Python
+      # 2. Настраиваем окружение Python
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      # 3. Устанавливаем зависимости (если они нужны, раскомментируйте строку ниже)
-         run: pip install -r requirements.txt
-      # 4. Запускаем ваш другой скрипт
-      # ЗАМЕНИТЕ 'other_script.py' на имя файла, который вы хотите запустить
-      - name: Run canlitv_source script
+      # 3. Устанавливаем библиотеку requests
+      - name: Install requests
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      # 4. Запускаем скрипт (он создаст или обновит файл regional.m3u)
+      - name: Run canlitv_source.py
         run: python canlitv_source.py
+
+      # 5. Сохраняем обновленный regional.m3u в репозиторий
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@://github.com"
+          
+          # Проверяем, появился или изменился ли конкретно файл regional.m3u
+          if [ -f "regional.m3u" ]; then
+            git add regional.m3u
+            
+            # Проверяем, есть ли реальные изменения в файле, чтобы не делать пустой коммит
+            if git diff --staged --quiet; then
+              echo "Плейлист не изменился. Пропускаем коммит."
+            else
+              git commit -m "Автоматическое обновление плейлиста regional.m3u"
+              git push
+            fi
+          else
+            echo "Ошибка: Файл regional.m3u не был найден после работы скрипта!"
+            exit 1
+          fi
