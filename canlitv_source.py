@@ -25,11 +25,9 @@ HEADERS = {
 # name, group, canlitv.com slug
 CANLITV_CHANNELS = [
     ("Space TV",      "Milli", "space-tv"),
-    ("Real TV",       "Milli", "real-tv"),
     ("Atv Azad TV",   "Milli", "azad-tv"),
     ("Xezer Tv",      "Milli", "xezer-tv"),
     ("Az TV",         "Milli", "az-tv"),
-    ("El Tv",         "Milli", "el-tv"),
     ("ARB TV",        "Milli", "arb-tv"),
     ("ARB Gunes TV",  "Milli", "arb-gunes-tv"),
     ("ARB 24 TV",     "Milli", "arb-24-tv"),
@@ -38,8 +36,6 @@ CANLITV_CHANNELS = [
     ("Gunaz Tv",      "Milli", "gunaz-tv"),
     ("CBC Tv",        "Milli", "cbc-tv"),
     ("Ictimai Tv",    "Milli", "ictimai-tv"),
-    ("CBC Sport",     "Milli", "cbc-sport-izle"),
-    ("Idman Tv",      "Milli", "idman-tv"),
     ("Dunya TV",      "Milli", "dunyatv-az"),
     ("Az Star TV",    "Milli", "azstar-tv"),
     ("Baku TV",       "Milli", "baku-tv"),
