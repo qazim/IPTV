@@ -110,6 +110,7 @@ def main():
     # --- Canlitv (генерируется вручную через Termux, IP-зависимый) ---
     if os.path.exists('canlitv.m3u'):
         print(">>> Добавление canlitv.m3u...")
+        final_playlist.append(f'#************ canlitv.com ***********\n')
         with open('canlitv.m3u', "r", encoding="utf-8") as f:
             for line in f:
                 final_playlist.append(line)                
