@@ -33,4 +33,6 @@ else
     git commit -m "update playlists ($(date '+%Y-%m-%d %H:%M'))"
     git push
     echo ">>> Готово! Изменения запушены."
+    echo ">>> Теперь открой приложение GitHub -> qazim/IPTV -> Actions -> main.yml -> Run workflow"
+fi
 fi
