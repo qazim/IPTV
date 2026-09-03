@@ -13,14 +13,14 @@ SOURCES = {
     "az": f"{BASE_URL}/az.m3u",
     "tr": f"{BASE_URL}/tr.m3u",
     "ru": f"{BASE_URL}/ru.m3u",
-    "ru_catcast": f"{BASE_URL}/ru_catcast.m3u",
+    #"ru_catcast": f"{BASE_URL}/ru_catcast.m3u",
 }
 
 GROUP_NAMES = {
     "az": "Azeri",
     "tr": "Turk",
     "ru": "Rus",
-    "ru_catcast": "Rus",
+    #"ru_catcast": "Rus",
 }
 
 CONFIG_FILE = Path("channels.json")
@@ -222,7 +222,7 @@ def main():
                 "az": "AZERBAIJAN",
                 "tr": "TURKEY",
                 "ru": "RUSSIA",
-                "ru_catcast": "RUSSIA_CATCAST",
+                #"ru_catcast": "RUSSIA_CATCAST",
             }
 
             output.append(
