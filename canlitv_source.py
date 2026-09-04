@@ -35,7 +35,6 @@ CANLITV_CHANNELS = [
     ("Kanal S Az",    "Milli", "kanal-s-azerbaycan"),
     ("Gunaz Tv",      "Milli", "gunaz-tv"),
     ("CBC Tv",        "Milli", "cbc-tv"),
-    ("Ictimai Tv",    "Milli", "ictimai-tv"),
     ("Dunya TV",      "Milli", "dunyatv-az"),
     ("Az Star TV",    "Milli", "azstar-tv"),
     ("Baku TV",       "Milli", "baku-tv"),
@@ -43,10 +42,16 @@ CANLITV_CHANNELS = [
     ("Show TV",       "Turk", "show-tv-izle-1"),
     ("Star TV",       "Turk", "star-tv-canli"), 
     ("Kanal D",       "Turk", "kanal-d-canli-yayin"),
+    ("Tv8",           "Turk", "tv8-izle-4"),
     ("TLC",           "Turk", "tlc"),  
     ("DMAX",          "Turk", "dmax-canli-yayin"),
+    ("Beyaz TV",      "Turk", "beyaz-tv"),
+    ("Cine1",         "Turk", "cine-1"),
+    ("Tivi6",         "Turk", "tivi6"),    
     ("360 TV",        "Turk", "360-tv"),
     ("A2 TV",         "Turk", "canli-a2-izle"),
+    ("TV2",           "Turk", "tv2"),
+    ("TELE1",         "Turk", "tele1-tv"),
 ]
 
 ID_RE = re.compile(r'og:image["\']?\s*content=["\']https://canlitv\.com/kanal/logo/(\d+)\.jpg')
@@ -82,6 +87,7 @@ def build_m3u_entries() -> str:
         if url:
             lines.append(f"#EXTINF:-1 group-title=\"{group}\",{name}")
             lines.append(url)
+            print('Bulunan: ', url)
         else:
             print(f"[canlitv] SKIP (bulunamadi): {name} -> {slug}")
     return "\n".join(lines)
