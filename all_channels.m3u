@@ -57,23 +57,23 @@ https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #####  Ulusal  #####
 #####  Iran-Music  #####
 #####  azeri-muzik  #####
-#EXTINF:-1 group-title="azeri-muzik",kanal-65
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=47437&token=6c8608dc345182ac2736cbc512a7013f&server=v2.catcast.tv
+#EXTINF:-1 group-title="azeri-muzik",now-music
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=48694&token=39c8728d9c6a1573ce2e33319243ddc9&server=v2.catcast.tv
 #EXTINF:-1 group-title="azeri-muzik",rihatmusic
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=48076&token=3f284b7646615cb8d762c6cfeaf4947a&server=v2.catcast.tv
 #EXTINF:-1 group-title="azeri-muzik",turkuzplay1
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=48591&token=698ab56fad2e1953aea99099b2268feb&server=v2.catcast.tv
 #####  Catcast-Film-tv  #####
-#EXTINF:-1 group-title="Catcast-Film-tv",kino-1
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=38617&token=420870d3b78b5f7ff5af04940266b05a&server=kino-1.catcast.tv
 #EXTINF:-1 group-title="Catcast-Film-tv",Komedi-az-TV
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50370&token=29fe63544975ab1d2568813519981550&server=v2.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",Detektiv-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=41327&token=90727ff18a9eed48e17645bd8763d639&server=cityeden.catcast.tv
+#EXTINF:-1 group-title="Catcast-Film-tv",Strax-TV
+https://s.catcast.tv/content/34816/index.m3u8?token=70506c00163271a7879896caa967540e
+#EXTINF:-1 group-title="Catcast-Film-tv",Fenix SSSR
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=5f2b4740b90674c37276b164c435be02&server=v2.catcast.tv
+#EXTINF:-1 group-title="Catcast-Film-tv",Action-TV
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=36517&token=8637282123fc69636380c7ef553069bd&server=v2.catcast.tv
 #EXTINF:-1 group-title="Catcast-Film-tv",PlayerCinema-TV
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50372&token=1bae6cd20298fedd23575180483a7c72&server=v2.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",PlayerFilmAzerbaycan-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=db17174ffbde119f36d41b1981519fe5&server=v2.catcast.tv
 #************ regional ***********
 #EXTM3U
 # Generated automatically by build_playlist.py
@@ -244,58 +244,58 @@ https://fs.uplink.kz/viju_tv1000_action/mono.m3u8?token=onlinetv
 http://dtv.vol.net.ua/Nat-Geo-Wild-HD/index.m3u8
 #************ canlitv.com ***********
 #EXTINF:-1 group-title="Milli",Space TV
-https://yayin2.canlitv.fun/live/spacetv.stream/playlist.m3u8?hash=42592e3b91e37c40733884676914398f
+https://yayin2.canlitv.fun/live/spacetv.stream/playlist.m3u8?hash=60d55cfb12dfea1087a2ed7b28282928
 #EXTINF:-1 group-title="Milli",Atv Azad TV
-https://yayin2.canlitv.fun/live/atvazad.stream/playlist.m3u8?hash=42592e3b91e37c40733884676914398f
+https://yayin2.canlitv.fun/live/atvazad.stream/playlist.m3u8?hash=60d55cfb12dfea1087a2ed7b28282928
 #EXTINF:-1 group-title="Milli",Xezer Tv
-https://yayin2.canlitv.fun/live/xezertv.stream/playlist.m3u8?hash=42592e3b91e37c40733884676914398f
+https://yayin2.canlitv.fun/live/xezertv.stream/playlist.m3u8?hash=60d55cfb12dfea1087a2ed7b28282928
 #EXTINF:-1 group-title="Milli",Az TV
-https://yayin2.canlitv.fun/live/aztv.stream/playlist.m3u8?hash=42592e3b91e37c40733884676914398f
+https://yayin2.canlitv.fun/live/aztv.stream/playlist.m3u8?hash=60d55cfb12dfea1087a2ed7b28282928
 #EXTINF:-1 group-title="Milli",ARB TV
-https://yayin2.canlitv.fun/live/arb.stream/playlist.m3u8?hash=42592e3b91e37c40733884676914398f
+https://yayin2.canlitv.fun/live/arb.stream/playlist.m3u8?hash=60d55cfb12dfea1087a2ed7b28282928
 #EXTINF:-1 group-title="Milli",ARB Gunes TV
-https://yayin2.canlitv.fun/live/arbgunes.stream/playlist.m3u8?hash=42592e3b91e37c40733884676914398f
+https://yayin2.canlitv.fun/live/arbgunes.stream/playlist.m3u8?hash=60d55cfb12dfea1087a2ed7b28282928
 #EXTINF:-1 group-title="Milli",ARB 24 TV
-https://yayin2.canlitv.fun/live/arb24.stream/playlist.m3u8?hash=42592e3b91e37c40733884676914398f
+https://yayin2.canlitv.fun/live/arb24.stream/playlist.m3u8?hash=60d55cfb12dfea1087a2ed7b28282928
 #EXTINF:-1 group-title="Milli",Medeniyet Tv
-https://yayin2.canlitv.fun/live/medeniyettv.stream/playlist.m3u8?hash=42592e3b91e37c40733884676914398f
+https://yayin2.canlitv.fun/live/medeniyettv.stream/playlist.m3u8?hash=60d55cfb12dfea1087a2ed7b28282928
 #EXTINF:-1 group-title="Milli",Kanal S Az
-https://yayin2.canlitv.fun/live/kanals.stream/playlist.m3u8?hash=42592e3b91e37c40733884676914398f
+https://yayin2.canlitv.fun/live/kanals.stream/playlist.m3u8?hash=60d55cfb12dfea1087a2ed7b28282928
 #EXTINF:-1 group-title="Milli",Gunaz Tv
  https://tv.gunaz.tv/hls/live.m3u8
 #EXTINF:-1 group-title="Milli",CBC Tv
-https://yayin2.canlitv.fun/live/cbc.stream/playlist.m3u8?hash=42592e3b91e37c40733884676914398f
+https://yayin2.canlitv.fun/live/cbc.stream/playlist.m3u8?hash=60d55cfb12dfea1087a2ed7b28282928
 #EXTINF:-1 group-title="Milli",Dunya TV
-https://yayin2.canlitv.fun/live/dunyatv.stream/playlist.m3u8?hash=42592e3b91e37c40733884676914398f
+https://yayin2.canlitv.fun/live/dunyatv.stream/playlist.m3u8?hash=60d55cfb12dfea1087a2ed7b28282928
 #EXTINF:-1 group-title="Milli",Az Star TV
-https://live.livestreamtv.ca/azstar/amlst:azstar/tracks-v1a1/mono.m3u8?hash=42592e3b91e37c40733884676914398f
+https://live.livestreamtv.ca/azstar/amlst:azstar/tracks-v1a1/mono.m3u8?hash=60d55cfb12dfea1087a2ed7b28282928
 #EXTINF:-1 group-title="Milli",Baku TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 group-title="Turk",Atv TV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8?hash=42592e3b91e37c40733884676914398f
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8?hash=60d55cfb12dfea1087a2ed7b28282928
 #EXTINF:-1 group-title="Turk",Show TV
-https://yayin2.canlitv.fun/live/showtv.stream/playlist.m3u8?hash=42592e3b91e37c40733884676914398f
+https://yayin2.canlitv.fun/live/showtv.stream/playlist.m3u8?hash=60d55cfb12dfea1087a2ed7b28282928
 #EXTINF:-1 group-title="Turk",Star TV
-https://yayin2.canlitv.fun/live/startv.stream/playlist.m3u8?hash=42592e3b91e37c40733884676914398f
+https://yayin2.canlitv.fun/live/startv.stream/playlist.m3u8?hash=60d55cfb12dfea1087a2ed7b28282928
 #EXTINF:-1 group-title="Turk",Kanal D
-https://yayin2.canlitv.fun/live/kanald.stream/playlist.m3u8?hash=42592e3b91e37c40733884676914398f
+https://yayin2.canlitv.fun/live/kanald.stream/playlist.m3u8?hash=60d55cfb12dfea1087a2ed7b28282928
 #EXTINF:-1 group-title="Turk",Tv8
-https://yayin2.canlitv.fun/live/tv-8.stream/playlist.m3u8?hash=42592e3b91e37c40733884676914398f
+https://yayin2.canlitv.fun/live/tv-8.stream/playlist.m3u8?hash=60d55cfb12dfea1087a2ed7b28282928
 #EXTINF:-1 group-title="Turk",TLC
-https://yayin2.canlitv.fun/live/tlc.stream/playlist.m3u8?hash=42592e3b91e37c40733884676914398f
+https://yayin2.canlitv.fun/live/tlc.stream/playlist.m3u8?hash=60d55cfb12dfea1087a2ed7b28282928
 #EXTINF:-1 group-title="Turk",DMAX
-https://yayin2.canlitv.fun/live/dmax.stream/playlist.m3u8?hash=42592e3b91e37c40733884676914398f
+https://yayin2.canlitv.fun/live/dmax.stream/playlist.m3u8?hash=60d55cfb12dfea1087a2ed7b28282928
 #EXTINF:-1 group-title="Turk",Beyaz TV
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8?hash=42592e3b91e37c40733884676914398f
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8?hash=60d55cfb12dfea1087a2ed7b28282928
 #EXTINF:-1 group-title="Turk",Cine1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 #EXTINF:-1 group-title="Turk",Tivi6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 group-title="Turk",360 TV
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8?hash=42592e3b91e37c40733884676914398f
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8?hash=60d55cfb12dfea1087a2ed7b28282928
 #EXTINF:-1 group-title="Turk",A2 TV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 group-title="Turk",TV2
-https://yayin2.canlitv.fun/live/teve2.stream/playlist.m3u8?hash=42592e3b91e37c40733884676914398f
+https://yayin2.canlitv.fun/live/teve2.stream/playlist.m3u8?hash=60d55cfb12dfea1087a2ed7b28282928
 #EXTINF:-1 group-title="Turk",TELE1
-https://tele1-live.ercdn.net/tele1/tele1.m3u8?hash=42592e3b91e37c40733884676914398f
+https://tele1-live.ercdn.net/tele1/tele1.m3u8?hash=60d55cfb12dfea1087a2ed7b28282928
