@@ -57,7 +57,6 @@ def parse_m3u(text: str):
 
     Each record:
     {
-        "country": "...",
         "extinf": "...",
         "url": "..."
     }
@@ -128,6 +127,22 @@ def load_config():
     return config
 
 
+def get_quality_rank(extinf):
+    extinf_lower = extinf.lower()
+    if '4k' in extinf_lower or '2160p' in extinf_lower:
+        return 50
+    elif '1080p' in extinf_lower or 'fhd' in extinf_lower:
+        return 40
+    elif '720p' in extinf_lower:
+        return 30
+    elif '576p' in extinf_lower:
+        return 20
+    elif '480p' in extinf_lower:
+        return 15
+    elif 'sd' in extinf_lower or 'ru@sd' in extinf_lower:
+        return 10
+    return 5  # Неизвестное или самое базовое качество
+     
 def main():
 
     print("===================================")
@@ -163,11 +178,14 @@ def main():
 
         count = 0
 
+        # Сортируем список так, чтобы в начале шли самые низкие качества
+        records = sorted(records, key=lambda r: get_quality_rank(r["extinf"]))
+        
         for record in records:
 
             tvg_id = get_tvg_id(record["extinf"])
 
-            if tvg_id in selected_set:
+            if tvg_id in selected_set and tvg_id not in found_ids:
 
                 all_records.append({
                     "country": country,
@@ -178,7 +196,7 @@ def main():
 
                 found_ids.add(tvg_id)
                 count += 1
-
+                print(f"selected: {tvg_id}")
         print(f"Selected streams: {count}")
 
         # Show missing tvg-id
