@@ -163,5 +163,5 @@ https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv
 https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Rus" tvg-id="vijuTV1000action.ru@SD",viju TV1000 action (576p)
 https://fs.uplink.kz/viju_tv1000_action/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Rus" tvg-id="NationalGeographicWild.ru@SD",National Geographic Wild (1080p)
-http://dtv.vol.net.ua/Nat-Geo-Wild-HD/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="NationalGeographic.ru@SD",National Geographic (1080p)
+http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8
