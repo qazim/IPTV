@@ -68,8 +68,6 @@ https://autopilot.catcast.tv/mobile.m3u8?channel_id=48591&token=9fa3d0863b956a83
 #####  Catcast-Film-tv  #####
 #EXTINF:-1 group-title="Catcast-Film-tv",kino-1
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=38617&token=d5fa5c7536c3d507268cd0f3eef9adc7&server=kino-1.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",Komedi-az-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50370&token=937000c7434b0b4cde14ae4c02c3ea06&server=v2.catcast.tv
 #EXTINF:-1 group-title="Catcast-Film-tv",Strax-TV
 https://s.catcast.tv/content/34816/index.m3u8?token=277b2d71190ca89294ad51c1e41fa58a
 #EXTINF:-1 group-title="Catcast-Film-tv",Fenix SSSR
