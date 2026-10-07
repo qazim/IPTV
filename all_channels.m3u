@@ -66,14 +66,6 @@ https://autopilot.catcast.tv/mobile.m3u8?channel_id=48591&token=b13b7ad94aaeb84e
 #####  Catcast-Film-tv  #####
 #EXTINF:-1 group-title="Catcast-Film-tv",kino-1
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=38617&token=40b1ad512c7985d1f57cdd10b0596e86&server=kino-1.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",Komedi-az-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50370&token=c7749866af28874010bac220fb91c65f&server=v2.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",Fenix SSSR
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=4eb59f6f132d82d8d9b4d7ca233e1f55&server=v2.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",Detektiv-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=41327&token=6db4da138f769bdb5013c8ebc40e252d&server=cityeden.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",PlayerCinema-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50372&token=f81959d094c861a9424535495f47a47c&server=v2.catcast.tv
 #************ regional ***********
 #EXTM3U
 # Generated automatically by build_playlist.py
