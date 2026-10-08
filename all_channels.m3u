@@ -58,8 +58,8 @@ https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #####  Iran-Music  #####
 #####  azeri-muzik  #####
 #####  Catcast-Film-tv  #####
-#EXTINF:-1 group-title="Catcast-Film-tv",PlayerFilmAzerbaycan-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=da9ccc8bf3b4ceb3b102b43027dceb9f&server=v2.catcast.tv
+#EXTINF:-1 group-title="Catcast-Film-tv",Fenix SSSR
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=0b27f5a8dce9eae2ffd721ab187ea35b&server=v2.catcast.tv
 #************ regional ***********
 #EXTM3U
 # Generated automatically by build_playlist.py
