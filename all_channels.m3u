@@ -57,17 +57,9 @@ https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #####  Ulusal  #####
 #####  Iran-Music  #####
 #####  azeri-muzik  #####
-#EXTINF:-1 group-title="azeri-muzik",turkuzplay1
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=48591&token=e8a8022f67ae88154e72512c5910b435&server=v2.catcast.tv
 #####  Catcast-Film-tv  #####
-#EXTINF:-1 group-title="Catcast-Film-tv",kino-1
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=38617&token=8b73fecda6feca8a970159e8a4e60027&server=kino-1.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",Fenix SSSR
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=0b27f5a8dce9eae2ffd721ab187ea35b&server=v2.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",Detektiv-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=41327&token=dfb56c4a7d884d70880910689adc66fd&server=cityeden.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",Action-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=36517&token=16e245eeb8272aed4d9610f1bc102b8a&server=v2.catcast.tv
+#EXTINF:-1 group-title="Catcast-Film-tv",PlayerFilmAzerbaycan-TV
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=da9ccc8bf3b4ceb3b102b43027dceb9f&server=v2.catcast.tv
 #************ regional ***********
 #EXTM3U
 # Generated automatically by build_playlist.py
