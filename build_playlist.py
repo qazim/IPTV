@@ -185,7 +185,7 @@ def main():
 
             tvg_id = get_tvg_id(record["extinf"])
 
-            if tvg_id in selected_set and tvg_id not in found_ids:
+            if tvg_id in selected_set:# and tvg_id not in found_ids:
 
                 all_records.append({
                     "country": country,
