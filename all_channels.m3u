@@ -58,30 +58,28 @@ https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #####  Iran-Music  #####
 #####  azeri-muzik  #####
 #EXTINF:-1 group-title="azeri-muzik",kanal-65
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=47437&token=174652650d268c09aaadc88ca2100d01&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=47437&token=e234744dc6a3b40400025ba3b7034c73&server=v2.catcast.tv
 #EXTINF:-1 group-title="azeri-muzik",now-music
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=48694&token=90465c828c49c899b417d3626d067a0a&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=48694&token=5f16f656c752f6946c3cfd8c7cc710d7&server=v2.catcast.tv
 #EXTINF:-1 group-title="azeri-muzik",rihatmusic
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=48076&token=819cfa173fed64134ef37190e9658980&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=48076&token=ec2bf96b072e712566355d45c437a6a6&server=v2.catcast.tv
 #EXTINF:-1 group-title="azeri-muzik",turkuzplay1
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=48591&token=f13083f138adeceaa70426fb84c2a925&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=48591&token=045d1a748de2581cee647f3fcec55a81&server=v2.catcast.tv
 #####  Catcast-Film-tv  #####
-#EXTINF:-1 group-title="Catcast-Film-tv",kino-1
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=38617&token=e9b6f2653341d1173b1d52920756a440&server=kino-1.catcast.tv
 #EXTINF:-1 group-title="Catcast-Film-tv",Komedi-az-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50370&token=f1bfa0e0c8c79dc68c8d48489668f994&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=50370&token=191fd565d04470367d4519bb77a08622&server=v2.catcast.tv
 #EXTINF:-1 group-title="Catcast-Film-tv",Strax-TV
-https://s.catcast.tv/content/34816/index.m3u8?token=fbffa5ba988ea759f814ddec15572b27
+https://s.catcast.tv/content/34816/index.m3u8?token=7b9d05b9055c8f5b4bdb6e485087f828
 #EXTINF:-1 group-title="Catcast-Film-tv",Fenix SSSR
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=b4b5a453ab876d28ef7e3f382a26dd76&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=b724c3ce10d4711afe98583e185c4027&server=v2.catcast.tv
 #EXTINF:-1 group-title="Catcast-Film-tv",Detektiv-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=41327&token=b9837df7b3da5f17f1e648568e355a33&server=cityeden.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=41327&token=d7bd9cc077affdd90007deadd083d1fe&server=cityeden.catcast.tv
 #EXTINF:-1 group-title="Catcast-Film-tv",Action-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=36517&token=a9601028257e45c904ab440844ae55e5&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=36517&token=db7f7ea4db6dae18b4c9f32368cffc19&server=v2.catcast.tv
 #EXTINF:-1 group-title="Catcast-Film-tv",PlayerCinema-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50372&token=c671dcd286ff29d163deaad60f06a27e&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=50372&token=daf4bd16553bb620ad9ba1f673567b2d&server=v2.catcast.tv
 #EXTINF:-1 group-title="Catcast-Film-tv",PlayerFilmAzerbaycan-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=2d25508ba439efd38251d718a9948623&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=c37221443b3ddc4d6bc5d7c97dd30cdb&server=v2.catcast.tv
 #************ regional ***********
 #EXTM3U
 # Generated automatically by build_playlist.py
