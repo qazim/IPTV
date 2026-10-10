@@ -86,7 +86,11 @@ def parse_m3u(text: str):
 
     return records
 
-
+def get_url_no_token(url:str):
+    link = url.find('mcquack.net')
+    if link ==-1:
+        return None
+    return link
 def get_tvg_id(extinf: str):
     """Extract tvg-id from EXTINF line."""
 
@@ -179,13 +183,15 @@ def main():
         count = 0
 
         # Сортируем список так, чтобы в начале шли самые низкие качества
-        records = sorted(records, key=lambda r: get_quality_rank(r["extinf"]))
+        #records = sorted(records, key=lambda r: get_quality_rank(r["extinf"]))
         
         for record in records:
 
             tvg_id = get_tvg_id(record["extinf"])
-
-            if tvg_id in selected_set and tvg_id not in found_ids:
+            link = get_url_no_token(record['url'])
+            if not country in 'ru':
+                link =1
+            if tvg_id in selected_set and link:# and tvg_id not in found_ids:
 
                 all_records.append({
                     "country": country,

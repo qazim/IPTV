@@ -58,30 +58,30 @@ https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #####  Iran-Music  #####
 #####  azeri-muzik  #####
 #EXTINF:-1 group-title="azeri-muzik",kanal-65
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=47437&token=68e26c207b99ab6de8caa0274d53f9f3&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=47437&token=e234744dc6a3b40400025ba3b7034c73&server=v2.catcast.tv
 #EXTINF:-1 group-title="azeri-muzik",now-music
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=48694&token=9a92797409600e1390a09d9f0b407225&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=48694&token=5f16f656c752f6946c3cfd8c7cc710d7&server=v2.catcast.tv
 #EXTINF:-1 group-title="azeri-muzik",rihatmusic
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=48076&token=af2e7f11beb377691cda50c1ebab7c91&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=48076&token=ec2bf96b072e712566355d45c437a6a6&server=v2.catcast.tv
 #EXTINF:-1 group-title="azeri-muzik",turkuzplay1
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=48591&token=38a032ead28166be0c81fbe1c578a85e&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=48591&token=045d1a748de2581cee647f3fcec55a81&server=v2.catcast.tv
 #####  Catcast-Film-tv  #####
 #EXTINF:-1 group-title="Catcast-Film-tv",kino-1
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=38617&token=955199b3ced43154a3c003010cf5e6a9&server=kino-1.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=38617&token=1d5e45ebf9fe7ad3f84dc3c2c9c2ecd5&server=kino-1.catcast.tv
 #EXTINF:-1 group-title="Catcast-Film-tv",Komedi-az-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50370&token=35945db8d9a213137da293934db05e13&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=50370&token=191fd565d04470367d4519bb77a08622&server=v2.catcast.tv
 #EXTINF:-1 group-title="Catcast-Film-tv",Strax-TV
-https://s.catcast.tv/content/34816/index.m3u8?token=4769acb3dba59ad937e006480114f7e4
+https://s.catcast.tv/content/34816/index.m3u8?token=7b9d05b9055c8f5b4bdb6e485087f828
 #EXTINF:-1 group-title="Catcast-Film-tv",Fenix SSSR
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=03d41a1b476bee8f044bfc2e20aae622&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=b724c3ce10d4711afe98583e185c4027&server=v2.catcast.tv
 #EXTINF:-1 group-title="Catcast-Film-tv",Detektiv-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=41327&token=62db4cb7a5aac1011df7a6b119e2c9bb&server=cityeden.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=41327&token=d7bd9cc077affdd90007deadd083d1fe&server=cityeden.catcast.tv
 #EXTINF:-1 group-title="Catcast-Film-tv",Action-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=36517&token=58bdd16e302d06a671bb70043f3d0bf9&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=36517&token=db7f7ea4db6dae18b4c9f32368cffc19&server=v2.catcast.tv
 #EXTINF:-1 group-title="Catcast-Film-tv",PlayerCinema-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50372&token=33e52824036d0f3f1ed58e5af0f34cf2&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=50372&token=daf4bd16553bb620ad9ba1f673567b2d&server=v2.catcast.tv
 #EXTINF:-1 group-title="Catcast-Film-tv",PlayerFilmAzerbaycan-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=659294d6926559969166e460bc79a8e5&server=v2.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=c37221443b3ddc4d6bc5d7c97dd30cdb&server=v2.catcast.tv
 #************ regional ***********
 #EXTM3U
 # Generated automatically by build_playlist.py
@@ -134,58 +134,30 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 group-title="Turk" tvg-id="TRT1.tr@SD",TRT 1 (1440p)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 # ===== RUSSIA =====
-#EXTINF:-1 group-title="Rus" tvg-id="Cinema.ru@SD",Cinema
-http://catchup.videoline.ru/cinema/playlist.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="Cinema.ru@SD",Cinema
-https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="Domkino.ru@SD",Dom kino (576p)
 http://stream.mcquack.net/236/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="Domkino.ru@SD",Dom kino
-https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="Evrokino.ru@HD",Evrokino HD (1080p)
 http://stream.mcquack.net/385/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="Fox.ru@SD",Fox (576p)
 http://stream.mcquack.net/182/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="Hit.ru@HD",Hit HD (1080p)
-http://hls127.freeott.top:8080/XitHD/video.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="Hit.ru@HD",Hit HD (1080p)
 http://stream.mcquack.net/363/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="IndiyskoyeKino.ru@SD",Indiyskoye Kino (576p)
-http://188.113.190.12/329/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="IndiyskoyeKino.ru@SD",Indiyskoye Kino (576p)
 http://stream.mcquack.net/104/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="IndiyskoyeKino.ru@SD",Indiyskoye Kino
-https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="KinoTV.ru@HD",Kino TV HD (1080p)
-http://176.118.197.101/KinoTvHD/playlist.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="KinoHit.ru@SD",KinoHit (576p)
 http://stream.mcquack.net/126/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="KinoHit.ru@SD",KinoHit
-https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="Kinokomedija.ru@SD",Kinokomedija (576p)
 http://stream.mcquack.net/265/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="Kinomix.ru@SD",Kinomix (576p)
-http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="Kinomix.ru@SD",Kinomix (576p)
 http://stream.mcquack.net/133/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="Kinopokaz.ru@SD",Kinopokaz (576p)
 http://stream.mcquack.net/64/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="Kinopokaz.ru@SD",Kinopokaz
-https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="Kinopremyera.ru@SD",Kinopremyera (1080p)
-http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="Kinopremyera.ru@SD",Kinopremyera
-https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="Kinosemja.ru@SD",Kinosemja (576p)
 http://stream.mcquack.net/170/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="Kinoseriya.ru@SD",Kinoseriya (1080p)
-http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="Muzhskoekino.ru@SD",Muzhskoe kino (576p)
 http://stream.mcquack.net/107/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="NationalGeographic.ru@SD",National Geographic (576p)
 http://stream.mcquack.net/116/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="NationalGeographicWild.ru@SD",National Geographic Wild (1080p)
-http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="Nauka.ru@SD",Nauka (576p)
 http://stream.mcquack.net/125/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="Ostrosyuzhetnoye.ru@HD",Ostrosyuzhetnoye HD (1080p)
@@ -194,20 +166,16 @@ http://stream.mcquack.net/214/index.m3u8
 http://stream.mcquack.net/421/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="Priklyucheniya.ru@HD",Priklyucheniya HD (1080p)
 http://stream.mcquack.net/198/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Shokiruyushchee.ru@HD",Shokiruyushchee HD (1080p)
+http://stream.mcquack.net/75/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="vijuExplore.ru@SD",viju Explore (576p)
 http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="vijuHistory.ru@SD",viju History (576p)
-http://178.124.179.122:8080/HistoryHD/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="vijuHistory.ru@SD",viju History (576p)
 http://stream.mcquack.net/101/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="vijuNature.ru@SD",viju Nature
-https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="vijuTV1000.ru@SD",viju TV1000 (576p)
 http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="vijuTV1000action.ru@SD",viju TV1000 action (576p)
 http://stream.mcquack.net/100/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="vijuTV1000action.ru@SD",viju TV1000 action
-https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="vijuPlusComedy.ru@HD",viju+ Comedy HD (1080p)
 http://stream.mcquack.net/201/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="vijuPlusMegahit.ru@HD",viju+ Megahit HD (1080p)
@@ -216,94 +184,60 @@ http://stream.mcquack.net/200/index.m3u8
 http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="vijuPlusPremiere.ru@HD",viju+ Premiere HD (1080p)
 http://stream.mcquack.net/202/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="Nauka.ru@SD",Наука
-https://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="Cinema.ru@SD",Cinema (576p)
-http://flussonic.linkintel.ru/cinema/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="vijuExplore.ru@SD",viju Explore (576p)
-https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Rus" tvg-id="vijuHistory.ru@SD",viju History (576p)
-https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Rus" tvg-id="vijuNature.ru@SD",viju Nature (576p)
-https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Rus" tvg-id="NationalGeographic.ru@SD",National Geographic (576p)
-https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Rus" tvg-id="NationalGeographicWild.ru@SD",National Geographic Wild (576p)
-https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Rus" tvg-id="KinoHit.ru@SD",KinoHit (576p)
-https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Rus" tvg-id="IndiyskoyeKino.ru@SD",Indiyskoye Kino (576p)
-https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Rus" tvg-id="Kinokomedija.ru@SD",Kinokomedija (576p)
-https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Rus" tvg-id="Kinomix.ru@SD",Kinomix (576p)
-https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Rus" tvg-id="Kinosemja.ru@SD",Kinosemja (576p)
-https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Rus" tvg-id="Kinoseriya.ru@SD",Kinoseriya (576p)
-https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Rus" tvg-id="Muzhskoekino.ru@SD",Muzhskoe kino (576p)
-https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Rus" tvg-id="vijuTV1000.ru@SD",viju TV1000 (576p)
-https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Rus" tvg-id="vijuTV1000action.ru@SD",viju TV1000 action (576p)
-https://fs.uplink.kz/viju_tv1000_action/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Rus" tvg-id="NationalGeographic.ru@SD",National Geographic (1080p)
-http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8
 #************ canlitv.com ***********
 #EXTINF:-1 group-title="Milli",Space TV
-https://yayin2.canlitv.fun/live/spacetv.stream/playlist.m3u8?hash=b2c65b116de08f6d89d085c749c819b7
+https://yayin2.canlitv.fun/live/spacetv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
 #EXTINF:-1 group-title="Milli",Atv Azad TV
-https://yayin2.canlitv.fun/live/atvazad.stream/playlist.m3u8?hash=b2c65b116de08f6d89d085c749c819b7
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
 #EXTINF:-1 group-title="Milli",Xezer Tv
-https://yayin2.canlitv.fun/live/xezertv.stream/playlist.m3u8?hash=b2c65b116de08f6d89d085c749c819b7
+https://yayin2.canlitv.fun/live/xezertv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
 #EXTINF:-1 group-title="Milli",Az TV
-https://yayin2.canlitv.fun/live/aztv.stream/playlist.m3u8?hash=b2c65b116de08f6d89d085c749c819b7
+https://yayin2.canlitv.fun/live/aztv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
 #EXTINF:-1 group-title="Milli",ARB TV
-https://yayin2.canlitv.fun/live/arb.stream/playlist.m3u8?hash=b2c65b116de08f6d89d085c749c819b7
+https://yayin2.canlitv.fun/live/arb.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
 #EXTINF:-1 group-title="Milli",ARB Gunes TV
-https://yayin2.canlitv.fun/live/arbgunes.stream/playlist.m3u8?hash=b2c65b116de08f6d89d085c749c819b7
+https://yayin2.canlitv.fun/live/arbgunes.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
 #EXTINF:-1 group-title="Milli",ARB 24 TV
-https://yayin2.canlitv.fun/live/arb24.stream/playlist.m3u8?hash=b2c65b116de08f6d89d085c749c819b7
+https://yayin2.canlitv.fun/live/arb24.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
 #EXTINF:-1 group-title="Milli",Medeniyet Tv
-https://yayin2.canlitv.fun/live/medeniyettv.stream/playlist.m3u8?hash=b2c65b116de08f6d89d085c749c819b7
+https://yayin2.canlitv.fun/live/medeniyettv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
 #EXTINF:-1 group-title="Milli",Kanal S Az
-https://yayin2.canlitv.fun/live/kanals.stream/playlist.m3u8?hash=b2c65b116de08f6d89d085c749c819b7
+https://yayin2.canlitv.fun/live/kanals.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
 #EXTINF:-1 group-title="Milli",Gunaz Tv
  https://tv.gunaz.tv/hls/live.m3u8
 #EXTINF:-1 group-title="Milli",CBC Tv
-https://yayin2.canlitv.fun/live/cbc.stream/playlist.m3u8?hash=b2c65b116de08f6d89d085c749c819b7
+https://yayin2.canlitv.fun/live/cbc.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
 #EXTINF:-1 group-title="Milli",Dunya TV
-https://yayin2.canlitv.fun/live/dunyatv.stream/playlist.m3u8?hash=b2c65b116de08f6d89d085c749c819b7
+https://yayin2.canlitv.fun/live/dunyatv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
 #EXTINF:-1 group-title="Milli",Az Star TV
-https://live.livestreamtv.ca/azstar/amlst:azstar/tracks-v1a1/mono.m3u8?hash=b2c65b116de08f6d89d085c749c819b7
+https://live.livestreamtv.ca/azstar/amlst:azstar/tracks-v1a1/mono.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
 #EXTINF:-1 group-title="Milli",Baku TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 group-title="Turk",Atv TV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8?hash=b2c65b116de08f6d89d085c749c819b7
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
 #EXTINF:-1 group-title="Turk",Show TV
-https://yayin2.canlitv.fun/live/showtv.stream/playlist.m3u8?hash=b2c65b116de08f6d89d085c749c819b7
+https://yayin2.canlitv.fun/live/showtv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
 #EXTINF:-1 group-title="Turk",Star TV
-https://yayin2.canlitv.fun/live/startv.stream/playlist.m3u8?hash=b2c65b116de08f6d89d085c749c819b7
+https://yayin2.canlitv.fun/live/startv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
 #EXTINF:-1 group-title="Turk",Kanal D
-https://yayin2.canlitv.fun/live/kanald.stream/playlist.m3u8?hash=b2c65b116de08f6d89d085c749c819b7
+https://yayin2.canlitv.fun/live/kanald.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
 #EXTINF:-1 group-title="Turk",Tv8
-https://yayin2.canlitv.fun/live/tv-8.stream/playlist.m3u8?hash=b2c65b116de08f6d89d085c749c819b7
+https://yayin2.canlitv.fun/live/tv-8.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
 #EXTINF:-1 group-title="Turk",TLC
-https://yayin2.canlitv.fun/live/tlc.stream/playlist.m3u8?hash=b2c65b116de08f6d89d085c749c819b7
+https://yayin2.canlitv.fun/live/tlc.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
 #EXTINF:-1 group-title="Turk",DMAX
-https://yayin2.canlitv.fun/live/dmax.stream/playlist.m3u8?hash=b2c65b116de08f6d89d085c749c819b7
+https://yayin2.canlitv.fun/live/dmax.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
 #EXTINF:-1 group-title="Turk",Beyaz TV
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8?hash=b2c65b116de08f6d89d085c749c819b7
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
 #EXTINF:-1 group-title="Turk",Cine1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 #EXTINF:-1 group-title="Turk",Tivi6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 group-title="Turk",360 TV
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8?hash=b2c65b116de08f6d89d085c749c819b7
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
 #EXTINF:-1 group-title="Turk",A2 TV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 group-title="Turk",TV2
-https://yayin2.canlitv.fun/live/teve2.stream/playlist.m3u8?hash=b2c65b116de08f6d89d085c749c819b7
+https://yayin2.canlitv.fun/live/teve2.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
 #EXTINF:-1 group-title="Turk",TELE1
-https://tele1-live.ercdn.net/tele1/tele1.m3u8?hash=b2c65b116de08f6d89d085c749c819b7
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
