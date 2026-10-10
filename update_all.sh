@@ -1,4 +1,4 @@
-#!/data/data/com.termux/files/usr/bin/bash
+#!/usr/bin/env bash
 # update_all.sh — обновляет canlitv.m3u и/или regional.m3u и пушит в GitHub
 # Использование:
 #   ./update_all.sh canlitv     — обновить только canlitv.m3u
