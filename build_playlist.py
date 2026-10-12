@@ -91,6 +91,7 @@ def get_url_no_token(url:str):
     if link ==-1:
         return None
     return link
+    
 def get_tvg_id(extinf: str):
     """Extract tvg-id from EXTINF line."""
 
