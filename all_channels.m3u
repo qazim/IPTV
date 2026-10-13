@@ -93,8 +93,6 @@ https://autopilot.catcast.tv/mobile.m3u8?channel_id=41327&token=f41e5227ddadd6b1
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=36517&token=8226ad8e2e50f3aba0bf9e0b444254bd&server=v2.catcast.tv
 #EXTINF:-1 group-title="Catcast-Film-tv",PlayerCinema-TV
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50372&token=714efbae61ffd80d04caf2d9ab8f03a8&server=v2.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",PlayerFilmAzerbaycan-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=a987622de69dabe15060ca8ba8dcc248&server=v2.catcast.tv
 #EXTINF:-1 group-title="Catcast-Film-tv",Azeri-Retro filmler
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50852&token=ab77272182c0d3da07af94c8a695a7bf&server=v2.catcast.tv
 #************ regional ***********
