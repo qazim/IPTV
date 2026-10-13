@@ -94,19 +94,14 @@ https://autopilot.catcast.tv/mobile.m3u8?channel_id=36517&token=8226ad8e2e50f3ab
 #EXTINF:-1 group-title="Catcast-Film-tv",PlayerCinema-TV
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50372&token=714efbae61ffd80d04caf2d9ab8f03a8&server=v2.catcast.tv
 #EXTINF:-1 group-title="Catcast-Film-tv",PlayerFilmAzerbaycan-TV
-<<<<<<< HEAD
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=c6e6f160f877c8d5182869562734f99b&server=v2.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",Azeri-Retro filmler
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50852&token=af208b07a6c5ff16d5ee732efcde3cd0&server=v2.catcast.tv
-=======
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=a987622de69dabe15060ca8ba8dcc248&server=v2.catcast.tv
 #EXTINF:-1 group-title="Catcast-Film-tv",Azeri-Retro filmler
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50852&token=ab77272182c0d3da07af94c8a695a7bf&server=v2.catcast.tv
->>>>>>> b07bf972303ba043ca4b94149669531a85f8c12d
 #************ regional ***********
 #EXTM3U
 # Generated automatically by build_playlist.py
 # Source: https://github.com/iptv-org/iptv
+#EXTM3U https://iptv-epg.org/files/epg-ru.xml
 
 # ===== AZERBAIJAN =====
 #EXTINF:-1 group-title="Azeri" tvg-id="APATv.az@SD",APA Tv (1080p)
@@ -140,6 +135,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 group-title="Turk" tvg-id="ATV.tr@SD",ATV (360p)
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+#EXTINF:-1 group-title="Turk" tvg-id="BeyazTV.tr@SD",Beyaz TV (720p) [Not 24/7]
+https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
 #EXTINF:-1 group-title="Turk" tvg-id="HalkTV.tr@SD",Halk TV (1080p)
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 group-title="Turk" tvg-id="KanalD.tr@SD",Kanal D (1080p)
@@ -187,9 +184,13 @@ http://stream.mcquack.net/214/index.m3u8
 http://stream.mcquack.net/421/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="Priklyucheniya.ru",Priklyucheniya HD (1080p)
 http://stream.mcquack.net/198/index.m3u8
+<<<<<<< HEAD
+#EXTINF:-1 group-title="Rus" tvg-id="vijuExplore.ru@SD",viju Explore (576p)
+=======
 #EXTINF:-1 group-title="Rus" tvg-id="Shokiruyushchee.ru@HD",Shokiruyushchee HD (1080p)
 http://stream.mcquack.net/75/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="vijuExplore.ru",viju Explore (576p)
+>>>>>>> b07bf972303ba043ca4b94149669531a85f8c12d
 http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="vijuHistory.ru",viju History (576p)
 http://stream.mcquack.net/101/index.m3u8
@@ -205,6 +206,10 @@ http://stream.mcquack.net/200/index.m3u8
 http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="vijuPlusPremiere.ru",viju+ Premiere HD (1080p)
 http://stream.mcquack.net/202/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="DiscoveryChannel.ru@SD",Discovery Channel (1080p)
+http://stream.mcquack.net/177/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="InvestigationDiscovery.ru@SD",Investigation Discovery (1080p)
+http://stream.mcquack.net/205/index.m3u8
 #************ canlitv.com ***********
 #EXTINF:-1 group-title="Milli",Space TV
 <<<<<<< HEAD
