@@ -58,13 +58,13 @@ http://stream.mcquack.net/182/index.m3u8
 http://stream.mcquack.net/363/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="	indiyskoe-kino",Indiyskoye Kino (576p)
 http://stream.mcquack.net/104/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="KinoHit.ru@SD",KinoHit (576p)
+#EXTINF:-1 group-title="Rus" tvg-id="Кинохит",KinoHit (576p)
 http://stream.mcquack.net/126/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="kinokomedia",Kinokomedija (576p)
 http://stream.mcquack.net/265/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="kinomix",Kinomix (576p)
+#EXTINF:-1 group-title="Rus" tvg-id="Киномикс",Kinomix (576p)
 http://stream.mcquack.net/133/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="kinopokaz",Kinopokaz (576p)
+#EXTINF:-1 group-title="Rus" tvg-id="Кинопоказ",Kinopokaz (576p)
 http://stream.mcquack.net/64/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="Kinosemja.ru",Kinosemja (576p)
 http://stream.mcquack.net/170/index.m3u8
