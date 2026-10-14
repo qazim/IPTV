@@ -40,9 +40,10 @@ def get_catcast_stream(channel_id):
     return None
 
 def main():
-    final_playlist = ["#EXTM3U \n"]
+    final_playlist = ["#EXTM3U url-tvg=\"https://qazim.github.io/IPTV/epg_small.xml.gz\" \n"]
     
     with open('TurkAzeri.m3u', "r", encoding="utf-8") as f:
+        f.readline()
         for line in f:
             final_playlist.append(line)
 
@@ -105,6 +106,7 @@ def main():
     if os.path.exists(canlitv_path):
         print(">>> Add regional.m3u ...")
         with open(canlitv_path, "r", encoding="utf-8") as f:
+            f.readline()
             for line in f:
                 final_playlist.append(line)
     # # --- Canlitv (генерируется вручную через Termux, IP-зависимый) ---

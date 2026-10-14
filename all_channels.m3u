@@ -1,5 +1,4 @@
-#EXTM3U 
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml"
+#EXTM3U url-tvg="https://qazim.github.io/IPTV/epg_small.xml.gz" 
 #EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
@@ -55,7 +54,23 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Eglence", BEGEN TV
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #####  Ulusal  #####
+#EXTINF:-1 group-title="Ulusal",ATV-Turkey
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 group-title="Ulusal",Power-Taptaze
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 group-title="Ulusal",Cine5
+https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
+#EXTINF:-1 group-title="Ulusal",AzStar-TV
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #####  Iran-Music  #####
+#EXTINF:-1 group-title="Iran-Music",T2-TV
+https://t2hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran-Music",Sun-Music
+https://hls.sunmusic.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran-Music",AFN-Music
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 group-title="Iran-Music",MTC
+https://mtchls.wns.live/hls/stream.m3u8
 #####  azeri-muzik  #####
 #EXTINF:-1 group-title="azeri-muzik",kanal-65
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=47437&token=fa6763d17ab961ac3a817b8ff2178a8c&server=v2.catcast.tv
@@ -83,7 +98,6 @@ https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=45d48781fc88e850
 #EXTINF:-1 group-title="Catcast-Film-tv",Azeri-Retro filmler
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=50852&token=ec691b523aca62cc718d707357e10a39&server=v2.catcast.tv
 #************ regional ***********
-#EXTM3U url-tvg="https://qazim.github.io/IPTV/epg_small.xml.gz"
 # ===== AZERBAIJAN =====
 #EXTINF:-1 group-title="Azeri" tvg-id="APA TV",APA Tv (1080p)
 http://stream.apa.tv/apastream/index.m3u8
