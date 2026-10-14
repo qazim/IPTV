@@ -1,9 +1,0 @@
-#EXTM3U url-tvg="https://qazim.github.io/IPTV/epg_test.xml"
-#EXTINF:-1 tvg-id="kinomix" group-title="Test",Kinomix
-http://stream.mcquack.net/133/index.m3u8
-#EXTINF:-1 tvg-id="kinopokaz" group-title="Test",Kinopokaz
-http://stream.mcquack.net/64/index.m3u8
-#EXTINF:-1 tvg-id="kinosemja" group-title="Test",Kinosemja (576p)
-http://stream.mcquack.net/170/index.m3u8
-#EXTINF:-1 tvg-id="muzhskoe-kino" group-title="Test",Muzhskoe kino (576p)
-http://stream.mcquack.net/107/index.m3u8
