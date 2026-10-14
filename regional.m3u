@@ -1,5 +1,23 @@
 #EXTM3U url-tvg="http://s01.wsbof.com:8080/xml/81c021a6.gz" x-tvg-url="http://s01.wsbof.com:8080/xml/81c021a6.gz" 
-#EXTINF:-1 tvg-id="kinohit" group-title="Test",KinoHit
+#EXTINF:-1 group-title="Rus" tvg-id="dom-kino",Dom kino (576p)
+http://stream.mcquack.net/236/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="evrokino",Evrokino HD (1080p)
+http://stream.mcquack.net/385/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="fox",Fox (576p)
+http://stream.mcquack.net/182/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="hit-hd",Hit HD (1080p)
+http://stream.mcquack.net/363/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="indija-tv",Indiyskoye Kino (576p)
+http://stream.mcquack.net/104/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Kino Hit",KinoHit (576p)
 http://stream.mcquack.net/126/index.m3u8
-#EXTINF:-1 tvg-id="kinopokaz" group-title="Test",Kinopokaz
+#EXTINF:-1 group-title="Rus" tvg-id="kinokomedia",Kinokomedija (576p)
+http://stream.mcquack.net/265/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinomix",Kinomix (576p)
+http://stream.mcquack.net/133/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinopokaz",Kinopokaz (576p)
 http://stream.mcquack.net/64/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinosemja",Kinosemja (576p)
+http://stream.mcquack.net/170/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Muzhskoekino",Muzhskoe kino (576p)
+http://stream.mcquack.net/107/index.m3u8
