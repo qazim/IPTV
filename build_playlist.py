@@ -13,14 +13,12 @@ SOURCES = {
     "az": f"{BASE_URL}/az.m3u",
     "tr": f"{BASE_URL}/tr.m3u",
     "ru": f"{BASE_URL}/ru.m3u",
-    #"ru_catcast": f"{BASE_URL}/ru_catcast.m3u",
 }
 
 GROUP_NAMES = {
     "az": "Azeri",
     "tr": "Turk",
     "ru": "Rus",
-    #"ru_catcast": "Rus",
 }
 
 CONFIG_FILE = Path("channels.json")
@@ -91,6 +89,7 @@ def get_url_no_token(url:str):
     if link ==-1:
         return None
     return link
+    
 def get_tvg_id(extinf: str):
     """Extract tvg-id from EXTINF line."""
 
@@ -230,6 +229,9 @@ def main():
         "# Source: https://github.com/iptv-org/iptv"
     )
 
+    output.append(
+        "#EXTM3U https://iptv-epg.org/files/epg-ru.xml"
+    )
     output.append("")
 
     current_country = None
@@ -245,8 +247,7 @@ def main():
             country_names = {
                 "az": "AZERBAIJAN",
                 "tr": "TURKEY",
-                "ru": "RUSSIA",
-                #"ru_catcast": "RUSSIA_CATCAST",
+                "ru": "RUSSIA"
             }
 
             output.append(

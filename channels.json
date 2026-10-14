@@ -20,7 +20,8 @@
 	"A2TV.tr@SD",
 	"360.tr@SD",
 	"Tivi6.tr@SD",
-	"HalkTV.tr@SD"
+	"HalkTV.tr@SD",
+	"BeyazTV.tr@SD"
   ],
   "ru": [
     "Fox.ru@SD",
@@ -39,33 +40,21 @@
 	"Kinoseriya.ru@SD",
 	"Muzhskoekino.ru@SD",
 	"Ostrosyuzhetnoye.ru@HD",
-	"Shokiruyushchee.ru@HD",
 	"Premialnoe.ru@HD",
 	"Priklyucheniya.ru@HD",
-	"NationalGeographic.ru@SD",
-	"NationalGeographicWild.ru@SD",
-	"vijuExplore.ru@SD",
-	"vijuHistory.ru@SD",
-	"vijuNature.ru@SD",
 	"vijuTV1000.ru@SD",
 	"vijuTV1000action.ru@SD",
 	"vijuPlusComedy.ru@HD",
 	"vijuPlusMegahit.ru@HD",
-	"vijuPlusPlanet.ru@HD",
 	"vijuPlusPremiere.ru@HD",
+	"vijuExplore.ru@SD",
+	"vijuHistory.ru@SD",
+	"vijuNature.ru@SD",
+	"DiscoveryChannel.ru@SD",
+	"InvestigationDiscovery.ru@SD",
+	"NationalGeographic.ru@SD",
+	"NationalGeographicWild.ru@SD",
+	"vijuPlusPlanet.ru@HD",
 	"Nauka.ru@SD"
-  ],
-  "ru_catcast": [
-    "CityEdenKinoAsia.ru@HD",
-    "CityEdenKinoArt.ru@HD",
-	"CityEdenKinoDetektiv.ru@HD",
-	"CityEdenKinoDok.ru@HD",
-	"CityEdenKinoDrama.ru@HD",
-	"CityEdenKinoKlassika.ru@HD",
-	"CityEdenKinoKomediya.ru@HD",
-	"CityEdenKinoMistika.ru@HD",
-	"CityEdenKinoSemya.ru@HD",
-	"CityEdenKinoFantastika.ru@HD",
-	"CityEdenKinoAction.ru@HD"
   ]
 }
