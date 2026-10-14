@@ -1,4 +1,52 @@
-#EXTM3U url-tvg="https://qazim.github.io/IPTV/epg.xml.gz"
+#EXTM3U url-tvg="https://qazim.github.io/IPTV/epg_small.xml.gz"
+
+# ===== AZERBAIJAN =====
+#EXTINF:-1 group-title="Azeri" tvg-id="APA TV",APA Tv (1080p)
+http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="Ayaz TV",Ayaz TV (720p)
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="AZTV",Az TV (1080p)
+https://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="AZTV",Az TV
+http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
+#EXTINF:-1 group-title="Azeri" tvg-id="AZTV",Az TV
+https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="baku-az-hd",Baku.TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="ictimai-tv-az-hd",Ictimai TV
+https://live.itv.az/itv.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="KanalS",Kanal S
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="Kapaz TV",Kapaz TV
+http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="Medeniyyet TV",Medeniyyet TV (1080p)
+https://str.yodacdn.net/medeniyyettele/index.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="Xezer TV",Xezer TV (720p)
+https://www.xezerxeber.az/stream/index.m3u8
+# ===== TURKEY =====
+#EXTINF:-1 group-title="Turk" tvg-id="360.tr",360 TV (720p) [Not 24/7]
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 group-title="Turk" tvg-id="A2TV.tr",A2TV (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1 group-title="Turk" tvg-id="atv-hd-tr",ATV (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:-1 group-title="Turk" tvg-id="atv-hd-tr",ATV (360p)
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+#EXTINF:-1 group-title="Turk" tvg-id="HALK TV.tr",Halk TV (1080p)
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 group-title="Turk" tvg-id="kanald-hd-tr",Kanal D (1080p)
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 group-title="Turk" tvg-id="NOWTV.tr",NOW TV (720p)
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 group-title="Turk" tvg-id="NOWTV.tr",NOW TV
+http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:-1 group-title="Turk" tvg-id="star-hd-tr",Star TV (720p)
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
+#EXTINF:-1 group-title="Turk" tvg-id="TİVİ6.tr",Tivi 6 (720p)
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 group-title="Turk" tvg-id="trt1-hd-tr",TRT 1 (1440p)
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+# ===== RUSSIA =====
 #EXTINF:-1 group-title="Rus" tvg-id="dom-kino",Dom kino (576p)
 http://stream.mcquack.net/236/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="evrokino",Evrokino HD (1080p)
@@ -9,7 +57,7 @@ http://stream.mcquack.net/182/index.m3u8
 http://stream.mcquack.net/363/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="indija-tv",Indiyskoye Kino (576p)
 http://stream.mcquack.net/104/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="Kino Hit",KinoHit (576p)
+#EXTINF:-1 group-title="Rus" tvg-id="tvoe-kino-hit-ua-hd",KinoHit (576p)
 http://stream.mcquack.net/126/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="kinokomedia",Kinokomedija (576p)
 http://stream.mcquack.net/265/index.m3u8
@@ -19,5 +67,32 @@ http://stream.mcquack.net/133/index.m3u8
 http://stream.mcquack.net/64/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="kinosemja",Kinosemja (576p)
 http://stream.mcquack.net/170/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="Muzhskoekino",Muzhskoe kino (576p)
+#EXTINF:-1 group-title="Rus" tvg-id="muzhskoe-kino",Muzhskoe kino (576p)
 http://stream.mcquack.net/107/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="nat-geo",National Geographic (576p)
+http://stream.mcquack.net/116/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="nauka",Nauka (576p)
+http://stream.mcquack.net/125/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="ostrosujetnoe-hd",Ostrosyuzhetnoye HD (1080p)
+http://stream.mcquack.net/214/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinopremiera-hd",Premialnoe HD (1080p)
+http://stream.mcquack.net/421/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Priklyucheniya",Priklyucheniya HD (1080p)
+http://stream.mcquack.net/198/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="viasat-explore",viju Explore (576p)
+http://stream.mcquack.net/239/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="viasat-history",viju History (576p)
+http://stream.mcquack.net/101/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="tv1000",viju TV1000 (576p)
+http://stream.mcquack.net/110/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="tv1000-action",viju TV1000 action (576p)
+http://stream.mcquack.net/100/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="vip-comedy-hd",viju+ Comedy HD (1080p)
+http://stream.mcquack.net/201/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="vip-megahit-hd",viju+ Megahit HD (1080p)
+http://stream.mcquack.net/200/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="viju Plus Planet",viju+ Planet HD (1080p)
+http://stream.mcquack.net/240/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="vip-premiere-hd",viju+ Premiere HD (1080p)
+http://stream.mcquack.net/202/index.m3u8
+
