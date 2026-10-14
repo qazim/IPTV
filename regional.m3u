@@ -1,7 +1,7 @@
 #EXTM3U
 # Generated automatically by build_playlist.py
 # Source: https://github.com/iptv-org/iptv
-#EXTM3U https://iptv-epg.org/files/epg-ru.xml
+#EXTM3U url-tvg="iptvx.one;"
 
 # ===== AZERBAIJAN =====
 #EXTINF:-1 group-title="Azeri" tvg-id="APATv.az@SD",APA Tv (1080p)
@@ -52,23 +52,23 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 group-title="Turk" tvg-id="TRT1.tr@SD",TRT 1 (1440p)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 # ===== RUSSIA =====
-#EXTINF:-1 group-title="Rus" tvg-id="Domkino.ru@SD",Dom kino (576p)
+#EXTINF:-1 group-title="Rus" tvg-id="domkino",Dom kino (576p)
 http://stream.mcquack.net/236/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="Evrokino.ru@HD",Evrokino HD (1080p)
+#EXTINF:-1 group-title="Rus" tvg-id="evrokino",Evrokino HD (1080p)
 http://stream.mcquack.net/385/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="Fox.ru@SD",Fox (576p)
+#EXTINF:-1 group-title="Rus" tvg-id="fox",Fox (576p)
 http://stream.mcquack.net/182/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="Hit.ru@HD",Hit HD (1080p)
+#EXTINF:-1 group-title="Rus" tvg-id="hit",Hit HD (1080p)
 http://stream.mcquack.net/363/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="IndiyskoyeKino.ru@SD",Indiyskoye Kino (576p)
+#EXTINF:-1 group-title="Rus" tvg-id="	indiyskoe-kino",Indiyskoye Kino (576p)
 http://stream.mcquack.net/104/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="KinoHit.ru@SD",KinoHit (576p)
 http://stream.mcquack.net/126/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="Kinokomedija.ru",Kinokomedija (576p)
+#EXTINF:-1 group-title="Rus" tvg-id="kinokomedia",Kinokomedija (576p)
 http://stream.mcquack.net/265/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="Kinomix.ru",Kinomix (576p)
+#EXTINF:-1 group-title="Rus" tvg-id="kinomix",Kinomix (576p)
 http://stream.mcquack.net/133/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="Kinopokaz.ru",Kinopokaz (576p)
+#EXTINF:-1 group-title="Rus" tvg-id="kinopokaz",Kinopokaz (576p)
 http://stream.mcquack.net/64/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="Kinosemja.ru",Kinosemja (576p)
 http://stream.mcquack.net/170/index.m3u8
