@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://qazim.github.io/IPTV/epg_small.xml"
+#EXTM3U url-tvg="https://qazim.github.io/IPTV/epg_test.xml"
 #EXTINF:-1 tvg-id="kinomix" group-title="Test",Kinomix
 http://stream.mcquack.net/133/index.m3u8
 #EXTINF:-1 tvg-id="kinopokaz" group-title="Test",Kinopokaz
