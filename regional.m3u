@@ -1,7 +1,7 @@
 #EXTM3U
 # Generated automatically by build_playlist.py
 # Source: https://github.com/iptv-org/iptv
-#EXTM3U url-tvg="iptvx.one;"
+#EXTM3U url-tvg="http://s01.wsbof.com:8080/xml/81c021a6.gz" x-tvg-url="http://s01.wsbof.com:8080/xml/81c021a6.gz" catchup-type="shift"
 
 # ===== AZERBAIJAN =====
 #EXTINF:-1 group-title="Azeri" tvg-id="APATv.az@SD",APA Tv (1080p)
