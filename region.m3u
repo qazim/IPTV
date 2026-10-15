@@ -1,0 +1,50 @@
+#EXTM3U url-tvg="https://epg.it999.ru/epg.xml.gz"
+# ===== RUSSIA =====
+#EXTINF:-1 group-title="Rus" tvg-id="dom-kino" tvg-source="=it999",Dom kino (576p)
+http://stream.mcquack.net/236/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="evrokino",Evrokino HD (1080p)
+http://stream.mcquack.net/385/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="fox",Fox (576p)
+http://stream.mcquack.net/182/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="hit-hd",Hit HD (1080p)
+http://stream.mcquack.net/363/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="indija-tv",Indiyskoye Kino (576p)
+http://stream.mcquack.net/104/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="tvoe-kino-hit-ua-hd",KinoHit (576p)
+http://stream.mcquack.net/126/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinokomedia",Kinokomedija (576p)
+http://stream.mcquack.net/265/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinomix",Kinomix (576p)
+http://stream.mcquack.net/133/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinopokaz",Kinopokaz (576p)
+http://stream.mcquack.net/64/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinosemja",Kinosemja (576p)
+http://stream.mcquack.net/170/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="muzhskoe-kino",Muzhskoe kino (576p)
+http://stream.mcquack.net/107/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="nat-geo",National Geographic (576p)
+http://stream.mcquack.net/116/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="nauka",Nauka (576p)
+http://stream.mcquack.net/125/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="ostrosujetnoe-hd",Ostrosyuzhetnoye HD (1080p)
+http://stream.mcquack.net/214/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinopremiera-hd",Premialnoe HD (1080p)
+http://stream.mcquack.net/421/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="Priklyucheniya",Priklyucheniya HD (1080p)
+http://stream.mcquack.net/198/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="viasat-explore",viju Explore (576p)
+http://stream.mcquack.net/239/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="viasat-history",viju History (576p)
+http://stream.mcquack.net/101/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="tv1000",viju TV1000 (576p)
+http://stream.mcquack.net/110/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="tv1000-action",viju TV1000 action (576p)
+http://stream.mcquack.net/100/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="vip-comedy-hd",viju+ Comedy HD (1080p)
+http://stream.mcquack.net/201/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="vip-megahit-hd",viju+ Megahit HD (1080p)
+http://stream.mcquack.net/200/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="viju Plus Planet",viju+ Planet HD (1080p)
+http://stream.mcquack.net/240/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="vip-premiere-hd",viju+ Premiere HD (1080p)
+http://stream.mcquack.net/202/index.m3u8
