@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-
 # ===== RUSSIA =====
 #EXTINF:-1 group-title="Rus" tvg-id="domkino",Dom kino (576p)
 http://stream.mcquack.net/236/index.m3u8
@@ -7,11 +6,11 @@ http://stream.mcquack.net/236/index.m3u8
 http://stream.mcquack.net/385/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="fox",Fox (576p)
 http://stream.mcquack.net/182/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="hit-hd",Hit HD (1080p)
+#EXTINF:-1 group-title="Rus" tvg-id="khit-hd",Hit HD (1080p)
 http://stream.mcquack.net/363/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="indiyskoe-kino",Indiyskoye Kino (576p)
 http://stream.mcquack.net/104/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="tvoe-kino-hit-ua-hd",KinoHit (576p)
+#EXTINF:-1 group-title="Rus" tvg-id="kinoxit",KinoHit (576p)
 http://stream.mcquack.net/126/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="kinokomedia",Kinokomedija (576p)
 http://stream.mcquack.net/265/index.m3u8
@@ -31,7 +30,7 @@ http://stream.mcquack.net/125/index.m3u8
 http://stream.mcquack.net/214/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="kinopremiera-hd",Premialnoe HD (1080p)
 http://stream.mcquack.net/421/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="Priklyucheniya",Priklyucheniya HD (1080p)
+#EXTINF:-1 group-title="Rus" tvg-id="prikluchenia-hd",Priklyucheniya HD (1080p)
 http://stream.mcquack.net/198/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="viasat-explore",viju Explore (576p)
 http://stream.mcquack.net/239/index.m3u8
@@ -45,7 +44,7 @@ http://stream.mcquack.net/100/index.m3u8
 http://stream.mcquack.net/201/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="vip-megahit",viju+ Megahit HD (1080p)
 http://stream.mcquack.net/200/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="viju Plus Planet",viju+ Planet HD (1080p)
+#EXTINF:-1 group-title="Rus" tvg-id="viasat-nature-history-hd",viju+ Planet HD (1080p)
 http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="vip-premiere",viju+ Premiere HD (1080p)
 http://stream.mcquack.net/202/index.m3u8
