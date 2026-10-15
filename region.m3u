@@ -1,7 +1,7 @@
-#EXTM3U url-tvg="https://epg.it999.ru/epg.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/EPG"
 
 # ===== RUSSIA =====
-#EXTINF:-1 group-title="Rus" tvg-id="dom-kino",Dom kino (576p)
+#EXTINF:-1 group-title="Rus" tvg-id="domkino",Dom kino (576p)
 http://stream.mcquack.net/236/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="evrokino",Evrokino HD (1080p)
 http://stream.mcquack.net/385/index.m3u8
