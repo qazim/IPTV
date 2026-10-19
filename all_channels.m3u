@@ -87,7 +87,7 @@ https://str.yodacdn.net/arb24/video.m3u8
 ############   azeri-muzik   #############
 ############   Catcast-Film-tv   #############
 #EXTINF:-1 group-title="Catcast-Film-tv",kino-1
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=38617&token=d2a5220f21813482032c6abfae43aba1&server=kino-1.catcast.tv
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=38617&token=543768d6f75d61b53cae0b5a7364c8c7&server=kino-1.catcast.tv
 # ===== AZERBAIJAN =====
 #EXTINF:-1 group-title="Azeri" tvg-id="APA TV",APA Tv (1080p)
 http://stream.apa.tv/apastream/index.m3u8
