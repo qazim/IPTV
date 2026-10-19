@@ -85,31 +85,9 @@ https://str.yodacdn.net/arb24/video.m3u8
 ############   Ulusal   #############
 ############   Iran-Music   #############
 ############   azeri-muzik   #############
-#EXTINF:-1 group-title="azeri-muzik",kanal-65
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=47437&token=8d4a4461028a094a5f2277d6cc892464&server=v2.catcast.tv
-#EXTINF:-1 group-title="azeri-muzik",now-music
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=48694&token=facc55e6fffbfcb991a5b1ca75ff7ab2&server=v2.catcast.tv
-#EXTINF:-1 group-title="azeri-muzik",rihatmusic
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=48076&token=0df569819b3fae1dd81a51c9e5ef38b5&server=v2.catcast.tv
-#EXTINF:-1 group-title="azeri-muzik",turkuzplay1
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=48591&token=ea8290e7e31f20e0927b6680b3b5d6ae&server=v2.catcast.tv
 ############   Catcast-Film-tv   #############
 #EXTINF:-1 group-title="Catcast-Film-tv",kino-1
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=38617&token=d2a5220f21813482032c6abfae43aba1&server=kino-1.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",Komedi-az-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50370&token=9f044b845572a32b61c286b164cd6530&server=v2.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",Fenix SSSR
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=963b02c1e6302d5d4d759bb493047879&server=v2.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",Detektiv-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=41327&token=9d6735e46826476a96132882ae0b717b&server=cityeden.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",Action-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=36517&token=fa3b845f115bfe7e16b3e5fe603b951d&server=v2.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",PlayerCinema-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50372&token=f915f224caba7ea95b5bce8fd7d3e60d&server=v2.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",PlayerFilmAzerbaycan-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=1cf5ba991ecc531d325819a4d0960e08&server=v2.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",Azeri-Retro filmler
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50852&token=bc23ec2d86ff33e8ca2f167eb4847b6e&server=v2.catcast.tv
 # ===== AZERBAIJAN =====
 #EXTINF:-1 group-title="Azeri" tvg-id="APA TV",APA Tv (1080p)
 http://stream.apa.tv/apastream/index.m3u8
