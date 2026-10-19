@@ -1,1 +1,5 @@
 update_all.sh
+server_m3u.py
+make_epg.py
+build_m3u.py
+chan_id.json

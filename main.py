@@ -111,7 +111,7 @@ def main():
     else:
         print(f"\nFile {catcast_config_path} Not found.")
 
-    with open('ru.m3u', "r", encoding="utf-8") as f:
+    with open('region.m3u', "r", encoding="utf-8") as f:
         f.readline()
         for line in f:
             final_playlist.append(line)
