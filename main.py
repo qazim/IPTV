@@ -1,12 +1,18 @@
 import re
 import requests
+import sys
+import io
 import json
 import os
-import tempfile
+from urllib.parse import urljoin
 from tqdm import tqdm
 
-wanted_names = ["azeri-muzik", "Catcast-Film-tv", "Cityeden-tv_5"]  
- 
+
+M3U_LIST ={
+    "az.m3u",
+    "tr.m3u"
+}
+       
 def get_stream_url(url, pattern, method="GET", headers={}, body={}):
     try:
         if method == "GET":
@@ -16,6 +22,7 @@ def get_stream_url(url, pattern, method="GET", headers={}, body={}):
         else:
             return None
 
+        # Сначала пробуем обычный паттерн
         results = re.findall(pattern, r.text)
         if results:
             first = results[0]
@@ -26,7 +33,7 @@ def get_stream_url(url, pattern, method="GET", headers={}, body={}):
         return None
     except:
         return None
-
+        
 def get_catcast_stream(channel_id):
     url = f"https://api.catcast.tv/api/channels/{channel_id}/getcurrentprogram"
     try:
@@ -40,59 +47,63 @@ def get_catcast_stream(channel_id):
     return None
 
 def main():
-    final_playlist = ["#EXTM3U url-tvg=\"https://qazim.github.io/IPTV/epg_small.xml.gz\" \n"]
-    
-    with open('TurkAzeri.m3u', "r", encoding="utf-8") as f:
-        f.readline()
-        for line in f:
-            final_playlist.append(line)
+    final_playlist = ['#EXTM3U url-tvg="https://iptvx.one/EPG"\n']
+    for file in M3U_LIST:
+        with open(file, "r", encoding="utf-8") as f:
+            for line in f:               
+                # чтобы они не дублировались в середине общего файла
+                if line.startswith("#EXTM3U"):
+                    continue
+                    
+                final_playlist.append(line)
 
-    # --- 1. Основной конфиг ---
+    # Заголовок плейлиста
+    # --- 1. Обработка ОСНОВНОГО конфига (Группа: Azeri-yerli) ---
     group_1 = "Turk ulusal"
     print(f">>> Обработка основного конфига (Группа: {group_1})...")
     try:
         with open('config.json', "r", encoding="utf-8") as f:
             main_config = json.load(f)
         
-        for site in main_config:
+        for site in main_config:  # ← эта строка пропущена!
             group_1 = site['name']
-            final_playlist.append(f'#####  {group_1}  #####\n')
+            final_playlist.append(f"############   {group_1}   #############\n")
             for channel in tqdm(site["channels"], desc=f"Сайт: {site['slug']}"):
                 url = site["url"]
                 for var in channel["variables"]:
                     url = url.replace(var["name"], var["value"])
                 
-                stream = get_stream_url(
-                    url,
-                    site["pattern"],
-                    method=site.get("method", "GET"),
-                    headers=site.get("headers", {})
-                )
-                
-                if stream and site["output_filter"] in stream:
-                    print('Add channel:', channel['name'])
-                    final_playlist.append(f'#EXTINF:-1 group-title="{group_1}",{channel["name"]}\n')
-                    final_playlist.append(f"{stream}\n")
+                    stream = get_stream_url(
+                        url,
+                        site["pattern"],
+                        method=site.get("method", "GET"),
+                        headers=site.get("headers", {})
+                    )
+                    
+                    if stream and site["output_filter"] in stream:
+                        #print('Add channel:', channel['name'])
+                        final_playlist.append(f'#EXTINF:-1 group-title="{group_1}",{channel["name"]}\n')
+                        final_playlist.append(f"{stream}\n")
     except Exception as e:
         print(f"Ошибка в основном конфиге: {e}")
-                
-    # --- 2. Catcast конфиг ---
+    
+    # --- 2. Обработка CATCAST конфига (Группа: Music) ---
     group_2 = "Music"
+    
+    #catcast_config_path = "catcast-config.json"
     catcast_config_path = "catcast_config.json"
     if os.path.exists(catcast_config_path):
-        print(f"\n>>> Processing Catcast config (only: {wanted_names})...")
+        print(f"\n>>> Processing Catcast config (Group: {group_2})...")
         try:
             with open(catcast_config_path, "r", encoding="utf-8") as f:
                 cat_config = json.load(f)
             for site in cat_config:
-                if site['name'] not in wanted_names:
-                    continue  # пропускаем всё, что не в списке
-                group_2 = site['name']
-                final_playlist.append(f'#####  {group_2}  #####\n')
+                group_2 = site['name']  
+                final_playlist.append(f"############   {group_2}   #############\n")
                 for channel in tqdm(site["channels"], desc="Catcast: " + site['name']):
                     stream = get_catcast_stream(channel.get("id"))
                     if stream:
-                        print(f'Add channel: {channel["slug"]}')
+                    # Добавляем group-title="Music"
                         final_playlist.append(f'#EXTINF:-1 group-title="{group_2}",{channel.get("slug")}\n')
                         final_playlist.append(f"{stream}\n")
         except Exception as e:
@@ -100,27 +111,17 @@ def main():
     else:
         print(f"\nFile {catcast_config_path} Not found.")
 
-    # --- ipt-org ---
-    canlitv_path = "regional.m3u"
-    final_playlist.append(f'#************ regional ***********\n')
-    if os.path.exists(canlitv_path):
-        print(">>> Add regional.m3u ...")
-        with open(canlitv_path, "r", encoding="utf-8") as f:
-            f.readline()
-            for line in f:
-                final_playlist.append(line)
-    # # --- Canlitv (генерируется вручную через Termux, IP-зависимый) ---
-    # if os.path.exists('canlitv.m3u'):
-        # print(">>> Добавление canlitv.m3u...")
-        # final_playlist.append(f'#************ canlitv.com ***********\n')
-        # with open('canlitv.m3u', "r", encoding="utf-8") as f:
-            # for line in f:
-                # final_playlist.append(line)                
-    # --- 3. Запись файла ---
+    with open('ru.m3u', "r", encoding="utf-8") as f:
+        f.readline()
+        for line in f:
+            final_playlist.append(line)
+            
+    # --- 3. ЗАПИСЬ В ЕДИНЫЙ ФАЙЛ ---
     with open("all_channels.m3u", "w", encoding="utf-8") as f:
         f.writelines(final_playlist)
-
-    print(f"\nReady! File 'all_channels.m3u' Created.")
+    
+    print(f"\n Ready! File 'all_channels.m3u' Created.")
+    print(f"Channels are divided into groups: '{group_1}' и '{group_2}'")
 
 if __name__ == "__main__":
     main()
