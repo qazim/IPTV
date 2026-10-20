@@ -101,31 +101,49 @@ https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
 #EXTINF:-1 group-title="Iran-Music",MTC
 https://mtchls.wns.live/hls/stream.m3u8
 ############   azeri-muzik   #############
-#EXTINF:-1 group-title="azeri-muzik",kanal-65
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=47437&token=8d4a4461028a094a5f2277d6cc892464&server=v2.catcast.tv
-#EXTINF:-1 group-title="azeri-muzik",now-music
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=48694&token=facc55e6fffbfcb991a5b1ca75ff7ab2&server=v2.catcast.tv
-#EXTINF:-1 group-title="azeri-muzik",rihatmusic
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=48076&token=0df569819b3fae1dd81a51c9e5ef38b5&server=v2.catcast.tv
-#EXTINF:-1 group-title="azeri-muzik",turkuzplay1
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=48591&token=ea8290e7e31f20e0927b6680b3b5d6ae&server=v2.catcast.tv
 ############   Catcast-Film-tv   #############
-#EXTINF:-1 group-title="Catcast-Film-tv",kino-1
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=38617&token=d2a5220f21813482032c6abfae43aba1&server=kino-1.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",Komedi-az-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50370&token=9f044b845572a32b61c286b164cd6530&server=v2.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",Fenix SSSR
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=963b02c1e6302d5d4d759bb493047879&server=v2.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",Detektiv-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=41327&token=9d6735e46826476a96132882ae0b717b&server=cityeden.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",Action-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=36517&token=fa3b845f115bfe7e16b3e5fe603b951d&server=v2.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",PlayerCinema-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50372&token=f915f224caba7ea95b5bce8fd7d3e60d&server=v2.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",PlayerFilmAzerbaycan-TV
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50472&token=1cf5ba991ecc531d325819a4d0960e08&server=v2.catcast.tv
-#EXTINF:-1 group-title="Catcast-Film-tv",Azeri-Retro filmler
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=50852&token=bc23ec2d86ff33e8ca2f167eb4847b6e&server=v2.catcast.tv
+# ===== AZERBAIJAN =====
+#EXTINF:-1 group-title="Azeri" tvg-id="APA TV",APA Tv (1080p)
+http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="Ayaz TV",Ayaz TV (720p)
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="aztv",Az TV (1080p)
+https://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="aztv",Az TV
+http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
+#EXTINF:-1 group-title="Azeri" tvg-id="aztv",Az TV
+https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="Baku TV",Baku.TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="ictimai-tv",Ictimai TV
+https://live.itv.az/itv.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="KanalS",Kanal S
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="Kapaz TV",Kapaz TV
+http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="medeniyyet",Medeniyyet TV (1080p)
+https://str.yodacdn.net/medeniyyettele/index.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="xezer",Xezer TV (720p)
+https://www.xezerxeber.az/stream/index.m3u8
+# ===== TURKEY =====
+#EXTINF:-1 group-title="Turk" tvg-id="360.tr",360 TV (720p) [Not 24/7]
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 group-title="Turk" tvg-id="a2-tr",A2TV (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1 group-title="Turk" tvg-id="atv-hd-tr",ATV (1080p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:-1 group-title="Turk" tvg-id="atv-hd-tr",ATV (360p)
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+#EXTINF:-1 group-title="Turk" tvg-id="kanal-d-hd",Kanal D (1080p)
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 group-title="Turk" tvg-id="fox-hd-tr",NOW TV (720p)
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 group-title="Turk" tvg-id="star-tv-hd-tr",Star TV (720p)
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
+#EXTINF:-1 group-title="Turk" tvg-id="TİVİ6.tr",Tivi 6 (720p)
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 group-title="Turk" tvg-id="trt-1-hd",TRT 1 (1440p)
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 # ===== RUSSIA =====
 #EXTINF:-1 group-title="Rus" tvg-id="domkino",Dom kino (576p)
 http://stream.mcquack.net/236/index.m3u8
