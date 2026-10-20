@@ -83,7 +83,23 @@ https://str.yodacdn.net/arb/video.m3u8
 #EXTINF:-1 group-title="Azeri" tvg-id="arb24",Arb24 TV (720p)
 https://str.yodacdn.net/arb24/video.m3u8
 ############   Ulusal   #############
+#EXTINF:-1 group-title="Ulusal",ATV-Turkey
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 group-title="Ulusal",Power-Taptaze
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 group-title="Ulusal",Cine5
+https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
+#EXTINF:-1 group-title="Ulusal",AzStar-TV
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 ############   Iran-Music   #############
+#EXTINF:-1 group-title="Iran-Music",T2-TV
+https://t2hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran-Music",Sun-Music
+https://hls.sunmusic.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Iran-Music",AFN-Music
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 group-title="Iran-Music",MTC
+https://mtchls.wns.live/hls/stream.m3u8
 ############   azeri-muzik   #############
 ############   Catcast-Film-tv   #############
 # ===== AZERBAIJAN =====

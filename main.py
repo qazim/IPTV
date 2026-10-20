@@ -122,6 +122,8 @@ def main():
                             final_playlist.append(f'#EXTINF:-1 group-title="{group_2}",{channel.get("slug")}\n')
                             final_playlist.append(f"{stream}\n")
                             print(f'Bulundu: {channel.get("slug")}')
+                    else:
+                        print(f'Bulunmadı..{channel.get("slug")}')
         except Exception as e:
             print(f"Error Catcast config: {e}")
     else:
