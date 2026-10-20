@@ -93,10 +93,11 @@ def main():
                     )
                     
                     if stream and site["output_filter"] in stream:
-                        #print('Add channel:', channel['name'])
                         final_playlist.append(f'#EXTINF:-1 group-title="{group_1}",{channel["name"]}\n')
                         final_playlist.append(f"{stream}\n")
                         print(f'Bulundu: {channel.get("name")}')
+                    else:
+                        print("Bulunmadı..")
     except Exception as e:
         print(f"Ошибка в основном конфиге: {e}")
     
