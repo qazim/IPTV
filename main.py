@@ -97,7 +97,7 @@ def main():
                         final_playlist.append(f"{stream}\n")
                         print(f'Bulundu: {channel.get("name")}')
                     else:
-                        print("Bulunmadı..")
+                        print(f'Bulunmadı..{channel.get("name")}')
     except Exception as e:
         print(f"Ошибка в основном конфиге: {e}")
     
