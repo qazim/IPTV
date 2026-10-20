@@ -8,6 +8,8 @@ https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/mai
 https://str.yodacdn.net/azertv/index.m3u8
 #EXTINF:-1 group-title="Azeri" tvg-id="aztv",Az TV
 http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
+#EXTINF:-1 group-title="Azeri" tvg-id="aztv",Az TV
+https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Azeri" tvg-id="Baku TV",Baku.TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 group-title="Azeri" tvg-id="ictimai-tv",Ictimai TV

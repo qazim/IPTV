@@ -45,6 +45,18 @@ def get_catcast_stream(channel_id):
     except:
         return None
     return None
+    
+def get_catcast_channel(channel_id):
+    url = channel_id
+    try:
+        r = requests.post(url, timeout=15)
+        if r.status_code == 200:
+            data = r.json()
+            if data.get("status") == 1:
+                return data.get("data", {}).get("full_mobile_url")
+    except:
+        return None
+    return None
 
 def main():
     final_playlist = ['#EXTM3U url-tvg="https://iptvx.one/EPG"\n']
@@ -68,7 +80,7 @@ def main():
         for site in main_config:  # ← эта строка пропущена!
             group_1 = site['name']
             final_playlist.append(f"############   {group_1}   #############\n")
-            for channel in tqdm(site["channels"], desc=f"Сайт: {site['slug']}"):
+            for channel in site["channels"]:
                 url = site["url"]
                 for var in channel["variables"]:
                     url = url.replace(var["name"], var["value"])
@@ -84,13 +96,13 @@ def main():
                         #print('Add channel:', channel['name'])
                         final_playlist.append(f'#EXTINF:-1 group-title="{group_1}",{channel["name"]}\n')
                         final_playlist.append(f"{stream}\n")
+                        print(f'Bulundu: {channel.get("name")}')
     except Exception as e:
         print(f"Ошибка в основном конфиге: {e}")
     
     # --- 2. Обработка CATCAST конфига (Группа: Music) ---
     group_2 = "Music"
     
-    #catcast_config_path = "catcast-config.json"
     catcast_config_path = "catcast_config.json"
     if os.path.exists(catcast_config_path):
         print(f"\n>>> Processing Catcast config (Group: {group_2})...")
@@ -100,12 +112,15 @@ def main():
             for site in cat_config:
                 group_2 = site['name']  
                 final_playlist.append(f"############   {group_2}   #############\n")
-                for channel in tqdm(site["channels"], desc="Catcast: " + site['name']):
+                for channel in site["channels"]:
                     stream = get_catcast_stream(channel.get("id"))
                     if stream:
                     # Добавляем group-title="Music"
-                        final_playlist.append(f'#EXTINF:-1 group-title="{group_2}",{channel.get("slug")}\n')
-                        final_playlist.append(f"{stream}\n")
+                        channel=get_catcast_channel(stream)
+                        if not channel ==None:
+                            final_playlist.append(f'#EXTINF:-1 group-title="{group_2}",{channel.get("slug")}\n')
+                            final_playlist.append(f"{stream}\n")
+                            print(f'Bulundu: {channel.get("slug")}')
         except Exception as e:
             print(f"Error Catcast config: {e}")
     else:
