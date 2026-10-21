@@ -9,8 +9,8 @@ from tqdm import tqdm
 
 
 M3U_LIST ={
-    "az.m3u",
-    "tr.m3u"
+    "tr.m3u",
+    "az.m3u"
 }
        
 def get_stream_url(url, pattern, method="GET", headers={}, body={}):
