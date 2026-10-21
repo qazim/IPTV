@@ -17,6 +17,7 @@ def get_stream_url(url, pattern, method="GET", headers={}, body={}):
     try:
         if method == "GET":
             r = requests.get(url, headers=headers, timeout=15)
+            print(f"  [{r.status_code}] len={len(r.text)} {url[:60]}")
         elif method == "POST":
             r = requests.post(url, json=body, headers=headers, timeout=15)
         else:
@@ -30,20 +31,29 @@ def get_stream_url(url, pattern, method="GET", headers={}, body={}):
                 return next((g for g in first if g), None)
             return first
 
-        return None
-    except:
+    except Exception as e:
+        print(f"  {url[:60]}: {type(e).__name__}: {e}")
         return None
         
 def get_catcast_stream(channel_id):
     url = f"https://api.catcast.tv/api/channels/{channel_id}/getcurrentprogram"
-    try:
-        r = requests.post(url, timeout=15)
-        if r.status_code == 200:
+    for send in (requests.post, requests.get):
+        try:
+            r = send(url, timeout=15)
+            if r.status_code != 200:
+                continue
             data = r.json()
-            if data.get("status") == 1:
-                return data.get("data", {}).get("full_mobile_url")
-    except:
-        return None
+            if data.get("status") != 1:
+                continue
+            d = data.get("data", {})
+            if not d.get("is_online"):
+                return None
+            base, tok = d.get("full_url"), d.get("token")
+            if base:
+                return f"{base}?token={tok}" if tok else base
+            return d.get("full_mobile_url")
+        except Exception as e:
+            print(f"  Catcast {channel_id}: {type(e).__name__}: {e}")
     return None
     
 def get_catcast_channel(channel_id):
@@ -114,16 +124,13 @@ def main():
                 group_2 = site['name']  
                 final_playlist.append(f"############   {group_2}   #############\n")
                 for channel in site["channels"]:
-                    stream = get_catcast_stream(channel.get("id"))
+                    stream = get_catcast_stream(channel["id"])
                     if stream:
-                    # Добавляем group-title="Music"
-                        channel=get_catcast_channel(stream)
-                        if not channel ==None:
-                            final_playlist.append(f'#EXTINF:-1 group-title="{group_2}",{channel.get("slug")}\n')
-                            final_playlist.append(f"{stream}\n")
-                            print(f'Bulundu: {channel.get("slug")}')
+                        final_playlist.append(f'#EXTINF:-1 group-title="{group_2}",{channel["slug"]}\n')
+                        final_playlist.append(f"{stream}\n")
+                        print(f'Bulundu: {channel["slug"]}')
                     else:
-                        print(f'Bulunmadı..{channel.get("slug")}')
+                        print(f'Bulunmadı: {channel["slug"]}')
         except Exception as e:
             print(f"Error Catcast config: {e}")
     else:

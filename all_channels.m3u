@@ -101,7 +101,33 @@ https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
 #EXTINF:-1 group-title="Iran-Music",MTC
 https://mtchls.wns.live/hls/stream.m3u8
 ############   azeri-muzik   #############
+#EXTINF:-1 group-title="azeri-muzik",kanal-65
+https://v2.catcast.tv/content/47437/index.m3u8?token=2ae90e5be74f7a9a62ad1c98fe5ad5d0
+#EXTINF:-1 group-title="azeri-muzik",now-music
+https://v2.catcast.tv/content/48694/index.m3u8?token=ac840b71f63ad584f97441dc4bbefe5f
+#EXTINF:-1 group-title="azeri-muzik",rihatmusic
+https://v2.catcast.tv/content/48076/index.m3u8?token=2cc6f39f215b4c4f86def59688eb256f
+#EXTINF:-1 group-title="azeri-muzik",turkuzplay1
+https://v2.catcast.tv/content/48591/index.m3u8?token=b831fb1354ab3d3e5a75b73c201c916d
 ############   Catcast-Film-tv   #############
+#EXTINF:-1 group-title="Catcast-Film-tv",kino-1
+https://kino-1.catcast.tv/content/38617/index.m3u8?token=14b7db6cdf07034ea06f1b4bb065d62c
+#EXTINF:-1 group-title="Catcast-Film-tv",Komedi-az-TV
+https://v2.catcast.tv/content/50370/index.m3u8?token=a996d4c78d08b40c2ef315a7666098e6
+#EXTINF:-1 group-title="Catcast-Film-tv",Strax-TV
+https://s.catcast.tv/content/34816/index.m3u8?token=8c84b0651ffcc85a539e9b29dc90e740
+#EXTINF:-1 group-title="Catcast-Film-tv",Fenix SSSR
+https://v2.catcast.tv/content/40102/index.m3u8?token=e60435c47df4b32c2435385ce12deccc
+#EXTINF:-1 group-title="Catcast-Film-tv",Detektiv-TV
+https://cityeden.catcast.tv/content/41327/index.m3u8?token=1cf4d6fc7dd1582e93da89ecfd3941e5
+#EXTINF:-1 group-title="Catcast-Film-tv",Action-TV
+https://v2.catcast.tv/content/36517/index.m3u8?token=7965e89f317188146bf2a291cd31b3c6
+#EXTINF:-1 group-title="Catcast-Film-tv",PlayerCinema-TV
+https://v2.catcast.tv/content/50372/index.m3u8?token=8509c442410a5affaf91cc2bca285927
+#EXTINF:-1 group-title="Catcast-Film-tv",PlayerFilmAzerbaycan-TV
+https://v2.catcast.tv/content/50472/index.m3u8?token=d4439c4da7ec349f530b1dc3e8edc76c
+#EXTINF:-1 group-title="Catcast-Film-tv",Azeri-Retro filmler
+https://v2.catcast.tv/content/50852/index.m3u8?token=b9b94ae727487b422e6798d6a91a27be
 # ===== AZERBAIJAN =====
 #EXTINF:-1 group-title="Azeri" tvg-id="APA TV",APA Tv (1080p)
 http://stream.apa.tv/apastream/index.m3u8
