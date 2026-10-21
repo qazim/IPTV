@@ -1,4 +1,31 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
+# ===== AZERBAIJAN =====
+#EXTINF:-1 group-title="Azeri" tvg-id="APA TV",APA Tv (1080p)
+http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="Ayaz TV",Ayaz TV (720p)
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="aztv",Az TV (1080p)
+https://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="Baku TV",Baku.TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="ictimai-tv",Ictimai TV
+https://live.itv.az/itv.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="KanalS",Kanal S
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="Kapaz TV",Kapaz TV
+http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="medeniyyet",Medeniyyet TV (1080p)
+https://str.yodacdn.net/medeniyyettele/index.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="naxcivan",Naxcivan TV (1080p)
+https://str.yodacdn.net/ntv/video.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="space",Space TV (720p)
+https://str.yodacdn.net/space/video.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="xezer",Xezer TV (720p)
+https://operativmm.az/xezer-hls/index.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="arb",Arb TV (720p)
+https://str.yodacdn.net/arb/video.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="arb24",Arb24 TV (720p)
+https://str.yodacdn.net/arb24/video.m3u8
 ######    T U R K I Y E   ##############
 #EXTINF:-1 tvg-id="trt-1-hd" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
@@ -55,51 +82,8 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Eglence", BEGEN TV
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 
-# ===== AZERBAIJAN =====
-#EXTINF:-1 group-title="Azeri" tvg-id="APA TV",APA Tv (1080p)
-http://stream.apa.tv/apastream/index.m3u8
-#EXTINF:-1 group-title="Azeri" tvg-id="Ayaz TV",Ayaz TV (720p)
-https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
-#EXTINF:-1 group-title="Azeri" tvg-id="aztv",Az TV (1080p)
-https://str.yodacdn.net/azertv/index.m3u8
-#EXTINF:-1 group-title="Azeri" tvg-id="Baku TV",Baku.TV
-https://rtmp.baku.tv/hls/bakutv.m3u8
-#EXTINF:-1 group-title="Azeri" tvg-id="ictimai-tv",Ictimai TV
-https://live.itv.az/itv.m3u8
-#EXTINF:-1 group-title="Azeri" tvg-id="KanalS",Kanal S
-https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
-#EXTINF:-1 group-title="Azeri" tvg-id="Kapaz TV",Kapaz TV
-http://85.132.78.122:8050/hls/stream/index.m3u8
-#EXTINF:-1 group-title="Azeri" tvg-id="medeniyyet",Medeniyyet TV (1080p)
-https://str.yodacdn.net/medeniyyettele/index.m3u8
-#EXTINF:-1 group-title="Azeri" tvg-id="naxcivan",Naxcivan TV (1080p)
-https://str.yodacdn.net/ntv/video.m3u8
-#EXTINF:-1 group-title="Azeri" tvg-id="space",Space TV (720p)
-https://str.yodacdn.net/space/video.m3u8
-#EXTINF:-1 group-title="Azeri" tvg-id="xezer",Xezer TV (720p)
-https://operativmm.az/xezer-hls/index.m3u8
-#EXTINF:-1 group-title="Azeri" tvg-id="arb",Arb TV (720p)
-https://str.yodacdn.net/arb/video.m3u8
-#EXTINF:-1 group-title="Azeri" tvg-id="arb24",Arb24 TV (720p)
-https://str.yodacdn.net/arb24/video.m3u8
 ############   Ulusal   #############
-#EXTINF:-1 group-title="Ulusal",ATV-Turkey
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:-1 group-title="Ulusal",Power-Taptaze
-https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 group-title="Ulusal",Cine5
-https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
-#EXTINF:-1 group-title="Ulusal",AzStar-TV
-https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 ############   Iran-Music   #############
-#EXTINF:-1 group-title="Iran-Music",T2-TV
-https://t2hls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Iran-Music",Sun-Music
-https://hls.sunmusic.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Iran-Music",AFN-Music
-https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
-#EXTINF:-1 group-title="Iran-Music",MTC
-https://mtchls.wns.live/hls/stream.m3u8
 ############   azeri-muzik   #############
 #EXTINF:-1 group-title="azeri-muzik",kanal-65
 https://v2.catcast.tv/content/47437/index.m3u8?token=2ae90e5be74f7a9a62ad1c98fe5ad5d0
