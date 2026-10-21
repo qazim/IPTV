@@ -8,10 +8,10 @@ from urllib.parse import urljoin
 from tqdm import tqdm
 
 
-M3U_LIST ={
+M3U_LIST = [
     "tr.m3u",
-    "az.m3u"
-}
+    "az.m3u",
+]
        
 def get_stream_url(url, pattern, method="GET", headers={}, body={}):
     try:
