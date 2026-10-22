@@ -18,7 +18,7 @@ http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 http://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="kanal-7-hd-tr" group-title="Ulusal",TR: Kanal 7 HD
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-id="trt-turk-tr" group-title="Ulusal",TRT Turk
+#EXTINF:-1 tvg-id="trt-turk-tr" group-title="Ulusal",TR: TRT Turk HD
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="beyaz-tv-tr" group-title="Ulusal",TR: Beyaz TV HD
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
@@ -26,17 +26,17 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 http://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:-1 group-title="Ulusal",TR: TV 4 HD
 http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1 tvg-id="TRTHaber.tr" group-title="Haber",TRT Haber
+#EXTINF:-1 tvg-id="TRTHaber.tr" group-title="Haber",TR: TRT Haber HD
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TGRTHaber.tr" group-title="Haber",TGRT Haber
+#EXTINF:-1 tvg-id="TGRTHaber.tr" group-title="Haber",TR: Tgrt Haber HD
 https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1 tvg-id="HaberturkTV.tr" group-title="Haber",Haberturk
+#EXTINF:-1 tvg-id="HaberturkTV.tr" group-title="Haber",TR: Haberturk HD
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
-#EXTINF:-1 tvg-id="HaberGlobal.tr" group-title="Haber",Haber Global
+#EXTINF:-1 tvg-id="HaberGlobal.tr" group-title="Haber",TR: Haber Global HD
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:-1 tvg-id="HalkTV.tr" group-title="Haber",Halk TV
+#EXTINF:-1 tvg-id="HalkTV.tr" group-title="Haber",TR: Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1 tvg-id="NTV.tr" group-title="Haber",NTV
+#EXTINF:-1 tvg-id="NTV.tr" group-title="Haber",TR: NTV HD
 http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 #EXTINF:-1 tvg-id="a2-tr" group-title="Eglence",TR: A2 TV HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
@@ -150,19 +150,19 @@ https://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1 group-title="Azeri" tvg-id="xezer",Xezer TV (720p)
 https://www.xezerxeber.az/stream/index.m3u8
 # ===== TURKEY =====
-#EXTINF:-1 group-title="Turk" tvg-id="atv-hd-tr",ATV (1080p)
+#EXTINF:-1 group-title="Turk" tvg-id="atv-hd-tr",TR: ATV HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
-#EXTINF:-1 group-title="Turk" tvg-id="kanal-d-hd",Kanal D (1080p)
+#EXTINF:-1 group-title="Turk" tvg-id="kanal-d-hd",TR: Kanal D HD
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
-#EXTINF:-1 group-title="Turk" tvg-id="star-tv-hd-tr",Star TV (720p)
+#EXTINF:-1 group-title="Turk" tvg-id="star-tv-hd-tr",TR: Star TV HD
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
-#EXTINF:-1 group-title="Turk" tvg-id="trt-1-hd",TRT 1 (1440p)
+#EXTINF:-1 group-title="Turk" tvg-id="trt-1-hd",TR: TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Turk" tvg-id="fox-hd-tr",NOW TV (720p)
+#EXTINF:-1 group-title="Turk" tvg-id="fox-hd-tr",TR: Now HD
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 group-title="Turk" tvg-id="a2-tr",A2TV (1080p)
+#EXTINF:-1 group-title="Turk" tvg-id="a2-tr",TR: A2 TV HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
-#EXTINF:-1 group-title="Turk" tvg-id="360.tr",360 TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="Turk" tvg-id="360.tr",TR: 360 HD
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 group-title="Turk" tvg-id="TİVİ6.tr",Tivi 6 (720p)
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
