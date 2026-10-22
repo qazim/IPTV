@@ -1,7 +1,7 @@
 name: run main.py
 on:
-  #schedule:
-  #  - cron: '23 */2 * * *'
+  schedule:
+    - cron: '23 */2 * * *'
   workflow_dispatch:
 permissions:
   contents: write

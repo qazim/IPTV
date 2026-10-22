@@ -82,24 +82,6 @@ https://operativmm.az/xezer-hls/index.m3u8
 https://str.yodacdn.net/arb/video.m3u8
 #EXTINF:-1 group-title="Azeri" tvg-id="arb24",Arb24 TV (720p)
 https://str.yodacdn.net/arb24/video.m3u8
-############   Ulusal   #############
-#EXTINF:-1 group-title="Ulusal",ATV-Turkey
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:-1 group-title="Ulusal",Power-Taptaze
-https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 group-title="Ulusal",Cine5
-https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
-#EXTINF:-1 group-title="Ulusal",AzStar-TV
-https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
-############   Iran-Music   #############
-#EXTINF:-1 group-title="Iran-Music",T2-TV
-https://t2hls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Iran-Music",Sun-Music
-https://hls.sunmusic.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Iran-Music",AFN-Music
-https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
-#EXTINF:-1 group-title="Iran-Music",MTC
-https://mtchls.wns.live/hls/stream.m3u8
 ############   azeri-muzik   #############
 #EXTINF:-1 group-title="azeri-muzik",kanal-65
 https://v2.catcast.tv/content/47437/index.m3u8?token=592c2c8c7b5065e9ad29779361ce34b5
@@ -132,7 +114,7 @@ https://v2.catcast.tv/content/50852/index.m3u8?token=728b9e9e800cc94fa8496d922ba
 https://v2.catcast.tv/content/50892/index.m3u8?token=893ed595672777316cbc5d44d5bc8e0a
 #EXTINF:-1 group-title="Catcast-Film-tv",playercinema-hind_filmleri-5
 https://v2.catcast.tv/content/50895/index.m3u8?token=81cf311e56c0bcaa779d9e6baff4bdfc
-#EXTINF:-1 group-title="Catcast-Film-tv",playercinema-premium5
+#EXTINF:-1 group-title="Catcast-Film-tv",playercinema-premium-5
 https://v2.catcast.tv/content/50961/index.m3u8?token=e2d62066c7f89bf79164809e1265d603
 # Generated automatically by build_m3u.py  http://epg.one/epg2.xml.gz
 
