@@ -1,0 +1,56 @@
+#EXTINF:-1 group-title="Milli",Space TV
+https://yayin2.canlitv.fun/live/spacetv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+#EXTINF:-1 group-title="Milli",Atv Azad TV
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+#EXTINF:-1 group-title="Milli",Xezer Tv
+https://yayin2.canlitv.fun/live/xezertv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+#EXTINF:-1 group-title="Milli",Az TV
+https://yayin2.canlitv.fun/live/aztv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+#EXTINF:-1 group-title="Milli",ARB TV
+https://yayin2.canlitv.fun/live/arb.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+#EXTINF:-1 group-title="Milli",ARB Gunes TV
+https://yayin2.canlitv.fun/live/arbgunes.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+#EXTINF:-1 group-title="Milli",ARB 24 TV
+https://yayin2.canlitv.fun/live/arb24.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+#EXTINF:-1 group-title="Milli",Medeniyet Tv
+https://yayin2.canlitv.fun/live/medeniyettv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+#EXTINF:-1 group-title="Milli",Kanal S Az
+https://yayin2.canlitv.fun/live/kanals.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+#EXTINF:-1 group-title="Milli",Gunaz Tv
+ https://tv.gunaz.tv/hls/live.m3u8
+#EXTINF:-1 group-title="Milli",CBC Tv
+https://yayin2.canlitv.fun/live/cbc.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+#EXTINF:-1 group-title="Milli",Dunya TV
+https://yayin2.canlitv.fun/live/dunyatv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+#EXTINF:-1 group-title="Milli",Az Star TV
+https://live.livestreamtv.ca/azstar/amlst:azstar/tracks-v1a1/mono.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+#EXTINF:-1 group-title="Milli",Baku TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1 group-title="Turk",TR: ATV HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+#EXTINF:-1 group-title="Turk",TR: Show HD
+https://yayin2.canlitv.fun/live/showtv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+#EXTINF:-1 group-title="Turk",TR: Star TV HD
+https://yayin2.canlitv.fun/live/startv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+#EXTINF:-1 group-title="Turk",TR: Kanal D HD
+https://yayin2.canlitv.fun/live/kanald.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+#EXTINF:-1 group-title="Turk",TR: TV8 HD
+https://yayin2.canlitv.fun/live/tv-8.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+#EXTINF:-1 group-title="Turk",TR: TLC HD
+https://yayin2.canlitv.fun/live/tlc.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+#EXTINF:-1 group-title="Turk",TR: Dmax HD
+https://yayin2.canlitv.fun/live/dmax.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+#EXTINF:-1 group-title="Turk",TR: Beyaz TV HD
+https://yayin2.canlitv.fun/live/beyaztv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+#EXTINF:-1 group-title="Turk",TR: Cine1 HD
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
+#EXTINF:-1 group-title="Turk",TR: Tivi6 HD
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+#EXTINF:-1 group-title="Turk",TR: 360 HD
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+#EXTINF:-1 group-title="Turk",TR: Cine5
+https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
+#EXTINF:-1 group-title="Turk",TR: Teve2 HD
+https://yayin2.canlitv.fun/live/teve2.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+#EXTINF:-1 group-title="Turk",TR: Tele1 HD
+https://tele1-live.ercdn.net/tele1/tele1.m3u8

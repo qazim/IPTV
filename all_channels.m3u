@@ -112,8 +112,6 @@ https://v2.catcast.tv/content/48591/index.m3u8?token=e344e78f1eaccb1489815e1148f
 ############   Catcast-Film-tv   #############
 #EXTINF:-1 group-title="Catcast-Film-tv",kino-1
 https://kino-1.catcast.tv/content/38617/index.m3u8?token=29002e66d37eb4342e68b4fb4bcc96f9
-#EXTINF:-1 group-title="Catcast-Film-tv",Komedi-az-TV
-https://v2.catcast.tv/content/50370/index.m3u8?token=1d013187cfbad60e73e492e635199417
 #EXTINF:-1 group-title="Catcast-Film-tv",Strax-TV
 https://s.catcast.tv/content/34816/index.m3u8?token=f000788053c10340e1af565c4cbb57b4
 #EXTINF:-1 group-title="Catcast-Film-tv",Fenix SSSR
@@ -122,12 +120,20 @@ https://v2.catcast.tv/content/40102/index.m3u8?token=c1125ce38f9f2750ee3fca7f8d1
 https://cityeden.catcast.tv/content/41327/index.m3u8?token=335348a9588bec944285962b7ff7452f
 #EXTINF:-1 group-title="Catcast-Film-tv",Action-TV
 https://v2.catcast.tv/content/36517/index.m3u8?token=63c607119607a7f868306eaa53295ffb
+#EXTINF:-1 group-title="Catcast-Film-tv",Komedi-az-TV
+https://v2.catcast.tv/content/50370/index.m3u8?token=1d013187cfbad60e73e492e635199417
 #EXTINF:-1 group-title="Catcast-Film-tv",PlayerCinema-TV
 https://v2.catcast.tv/content/50372/index.m3u8?token=d65bd1947e31093235a3f784566ca770
 #EXTINF:-1 group-title="Catcast-Film-tv",PlayerFilmAzerbaycan-TV
 https://v2.catcast.tv/content/50472/index.m3u8?token=373e7ae97362a1666838da0ebea189be
 #EXTINF:-1 group-title="Catcast-Film-tv",Azeri-Retro filmler
 https://v2.catcast.tv/content/50852/index.m3u8?token=728b9e9e800cc94fa8496d922ba9cb72
+#EXTINF:-1 group-title="Catcast-Film-tv",playercinema-hind_filmleri-2
+https://v2.catcast.tv/content/50892/index.m3u8?token=893ed595672777316cbc5d44d5bc8e0a
+#EXTINF:-1 group-title="Catcast-Film-tv",playercinema-hind_filmleri-5
+https://v2.catcast.tv/content/50895/index.m3u8?token=81cf311e56c0bcaa779d9e6baff4bdfc
+#EXTINF:-1 group-title="Catcast-Film-tv",playercinema-premium5
+https://v2.catcast.tv/content/50961/index.m3u8?token=e2d62066c7f89bf79164809e1265d603
 # Generated automatically by build_m3u.py  http://epg.one/epg2.xml.gz
 
 # ===== AZERBAIJAN =====
