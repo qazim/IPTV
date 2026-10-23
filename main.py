@@ -9,8 +9,7 @@ from tqdm import tqdm
 
 
 M3U_LIST = [
-    "tr.m3u",
-    "az.m3u",
+    "tr.m3u"
 ]
        
 def get_stream_url(url, pattern, method="GET", headers={}, body={}):
@@ -39,7 +38,7 @@ def get_catcast_stream(channel_id):
     url = f"https://api.catcast.tv/api/channels/{channel_id}/getcurrentprogram"
     for send in (requests.post, requests.get):
         try:
-            r = send(url, timeout=15)
+            r = send(url, timeout=10)
             if r.status_code != 200:
                 continue
             data = r.json()
@@ -59,7 +58,7 @@ def get_catcast_stream(channel_id):
 def get_catcast_channel(channel_id):
     url = channel_id
     try:
-        r = requests.post(url, timeout=15)
+        r = requests.post(url, timeout=10)
         if r.status_code == 200:
             data = r.json()
             if data.get("status") == 1:

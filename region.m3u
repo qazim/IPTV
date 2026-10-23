@@ -38,11 +38,11 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 group-title="Turk" tvg-id="TİVİ6.tr",Tivi 6 (720p)
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 # ===== RUSSIA =====
-#EXTINF:-1 group-title="Rus" tvg-id="fox",Fox (576p)
+#EXTINF:-1 group-title="Rus" tvg-id="fox",Fox HD
 http://stream.mcquack.net/182/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="Cinema",Cinema (576p)
+#EXTINF:-1 group-title="Rus" tvg-id="cinema-ru",Cinema
 http://flussonic.linkintel.ru/cinema/index.m3u8
-#EXTINF:-1 group-title="Rus" tvg-id="domkino",Dom kino (576p)
+#EXTINF:-1 group-title="Rus" tvg-id="domkino",Domkino
 http://stream.mcquack.net/236/index.m3u8
 #EXTINF:-1 group-title="Rus" tvg-id="domkino-premium",Dom kino Premium HD (1080p)
 http://stream.mcquack.net/108/index.m3u8
