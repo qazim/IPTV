@@ -12,27 +12,6 @@ M3U_LIST = [
     "tr.m3u"
 ]
        
-def get_stream_url(url, pattern, method="GET", headers={}, body={}):
-    try:
-        if method == "GET":
-            r = requests.get(url, headers=headers, timeout=15)
-            print(f"  [{r.status_code}] len={len(r.text)} {url[:60]}")
-        elif method == "POST":
-            r = requests.post(url, json=body, headers=headers, timeout=15)
-        else:
-            return None
-
-        # Сначала пробуем обычный паттерн
-        results = re.findall(pattern, r.text)
-        if results:
-            first = results[0]
-            if isinstance(first, tuple):
-                return next((g for g in first if g), None)
-            return first
-
-    except Exception as e:
-        print(f"  {url[:60]}: {type(e).__name__}: {e}")
-        return None
         
 def get_catcast_stream(channel_id):
     url = f"https://api.catcast.tv/api/channels/{channel_id}/getcurrentprogram"
@@ -78,38 +57,12 @@ def main():
                     
                 final_playlist.append(line)
 
-    # Заголовок плейлиста
-    # --- 1. Обработка ОСНОВНОГО конфига (Группа: Azeri-yerli) ---
-    # group_1 = "Turk ulusal"
-    # print(f">>> Обработка основного конфига (Группа: {group_1})...")
-    # try:
-        # with open('config.json', "r", encoding="utf-8") as f:
-            # main_config = json.load(f)
-        
-        # for site in main_config:  # ← эта строка пропущена!
-            # group_1 = site['name']
-            # final_playlist.append(f"############   {group_1}   #############\n")
-            # for channel in site["channels"]:
-                # url = site["url"]
-                # for var in channel["variables"]:
-                    # url = url.replace(var["name"], var["value"])
-                
-                    # stream = get_stream_url(
-                        # url,
-                        # site["pattern"],
-                        # method=site.get("method", "GET"),
-                        # headers=site.get("headers", {})
-                    # )
-                    
-                    # if stream and site["output_filter"] in stream:
-                        # final_playlist.append(f'#EXTINF:-1 group-title="{group_1}",{channel["name"]}\n')
-                        # final_playlist.append(f"{stream}\n")
-                        # print(f'Bulundu: {channel.get("name")}')
-                    # else:
-                        # print(f'Bulunmadı..{channel.get("name")}')
-    # except Exception as e:
-        # print(f"Ошибка в основном конфиге: {e}")
-    
+    with open('canlitv.m3u', "r", encoding="utf-8") as f:
+        f.readline()
+        for line in f:
+            if line.startswith("#EXTM3U"):
+                continue
+            final_playlist.append(line)    
     # --- 2. Обработка CATCAST конфига (Группа: Music) ---
     group_2 = "Music"
     

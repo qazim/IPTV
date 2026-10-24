@@ -20,23 +20,6 @@ http://85.132.78.122:8050/hls/stream/index.m3u8
 https://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1 group-title="Azeri" tvg-id="xezer",Xezer TV (720p)
 https://www.xezerxeber.az/stream/index.m3u8
-# ===== TURKEY =====
-#EXTINF:-1 group-title="Turk" tvg-id="atv-hd-tr",TR: ATV HD
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
-#EXTINF:-1 group-title="Turk" tvg-id="kanal-d-hd",TR: Kanal D HD
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
-#EXTINF:-1 group-title="Turk" tvg-id="star-tv-hd-tr",TR: Star TV HD
-https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
-#EXTINF:-1 group-title="Turk" tvg-id="trt-1-hd",TR: TRT 1 HD
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Turk" tvg-id="fox-hd-tr",TR: Now HD
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 group-title="Turk" tvg-id="a2-tr",TR: A2 TV HD
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
-#EXTINF:-1 group-title="Turk" tvg-id="360.tr",TR: 360 HD
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 group-title="Turk" tvg-id="TİVİ6.tr",Tivi 6 (720p)
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 # ===== RUSSIA =====
 #EXTINF:-1 group-title="Rus" tvg-id="fox",Fox HD
 http://stream.mcquack.net/182/index.m3u8
