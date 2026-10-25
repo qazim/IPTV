@@ -57,67 +57,67 @@ https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 
 ######### Turk ##########
 #EXTINF:-1 group-title="Turk" tvg-id="atv-canli",TR: ATV HD
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8?hash=bb504e08aafa6f1802409bdd7f2b541c
 #EXTINF:-1 group-title="Turk" tvg-id="show-tv-izle-1",TR: Show HD
-https://yayin2.canlitv.fun/live/showtv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/showtv.stream/playlist.m3u8?hash=af4cdf62b2b38e9ddcfdff9e1e85adbf
 #EXTINF:-1 group-title="Turk" tvg-id="star-tv-canli",TR: Star TV HD
-https://yayin2.canlitv.fun/live/startv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/startv.stream/playlist.m3u8?hash=bb504e08aafa6f1802409bdd7f2b541c
 #EXTINF:-1 group-title="Turk" tvg-id="kanal-d-canli-yayin",TR: Kanal D HD
-https://yayin2.canlitv.fun/live/kanald.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/kanald.stream/playlist.m3u8?hash=bb504e08aafa6f1802409bdd7f2b541c
 #EXTINF:-1 group-title="Turk" tvg-id="tv8-izle-4",TR: TV8 HD
-https://yayin2.canlitv.fun/live/tv-8.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/tv-8.stream/playlist.m3u8?hash=af4cdf62b2b38e9ddcfdff9e1e85adbf
 #EXTINF:-1 group-title="Turk" tvg-id="tlc",TR: TLC HD
-https://yayin2.canlitv.fun/live/tlc.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/tlc.stream/playlist.m3u8?hash=bb504e08aafa6f1802409bdd7f2b541c
 #EXTINF:-1 group-title="Turk" tvg-id="dmax-canli-yayin",TR: Dmax HD
-https://yayin2.canlitv.fun/live/dmax.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/dmax.stream/playlist.m3u8?hash=af4cdf62b2b38e9ddcfdff9e1e85adbf
 #EXTINF:-1 group-title="Turk" tvg-id="beyaz-tv",TR: Beyaz TV HD
-https://yayin2.canlitv.fun/live/beyaztv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/beyaztv.stream/playlist.m3u8?hash=af4cdf62b2b38e9ddcfdff9e1e85adbf
 #EXTINF:-1 group-title="Turk" tvg-id="cine-1",Cine1 HD
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 #EXTINF:-1 group-title="Turk" tvg-id="tivi6",TR: Tivi6 HD
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 group-title="Turk" tvg-id="360-tv",TR: 360 HD
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8?hash=bb504e08aafa6f1802409bdd7f2b541c
 #EXTINF:-1 group-title="Turk" tvg-id="cine-5",TR: Cine5
 https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
 #EXTINF:-1 group-title="Turk" tvg-id="tv2",TR: Teve2 HD
-https://yayin2.canlitv.fun/live/teve2.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/teve2.stream/playlist.m3u8?hash=af4cdf62b2b38e9ddcfdff9e1e85adbf
 #EXTINF:-1 group-title="Turk" tvg-id="tele1-tv",TR: Tele1 HD
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 ############   azeri-muzik   #############
 #EXTINF:-1 group-title="azeri-muzik",kanal-65
-https://v2.catcast.tv/content/47437/index.m3u8?token=37af870b5203c6178fe79f92c6eb592f
+https://v2.catcast.tv/content/47437/index.m3u8?token=4d16871a152b91a3a272e7d7e9f1da68
 #EXTINF:-1 group-title="azeri-muzik",now-music
-https://v2.catcast.tv/content/48694/index.m3u8?token=e8768237f294381845d56500ab7d1353
+https://v2.catcast.tv/content/48694/index.m3u8?token=fecd2053ee946bb214ab66f1840e11ca
 #EXTINF:-1 group-title="azeri-muzik",rihatmusic
-https://v2.catcast.tv/content/48076/index.m3u8?token=07a03c41067a12f68ca66019baa41834
+https://v2.catcast.tv/content/48076/index.m3u8?token=3ee33d984865033d11e4d2e73463c442
 #EXTINF:-1 group-title="azeri-muzik",turkuzplay1
-https://v2.catcast.tv/content/48591/index.m3u8?token=627c5331e33199105bb063c68621dc58
+https://v2.catcast.tv/content/48591/index.m3u8?token=4610337b38d63495fcaebb4068f9bccf
 ############   Catcast-Film-tv   #############
 #EXTINF:-1 group-title="Catcast-Film-tv",kino-1
-https://kino-1.catcast.tv/content/38617/index.m3u8?token=6a4467c842bfee06c4c4003385509747
+https://kino-1.catcast.tv/content/38617/index.m3u8?token=fee2bdfd6e2c7d693011b77bf7a77ea7
 #EXTINF:-1 group-title="Catcast-Film-tv",Strax-TV
-https://s.catcast.tv/content/34816/index.m3u8?token=df1ea12abc9e67ae73ed50bcd7955c6e
+https://s.catcast.tv/content/34816/index.m3u8?token=19f5a911bc61934761e98e40dafb7e34
 #EXTINF:-1 group-title="Catcast-Film-tv",Fenix SSSR
-https://v2.catcast.tv/content/40102/index.m3u8?token=8a86257d18b9ade9659ef0a1ee73e568
+https://v2.catcast.tv/content/40102/index.m3u8?token=31dd4c77249a4bc14de6899208144f7f
 #EXTINF:-1 group-title="Catcast-Film-tv",Detektiv-TV
-https://cityeden.catcast.tv/content/41327/index.m3u8?token=a48c3b55dc99e90872f4c45f81a3096d
+https://cityeden.catcast.tv/content/41327/index.m3u8?token=6fc25b88f510172894a40eb4246a529b
 #EXTINF:-1 group-title="Catcast-Film-tv",Action-TV
-https://v2.catcast.tv/content/36517/index.m3u8?token=a67ceaa2b2cfa4838e999df8c09a037f
+https://v2.catcast.tv/content/36517/index.m3u8?token=ce503fe50600dc42e1e0bedefcd342a2
 #EXTINF:-1 group-title="Catcast-Film-tv",Komedi-az-TV
-https://v2.catcast.tv/content/50370/index.m3u8?token=76b24d3898339fbcd9d0f75cb4c5607b
+https://v2.catcast.tv/content/50370/index.m3u8?token=74291df502ae983f6b3fdae77f9ab8b5
 #EXTINF:-1 group-title="Catcast-Film-tv",PlayerCinema-TV
-https://v2.catcast.tv/content/50372/index.m3u8?token=1d0918b0ab1a36e8e4c355cac915eded
+https://v2.catcast.tv/content/50372/index.m3u8?token=9d71a4d2355a229c4d0fcad5d62d5ec7
 #EXTINF:-1 group-title="Catcast-Film-tv",PlayerFilmAzerbaycan-TV
-https://v2.catcast.tv/content/50472/index.m3u8?token=89693e2a94279791306eeb224e4deafd
+https://v2.catcast.tv/content/50472/index.m3u8?token=baa08a4fabe7fa8f8aab4b2c326d7083
 #EXTINF:-1 group-title="Catcast-Film-tv",Azeri-Retro filmler
-https://v2.catcast.tv/content/50852/index.m3u8?token=48ec20b378c4465f51861058ea99a52b
+https://v2.catcast.tv/content/50852/index.m3u8?token=309ce8eacb63b0801c12eb5459f03940
 #EXTINF:-1 group-title="Catcast-Film-tv",playercinema-hind_filmleri-2
-https://v2.catcast.tv/content/50892/index.m3u8?token=a9b7751acda61fb5d705fa6446d3dcfc
+https://v2.catcast.tv/content/50892/index.m3u8?token=ed970e17355b52bd98c45945d8096f54
 #EXTINF:-1 group-title="Catcast-Film-tv",playercinema-hind_filmleri-5
-https://v2.catcast.tv/content/50895/index.m3u8?token=b104dc2b00c8fecd936ec67008e69c07
+https://v2.catcast.tv/content/50895/index.m3u8?token=350398affde47001759d68975ce10f4f
 #EXTINF:-1 group-title="Catcast-Film-tv",playercinema-premium-5
-https://v2.catcast.tv/content/50961/index.m3u8?token=cd175b0ea07f410ab3fc18fe0624088f
+https://v2.catcast.tv/content/50961/index.m3u8?token=dce64d7cb6a8837ce5b21a3c516e53b2
 # Generated automatically by build_m3u.py  http://epg.one/epg2.xml.gz
 
 # ===== AZERBAIJAN =====
