@@ -57,31 +57,31 @@ https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 
 ######### Turk ##########
 #EXTINF:-1 group-title="Turk" tvg-id="atv-canli",TR: ATV HD
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8?hash=05c7163668ea9c8fc8f470f6ec584639
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8?hash=9acb50b0231b9d5952dc908b289359dd
 #EXTINF:-1 group-title="Turk" tvg-id="show-tv-izle-1",TR: Show HD
-https://yayin2.canlitv.fun/live/showtv.stream/playlist.m3u8?hash=e04ffd2687aad773c9b5a43b8adca8b2
+https://yayin2.canlitv.fun/live/showtv.stream/playlist.m3u8?hash=3017f02c9c38cd6fed7c20e49c08ba5b
 #EXTINF:-1 group-title="Turk" tvg-id="star-tv-canli",TR: Star TV HD
-https://yayin2.canlitv.fun/live/startv.stream/playlist.m3u8?hash=e04ffd2687aad773c9b5a43b8adca8b2
+https://yayin2.canlitv.fun/live/startv.stream/playlist.m3u8?hash=3017f02c9c38cd6fed7c20e49c08ba5b
 #EXTINF:-1 group-title="Turk" tvg-id="kanal-d-canli-yayin",TR: Kanal D HD
-https://yayin2.canlitv.fun/live/kanald.stream/playlist.m3u8?hash=05c7163668ea9c8fc8f470f6ec584639
+https://yayin2.canlitv.fun/live/kanald.stream/playlist.m3u8?hash=3017f02c9c38cd6fed7c20e49c08ba5b
 #EXTINF:-1 group-title="Turk" tvg-id="tv8-izle-4",TR: TV8 HD
-https://yayin2.canlitv.fun/live/tv-8.stream/playlist.m3u8?hash=e04ffd2687aad773c9b5a43b8adca8b2
+https://yayin2.canlitv.fun/live/tv-8.stream/playlist.m3u8?hash=9acb50b0231b9d5952dc908b289359dd
 #EXTINF:-1 group-title="Turk" tvg-id="tlc",TR: TLC HD
-https://yayin2.canlitv.fun/live/tlc.stream/playlist.m3u8?hash=05c7163668ea9c8fc8f470f6ec584639
+https://yayin2.canlitv.fun/live/tlc.stream/playlist.m3u8?hash=3017f02c9c38cd6fed7c20e49c08ba5b
 #EXTINF:-1 group-title="Turk" tvg-id="dmax-canli-yayin",TR: Dmax HD
-https://yayin2.canlitv.fun/live/dmax.stream/playlist.m3u8?hash=05c7163668ea9c8fc8f470f6ec584639
+https://yayin2.canlitv.fun/live/dmax.stream/playlist.m3u8?hash=9acb50b0231b9d5952dc908b289359dd
 #EXTINF:-1 group-title="Turk" tvg-id="beyaz-tv",TR: Beyaz TV HD
-https://yayin2.canlitv.fun/live/beyaztv.stream/playlist.m3u8?hash=e04ffd2687aad773c9b5a43b8adca8b2
+https://yayin2.canlitv.fun/live/beyaztv.stream/playlist.m3u8?hash=9acb50b0231b9d5952dc908b289359dd
 #EXTINF:-1 group-title="Turk" tvg-id="cine-1",Cine1 HD
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 #EXTINF:-1 group-title="Turk" tvg-id="tivi6",TR: Tivi6 HD
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 group-title="Turk" tvg-id="360-tv",TR: 360 HD
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8?hash=05c7163668ea9c8fc8f470f6ec584639
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8?hash=3017f02c9c38cd6fed7c20e49c08ba5b
 #EXTINF:-1 group-title="Turk" tvg-id="cine-5",TR: Cine5
 https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
 #EXTINF:-1 group-title="Turk" tvg-id="tv2",TR: Teve2 HD
-https://yayin2.canlitv.fun/live/teve2.stream/playlist.m3u8?hash=05c7163668ea9c8fc8f470f6ec584639
+https://yayin2.canlitv.fun/live/teve2.stream/playlist.m3u8?hash=9acb50b0231b9d5952dc908b289359dd
 #EXTINF:-1 group-title="Turk" tvg-id="tele1-tv",TR: Tele1 HD
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 ############   azeri-muzik   #############
