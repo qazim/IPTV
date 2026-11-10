@@ -57,23 +57,23 @@ https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 
 ######### Turk ##########
 #EXTINF:-1 group-title="Turk" tvg-id="atv-canli",TR: ATV HD
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8?hash=3d9932077340386b407c64632f6e0251
 #EXTINF:-1 group-title="Turk" tvg-id="show-tv-izle-1",TR: Show HD
-https://yayin2.canlitv.fun/live/showtv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/showtv.stream/playlist.m3u8?hash=3d9932077340386b407c64632f6e0251
 #EXTINF:-1 group-title="Turk" tvg-id="star-tv-canli",TR: Star TV HD
 /modul/ajax-liste-vekil.php?k=99&u=aHR0cHM6Ly95YXlpbjIuY2FubGl0di5mdW4vbGl2ZS9zdGFydHYuc3RyZWFtL3BsYXlsaXN0Lm0zdTg&s=600a283f77f9334f496d
 #EXTINF:-1 group-title="Turk" tvg-id="kanal-d-canli-yayin",TR: Kanal D HD
-https://yayin2.canlitv.fun/live/kanald.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/kanald.stream/playlist.m3u8?hash=3d9932077340386b407c64632f6e0251
 #EXTINF:-1 group-title="Turk" tvg-id="tv8-izle-4",TR: TV8 HD
-https://yayin2.canlitv.fun/live/tv-8.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/tv-8.stream/playlist.m3u8?hash=3d9932077340386b407c64632f6e0251
 #EXTINF:-1 group-title="Turk" tvg-id="beyaz-tv",TR: Beyaz TV HD
-https://yayin2.canlitv.fun/live/beyaztv.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/beyaztv.stream/playlist.m3u8?hash=3d9932077340386b407c64632f6e0251
 #EXTINF:-1 group-title="Turk" tvg-id="tivi6",TR: Tivi6 HD
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 group-title="Turk" tvg-id="cine-5",TR: Cine5
 https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
 #EXTINF:-1 group-title="Turk" tvg-id="tv2",TR: Teve2 HD
-https://yayin2.canlitv.fun/live/teve2.stream/playlist.m3u8?hash=178ec9dac95d8b51ee6f99dc08a714a9
+https://yayin2.canlitv.fun/live/teve2.stream/playlist.m3u8?hash=3d9932077340386b407c64632f6e0251
 #EXTINF:-1 group-title="Turk" tvg-id="tele1-tv",TR: Tele1 HD
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 ############   azeri-muzik   #############
@@ -100,8 +100,6 @@ https://v2.catcast.tv/content/36517/index.m3u8?token=ef31bf9ac0e196beb4f1f14e9c9
 https://v2.catcast.tv/content/50370/index.m3u8?token=f26200cc93fad9d70bce536682006f87
 #EXTINF:-1 group-title="Catcast-Film-tv",PlayerCinema-TV
 https://v2.catcast.tv/content/50372/index.m3u8?token=e18f7f5974161a874e26239fc809224d
-#EXTINF:-1 group-title="Catcast-Film-tv",PlayerFilmAzerbaycan-TV
-https://v2.catcast.tv/content/50472/index.m3u8?token=bad16c5543af56864236de082fc767f1
 #EXTINF:-1 group-title="Catcast-Film-tv",Azeri-Retro filmler
 https://v2.catcast.tv/content/50852/index.m3u8?token=531d78e3832b98cd44502e34787b402b
 #EXTINF:-1 group-title="Catcast-Film-tv",playercinema-hind_filmleri-2
