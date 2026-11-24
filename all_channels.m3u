@@ -77,7 +77,23 @@ https://yayin2.canlitv.fun/live/teve2.stream/playlist.m3u8?hash=793f943c7f90674d
 #EXTINF:-1 group-title="Turk" tvg-id="tele1-tv",TR: Tele1 HD
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 ############   azeri-muzik   #############
+#EXTINF:-1 group-title="azeri-muzik",kanal-65
+https://v2.catcast.tv/content/47437/index.m3u8?token=71196f4bcc234fc65ae26919dcbf49cd
+#EXTINF:-1 group-title="azeri-muzik",now-music
+https://v2.catcast.tv/content/48694/index.m3u8?token=f66df7ce021c3f5f6a741d9bfc664adb
+#EXTINF:-1 group-title="azeri-muzik",rihatmusic
+https://v2.catcast.tv/content/48076/index.m3u8?token=66e2eaf05f4aa2baa4c30e731d807db9
+#EXTINF:-1 group-title="azeri-muzik",turkuzplay1
+https://v2.catcast.tv/content/48591/index.m3u8?token=40d8f313c4246c25f12d76fb9a12102d
 ############   Catcast-Film-tv   #############
+#EXTINF:-1 group-title="Catcast-Film-tv",kino-1
+https://kino-1.catcast.tv/content/38617/index.m3u8?token=a0f37b22bd29c0143671a59a5920dcee
+#EXTINF:-1 group-title="Catcast-Film-tv",Strax-TV
+https://s.catcast.tv/content/34816/index.m3u8?token=624446eb9427cc5061e2405c9ab69e2b
+#EXTINF:-1 group-title="Catcast-Film-tv",Fenix SSSR
+https://v2.catcast.tv/content/40102/index.m3u8?token=2f360749097f0a0e70c03570c48ed10f
+#EXTINF:-1 group-title="Catcast-Film-tv",Detektiv-TV
+https://cityeden.catcast.tv/content/41327/index.m3u8?token=e04fab582eff5d5f22e2046f7b403895
 #EXTINF:-1 group-title="Catcast-Film-tv",Action-TV
 https://v2.catcast.tv/content/36517/index.m3u8?token=3eff66dbc9efb72838b25487fc012a0b
 #EXTINF:-1 group-title="Catcast-Film-tv",Komedi-az-TV
