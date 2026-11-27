@@ -58,38 +58,38 @@ https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 ######### Turk ##########
 ############   azeri-muzik   #############
 #EXTINF:-1 group-title="azeri-muzik",kanal-65
-https://v2.catcast.tv/content/47437/index.m3u8?token=792c98531042d68fe4aa6dccb9e97b3e
+https://v2.catcast.tv/content/47437/index.m3u8?token=e6eba1ba73d22ce7286cb65e31f72da5
 #EXTINF:-1 group-title="azeri-muzik",now-music
-https://v2.catcast.tv/content/48694/index.m3u8?token=f462f3f64cd69025a255ff8b7976a316
+https://v2.catcast.tv/content/48694/index.m3u8?token=d7cdbaea090da7b0be021827d8eb8f3f
 #EXTINF:-1 group-title="azeri-muzik",rihatmusic
-https://v2.catcast.tv/content/48076/index.m3u8?token=a78e363f0cb3f5b45624ab15487e3c3d
+https://v2.catcast.tv/content/48076/index.m3u8?token=31d945b5c1ce1295397ca0109d3c22e5
 #EXTINF:-1 group-title="azeri-muzik",turkuzplay1
-https://v2.catcast.tv/content/48591/index.m3u8?token=e5ecb06c6270492d40ce2895ff2a9768
+https://v2.catcast.tv/content/48591/index.m3u8?token=030ed3f1b2d9d456df892ae9541ae7e4
 ############   Catcast-Film-tv   #############
 #EXTINF:-1 group-title="Catcast-Film-tv",kino-1
-https://kino-1.catcast.tv/content/38617/index.m3u8?token=ce55a643251f72520267d67eda275601
+https://kino-1.catcast.tv/content/38617/index.m3u8?token=8fc0d2a92f88a3a83112e08bb7449c8c
 #EXTINF:-1 group-title="Catcast-Film-tv",Strax-TV
-https://s.catcast.tv/content/34816/index.m3u8?token=4485de5e2098e8c6da0aeff9ac8bcff9
+https://s.catcast.tv/content/34816/index.m3u8?token=139123a0f47affea9a4fb0e8ccf2a1a3
 #EXTINF:-1 group-title="Catcast-Film-tv",Fenix SSSR
-https://v2.catcast.tv/content/40102/index.m3u8?token=dc294ffcce10aedf1c619212b6d51614
+https://v2.catcast.tv/content/40102/index.m3u8?token=f7d40b35c0acbdb132d6b6ec924edc45
 #EXTINF:-1 group-title="Catcast-Film-tv",Detektiv-TV
-https://cityeden.catcast.tv/content/41327/index.m3u8?token=09266648d1b38815b821e67a770bc32a
+https://cityeden.catcast.tv/content/41327/index.m3u8?token=89aec0f5d38b9c2d4be2e60adc6c8e1a
 #EXTINF:-1 group-title="Catcast-Film-tv",Action-TV
-https://v2.catcast.tv/content/36517/index.m3u8?token=9d759eab56a29e73c3446bedafc470fe
+https://v2.catcast.tv/content/36517/index.m3u8?token=c6f2062742a488d38f5374955f39aa54
 #EXTINF:-1 group-title="Catcast-Film-tv",Komedi-az-TV
-https://v2.catcast.tv/content/50370/index.m3u8?token=840f0cee0d9b917d1907127e39e182aa
+https://v2.catcast.tv/content/50370/index.m3u8?token=7efe649db112c57bc2aa9e4731e60437
 #EXTINF:-1 group-title="Catcast-Film-tv",PlayerCinema-TV
-https://v2.catcast.tv/content/50372/index.m3u8?token=59985ee0b08fe585ba147a9a62234a11
+https://v2.catcast.tv/content/50372/index.m3u8?token=adc958155243fb339449709f33786264
 #EXTINF:-1 group-title="Catcast-Film-tv",PlayerFilmAzerbaycan-TV
-https://v2.catcast.tv/content/50472/index.m3u8?token=94191343a2434758345a21684408fd78
+https://v2.catcast.tv/content/50472/index.m3u8?token=90ec1c51ea984b748b5abdf1ed858b8b
 #EXTINF:-1 group-title="Catcast-Film-tv",Azeri-Retro filmler
-https://v2.catcast.tv/content/50852/index.m3u8?token=688fcb3f0b56816b0145c5a977ea420b
+https://v2.catcast.tv/content/50852/index.m3u8?token=bc3cf5d3013bff3cb890d89db0e164d2
 #EXTINF:-1 group-title="Catcast-Film-tv",playercinema-hind_filmleri-2
-https://v2.catcast.tv/content/50892/index.m3u8?token=13380bace5988fde1e17e25b07ff447c
+https://v2.catcast.tv/content/50892/index.m3u8?token=5365c85b92153e16a90a309d82874274
 #EXTINF:-1 group-title="Catcast-Film-tv",playercinema-hind_filmleri-5
-https://v2.catcast.tv/content/50895/index.m3u8?token=0b0df0f3e2f4a31be40f06289849677d
+https://v2.catcast.tv/content/50895/index.m3u8?token=ddf720540895845075c1bc4efda5f052
 #EXTINF:-1 group-title="Catcast-Film-tv",playercinema-premium-5
-https://v2.catcast.tv/content/50961/index.m3u8?token=62ea12788ef659f6fdc813351088af8b
+https://v2.catcast.tv/content/50961/index.m3u8?token=9cefb9c1327f34fc664b3b965c0ea139
 # Generated automatically by build_m3u.py  http://epg.one/epg2.xml.gz
 
 # ===== AZERBAIJAN =====
