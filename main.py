@@ -57,12 +57,12 @@ def main():
                     
                 final_playlist.append(line)
 
-    with open('canlitv.m3u', "r", encoding="utf-8") as f:
-        f.readline()
-        for line in f:
-            if line.startswith("#EXTM3U"):
-                continue
-            final_playlist.append(line)    
+    # with open('canlitv.m3u', "r", encoding="utf-8") as f:
+        # f.readline()
+        # for line in f:
+            # if line.startswith("#EXTM3U"):
+                # continue
+            # final_playlist.append(line)    
     # --- 2. Обработка CATCAST конфига (Группа: Music) ---
     group_2 = "Music"
     

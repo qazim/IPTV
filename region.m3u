@@ -1,0 +1,41 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+# Generated automatically by build_m3u.py  http://epg.one/epg2.xml.gz
+
+# ===== AZERBAIJAN =====
+#EXTINF:-1 group-title="Azeri" tvg-id="aztv",Az TV
+https://az.tvstream.az/hls/stream9/index.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="Ayaz TV",Ayaz TV
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720p/720p.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="KanalS",Kanal S
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
+#EXTINF:-1 group-title="Azeri" tvg-id="xezer",Xezer TV (1080p)
+https://xezer.tvstream.az/hls/stream/index.m3u8
+# ===== RUSSIA =====
+#EXTINF:-1 group-title="Rus" tvg-id="cinema-ru",Cinema
+http://s7.merlive.am/sinema/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="domkino",Domkino
+http://s7.merlive.am/Domkino/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="indiyskoe-kino",Indiyskoye Kino (576p)
+http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kino-tv",Kino TV (576p)
+http://flussonic.linkintel.ru/kino-tv/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinoxit",KinoHit (576p)
+http://s7.merlive.am/Kinoxit/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinokomedia",Kinokomedija (576p)
+http://s7.merlive.am/Kinokomedia/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinomiks",Kinomix (576p)
+http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinopremiera-hd",Kinopremyera (1080p)
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinosemiya",Kinosemja (576p)
+http://s7.merlive.am/Kinosemya/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinouzhas",Kinouzhas (1080p)
+http://s7.merlive.am/Kinoujas/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinosvidanie",Kinosvidanie (576p)
+http://s7.merlive.am/Kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="nauka",Наука (576p)
+https://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="national-geographic",National Geographic (576p)
+http://s7.merlive.am/NationalGeographic/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="viasat-history",viju History (576p)
+http://178.124.179.122:8080/HistoryHD/index.m3u8
